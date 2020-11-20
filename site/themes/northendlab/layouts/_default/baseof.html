@@ -2,11 +2,11 @@
 <html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
     {{- partial "head.html" . -}}
     <body>
-        {{- partial "preloader.html" . -}}
-        {{- partial "header.html" . -}}
+        {{- partialCached "preloader.html" . -}}
+        {{- partialCached "header.html" . -}}
         {{ if not .IsHome }} <div class="py-5 d-none d-lg-block"></div> {{ end }}
         {{- block "main" . }}
         {{- end }}
-        {{- partial "footer.html" . -}}
+        {{- partialCached "footer.html" . -}}
     </body>
 </html>
