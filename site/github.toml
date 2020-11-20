@@ -1,0 +1,27 @@
+baseURL = "https://project-gutenberg.github.io/Pincong/"
+DEPLOY_PRIME_URL = "https://project-gutenberg.github.io/Pincong/"
+site_url = "https://project-gutenberg.github.io/Pincong/"
+relativeURLs = true
+languageCode = "zh-cn"
+title = "品葱*精选"
+author = "品葱*精选"
+description = "在自由的阳光下各抒己见"
+theme = "northendlab"
+googleAnalitycsID = "UA-151212685-6"
+copyright = "Copyright © 品葱*精选"
+enableRobotsTXT = true
+disableAliases = true
+googleAnalytics = "UA-151212685-6"
+summaryLength = 50
+media_folder = "site/static/images/uploads"
+public_folder = "images/uploads"
+disqusShortname = "pin-cong-jing-xuan"
+######################### Default Parameters ###########################
+[params]
+# home
+home = "Home"
+# logo
+logo = "/images/logo.png"
+DEPLOY_PRIME_URL = "https://project-gutenberg.github.io/Pincong/"
+DEPLOY_PRIME_URL2 = "https://raw.githubusercontent.com/speechfree/StandWithHongKong_TreeHole/gh-pages"
+googleAnalitycsID = "UA-151212685-6"

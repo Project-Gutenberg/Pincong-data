@@ -1,0 +1,33 @@
+name: github clean
+on:
+ schedule:
+  - cron: "0 20 */5 * *"
+#on:
+# push:
+#  branches:
+#   - master
+
+#        git config --global credential.helper store
+#        ps: Add-Content -Path "$HOME\.git-credentials" -Value "https://${{ secrets.PERSONAL_TOKEN }}:x-oauth-basic@github.com`n" -NoNewline
+
+jobs:
+  build-hugo:
+    runs-on: ubuntu-18.04
+    steps:
+    - name: Git clone
+      uses: actions/checkout@master
+    - name: Git clean
+      run: |
+        rm -rf .git
+        git init
+        git config --global user.email "Your email"
+        git config --global user.name "Your Name"
+        git add --all
+        git commit -am "Initial commit"
+
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        force: true
+        branch: master
+        github_token: ${{ secrets.PERSONAL_TOKEN }}

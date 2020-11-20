@@ -1,0 +1,122 @@
+
+[outputs]
+home = ["HTML", "RSS"]
+section = ["HTML", "RSS"]
+
+[permalinks]
+    post = "/post/:filename"
+
+[taxonomies]
+    tag = "tags"
+    archive = "archives"
+    author = "author"
+
+[mediaTypes."text/netlify"]
+suffixes = [""]
+delimiter = ""
+
+# add output format for netlify _redirects
+[outputFormats.REDIRECTS]
+mediatype = "text/netlify"
+baseName = "_redirects"
+isPlainText = true
+notAlternative = true
+
+# add output format for netlify _headers
+[outputFormats.HEADERS]
+mediatype = "text/netlify"
+baseName = "_headers"
+isPlainText = true
+notAlternative = true
+
+# [outputFormats.JSON]
+# mediaType = "application/json"
+# baseName = "index"
+
+
+# css plugins
+[[params.plugins.css]]
+URL = "/plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+URL = "/plugins/themify-icons/themify-icons.css"
+
+# js plugins
+[[params.plugins.js]]
+URL = "/plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+URL = "/plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+URL = "/plugins/search/fuse.min.js"
+[[params.plugins.js]]
+URL = "/plugins/search/mark.js"
+[[params.plugins.js]]
+URL = "/plugins/search/search.js"
+
+
+########################### Navigation ###################################
+
+# main menu
+[[menu.main]]
+URL = "/post/index.xml"
+name = "RSS"
+weight = 1
+
+[[menu.main]]
+URL = "https://t.me/featuredofpincong"
+name = "Telegram"
+weight = 1
+
+# [[menu.main]]
+# URL = "link"
+# name = "反送中相关网站"
+# weight = 2
+
+# # footer menu
+# [[menu.footer]]
+# URL = "contact"
+# name = "Contact"
+# weight = 1
+
+# [[menu.footer]]
+# URL = "tools"
+# name = "tools"
+# weight = 2
+
+
+# search
+# [params.search]
+# enable = true
+
+
+####################### banner #######################################
+[params.banner]
+bgImage = "/images/banner/freedom-of-speech.jpg"
+title = "在自由的阳光下各抒己见"
+image = "/images/banner/"
+
+
+######################## call to action ###############################
+[params.cta]
+enable = false
+image = "/images/hugo-muscot.svg"
+title = "Fight for Freedom and Stand With Hong Kong"
+description = "結局會怎樣我們不知道，但就肩並肩，說出你真實所見、所思、所想，對得起自己，一起見證歷史吧。"
+[params.cta.button]
+enable = true
+label = "Submit here"
+link = "https://docs.google.com/forms/d/e/1FAIpQLSeR_JRiGo4y5inWer3VcvKRS9x2nHwKAxmFHy3Gk7KkvI6_ug/viewform"
+
+
+############################## Social Site ##########################
+[[params.social]]
+icon = "ti-home" # themify icon pack https://themify.me/themify-icons
+link = "https://pincong.rocks/"
+# [[params.social]]
+# icon = "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
+# link = "https://twitter.com/midwaydude/status/1200278195741720576?s=19"
+[[params.social]]
+icon = "ti-github" # themify icon pack https://themify.me/themify-icons
+link = "https://github.com/Project-Gutenberg/Pincong"
+# [[params.social]]
+# icon = "ti-linkedin" # themify icon pack https://themify.me/themify-icons
+# link = "#"

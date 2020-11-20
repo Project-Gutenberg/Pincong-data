@@ -1,0 +1,34 @@
+<head>
+  <meta charset="utf-8">
+  <title>{{ .Title }}</title>
+
+  {{ "<!-- mobile responsive meta -->" | safeHTML }}
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="{{ with .Summary }} {{ . }} {{else}} {{.Site.Params.cta.description}}{{end}}">
+  {{ with .Site.Params.author }}
+  <meta name="author" content="{{ . }}">{{ end }}
+  {{ hugo.Generator }}
+
+  {{ "<!-- plugins -->" | safeHTML }}
+  {{ range .Site.Params.plugins.css }}
+  <link rel="stylesheet" href="{{ .Site.Params.DEPLOY_PRIME_URL }}{{ .URL }}">
+
+  {{ end }}
+
+  {{ "<!-- Main Stylesheet -->" | safeHTML }}
+  {{ $styles := resources.Get "scss/style.scss" | toCSS | minify }}
+  <link rel="stylesheet" href="{{ $styles.Permalink | absURL }}" media="screen">
+
+  {{ "<!--Favicon-->" | safeHTML }}
+  <link rel="shortcut icon" href="{{ "images/favicon.png" | absURL }} " type="image/x-icon">
+  <link rel="icon" href="{{ "images/favicon.png" | absURL }} " type="image/x-icon">
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image">
+  <!-- END -->
+  <!-- OG -->
+  <meta name="og:title" content=" {{.Title}} ">
+  <meta name="og:description" content="{{ with .Summary }} {{ . }} {{else}} {{.Site.Params.cta.description}}{{end}}">
+  <meta name="og:image" content="{{ .Site.Params.DEPLOY_PRIME_URL }}/images/card/{{ index (seq 200 | shuffle) 0 }}.jpg">
+  <!-- END -->
+<script data-ad-client="ca-pub-6074407261372769" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+</head>

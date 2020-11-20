@@ -1,0 +1,52 @@
+{{ define "main" }}
+
+<section class="main-content">
+  <div class="container">
+    <div class="row">
+      {{ $deploy_url := .Site.Params.DEPLOY_PRIME_URL}}
+      <div class="col-lg-8 mx-auto block shadow mb-5">
+        <h2>{{ .Title | markdownify }}</h2>
+        <div class="mb-3"><span>by <a
+              href="{{ $deploy_url }}author/{{ .Params.Author | urlize | lower }}">{{ .Params.Author | title | humanize }}</a></span>,
+          <span>at {{ .PublishDate.Format "02 January 2006" }}</span>, tags :
+          {{ range .Params.Tags }}
+          <a href="{{ $deploy_url }}{{ "tags/" }}{{ . | urlize | lower }}">{{ . | title | humanize }}</a>
+          {{ end }}
+          <a href="https://github.com/Project-Gutenberg/Pincong/edit/master/site/content/post/{{ .File.BaseFileName }}.md" style="color:gray"><strong><i>点击纠错</i></strong></a>
+          <i> </i>
+          <a href="https://github.com/Project-Gutenberg/Pincong/delete/master/site/content/post/{{ .File.BaseFileName }}.md" style="color:gray"><strong><i>点击删除</i></strong></a>
+        </div>
+<!--         <h5> <a href="https://www.digitalocean.com/?refcode=4351d40e44b2&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=CopyPaste">最简单好用的 VPS,没有之一，注册立得 100 美金</a></h5> -->
+        <h5><a href="https://justmysocks.net/members/aff.php?aff=13681">使用CN2/CN2GIA顶级线路，支持Shadowsocks/V2ray科学上网，支持支付宝付款，每月仅需 5 美元</a></h5>
+
+        <h5><a href="https://t.me/featuredofpincong">## 加入品葱精选 Telegram Channel ##</a></h5>
+        <p></p>
+        {{ if .Params.Image }}
+        <img src="{{ .Site.Params.DEPLOY_PRIME_URL }}{{ .Params.Image }}" class="img-fluid w-100 mb-4"
+          alt="{{ .Title | markdownify }}">
+        {{ end }}
+
+        {{ .Content }}
+        <h5> <a href="https://www.digitalocean.com/?refcode=4351d40e44b2&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=CopyPaste">最简单好用的 VPS,没有之一，注册立得 100 美金</a></h5>
+      </div>
+      <div class="col-lg-8 mx-auto block shadow">
+        <!-- comments -->
+        {{ template "_internal/disqus.html" . }}
+      </div>
+      <div class="col-lg-8 mx-auto block shadow">
+        {{ partial "related.html" . }}
+      </div>
+
+    </div>
+  </div>
+</section>
+<script>
+  var images = document.getElementsByTagName("img");
+  var i;
+
+  for (i = 0; i < images.length; i++) {
+    images[i].className += "img-fluid w-100 mb-4";
+  }
+</script>
+
+{{ end }}

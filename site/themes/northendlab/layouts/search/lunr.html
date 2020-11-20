@@ -1,0 +1,58 @@
+{{ define "main" }}
+<div>
+    <form method="get" action="">
+        <input id="search" name="q" type="text" />
+        <button type="submit" class="button">Search</button>
+        <a href="/search">Clear</a>
+    </form>
+    <div id="#app"></div>
+
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script src="http://elasticlunr.com/elasticlunr.min.js"></script>
+    <!-- Generate a list of posts so we can display them -->
+    {{ $p := slice }}
+    {{ range (where .Site.RegularPages "Section" "==" "post") }}
+    {{ $post := dict "link" .RelPermalink "title" .Title "content" (substr .Plain 0 200) -}}
+    {{ $p = $p | append $post -}}
+    {{ end }}
+    <script>
+        const posts = JSON.parse({{ $p | jsonify }});
+        const query = new URLSearchParams(window.location.search);
+        const searchString = query.get('q');
+        document.querySelector('#search').value = searchString;
+        const $target = document.querySelector('#app');
+        // Our index uses title as a reference
+        const postsByTitle = posts.reduce((acc, curr) => {
+            acc[curr.title] = curr;
+            return acc;
+        }, {});
+        fetch('/index.json').then(function (res) {
+            return res.json();
+        }).then(function (data) {
+            index = elasticlunr(function () {
+                this.addField('title');
+                this.addField('content');
+                this.addField('summary');
+                this.setRef('ref');
+            });
+            $.each(data, function (key, val) {
+                // I filter out a some items here if they are not needed
+                if (val.content.length !== 0 && val.summary.length !== 0) {
+                    index.addDoc(val);
+                }
+            });
+
+            var results = index.search(searchString, {
+                fields: {
+                    title: { boost: 3 },
+                    description: { boost: 2 },
+                    content: { boost: 1 }
+                },
+                bool: "OR",
+            });
+            console.log("searchString", searchString)
+            console.log("results", results)
+        })
+    </script>
+</div>
+{{ end }}

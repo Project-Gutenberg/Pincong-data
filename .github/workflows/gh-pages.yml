@@ -1,0 +1,43 @@
+name: github pages
+
+on:
+#  schedule:
+#   - cron: "0 20 * * *"
+  push:
+    branches:
+    - master
+
+jobs:
+  build-hugo:
+    runs-on: ubuntu-18.04
+    steps:
+    - uses: actions/checkout@master
+      # with:
+      #   submodules: true
+
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2
+      with:
+        hugo-version: '0.58.2'
+        extended: true
+
+#     - name: Setup Node
+#       uses: actions/setup-node@v1
+#       with:
+#         node-version: '12.x'
+  
+    - name: Build Hogo
+      run: hugo --templateMetrics --templateMetricsHints --config github.toml,base.toml -d ../public -s site -v
+
+#     - name: npm Install
+#       run: npm install
+
+#     - name: Build search index
+#       run: npm run build:search
+
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v2.5.0
+      env:
+        PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+        PUBLISH_BRANCH: gh-pages
+        PUBLISH_DIR: ./public

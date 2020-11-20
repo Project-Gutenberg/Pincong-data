@@ -1,0 +1,16 @@
+---
+  schools:
+  - title: 中国科学技术大学
+    short: ustc
+    school:
+    - image: "/images/school/1.png"  
+      
+  - title: 四川大学
+    short: scu
+    school:
+    - image: "/images/school/2.jpg"
+  
+  - title: 浙江大学
+    short: zju
+    school:
+    - image: "/images/school/3.jpg"

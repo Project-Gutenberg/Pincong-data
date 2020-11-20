@@ -1,0 +1,58 @@
+{{ define "main" }}
+
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-3">
+        <div class="nav nav-tab flex-column" role="tablist" aria-orientation="vertical">
+          {{ range $index, $elemen:= ( sort .Site.Data.schools.schools "short" ) }}
+          <a class="nav-link {{ if eq $index 0}} active {{ end }}" data-toggle="pill" href="#{{.short | urlize}}"
+            role="tab">{{ .title }}</a>
+          {{ end }}
+        </div>
+      </div>
+      <div class="col-9">
+        <div class="tab-content">
+          {{ range $index, $elemen:= .Site.Data.schools.schools }}
+          <div class="tab-pane fade {{ if eq $index 0}} show active {{ end }}" id="{{.short | urlize}}" role="tabpanel">
+            <div class="row">
+              {{ range .school}}
+              <div class="col-md-6 mb-4">
+                <div class="card border-0 shadow embed-responsive embed-responsive-1by1">
+                  <a href="#" class="pop">
+                    <img src="{{ .Site.Params.DEPLOY_PRIME_URL }}{{ .image }}" alt="{{ .name | markdownify }}"
+                      class="card-img-top embed-responsive-item img-fluid img-thumbnail">
+                  </a>
+                  <div class="modal fade" id="imagemodal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
+                    aria-hidden="true">
+                    <div class="modal-dialog">
+                      <div class="modal-content">
+                        <div class="modal-body">
+                          <button type="button" class="close" data-dismiss="modal"><span
+                              aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                          <img src="" class="imagepreview" style="width: 100%; height: 100%;">
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              {{ end }}
+            </div>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+  <script>
+    $(function () {
+      $('.pop').on('click', function () {
+        $('.imagepreview').attr('src', $(this).find('img').attr('src'));
+        $('#imagemodal').modal('show');
+      });
+    });
+  </script>
+</section>
+
+{{ end }}
