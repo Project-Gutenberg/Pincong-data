@@ -10,7 +10,7 @@
                 <h2 class="mb-4">Posts Related tag {{ $tag }}</h2>
                 <div class="bg-white shadow block">
                     {{ $name:= .Title }}
-                    {{ range $key, $value := .Site.Taxonomies.tags }}{{ if eq $key $tag }}{{ range $value.Pages }}
+                    {{ range $key, $value := .Site.Taxonomies.tags }}{{ if eq $key $tag }}{{ range first 5 $value.Pages }}
                     <article class="mb-5">
                         <h2 class="h4"><a class="text-dark" href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h2>
                         <div class="mb-3"><span>by <a
