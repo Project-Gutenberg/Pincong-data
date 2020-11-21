@@ -4,7 +4,7 @@ Lastmod: 2020-06-29T01:58:21.287559+00:00
 date: 2020-06-29T01:58:21.287268+00:00
 title: "资本市场对MCN的追捧应该永远结束了"
 author: "怪盗团团长裴培"
-tags: [MCN,网红,头部,UP,资本,带货,垂类,腰部,电商,2019]
+tags: [MCN,网红,头部,资本,带货,垂类,腰部,电商,2019]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_jpg/b2YlTLuGbKBZ1w1XkicHzCeIXg4rJIYkxADuRvVbiciboIIA5ElTmkxrPhZsFJ6fTgogicUNE6riasEEVtPVrV6a5rA/640%3Fwx_fmt%3Djpeg)

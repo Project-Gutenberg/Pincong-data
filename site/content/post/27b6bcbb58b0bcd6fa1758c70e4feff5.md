@@ -4,7 +4,7 @@ Lastmod: 2020-06-21T16:09:17.585695+00:00
 date: 2020-06-21T16:09:15.622279+00:00
 title: "方舟子推特合集（34）2015.04.11-15"
 author: "方舟子"
-tags: [fangshimin,Apr,方舟子,com,https,pbs,large,jpg,twimg,media,新语丝]
+tags: [fangshimin,Apr,方舟子,large,新语丝]
 ---
 
 方舟子推特合集（34）2015.04.11-15

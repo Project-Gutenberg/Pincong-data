@@ -4,7 +4,7 @@ Lastmod: 2020-06-21T15:36:23.059898+00:00
 date: 2020-06-21T15:36:20.634723+00:00
 title: "方舟子推特合集（66）2015.09.26-30"
 author: "方舟子"
-tags: [方舟子,fangshimin,Sep,com,twimg,pbs,media,https,jpg,司马,新语丝]
+tags: [方舟子,fangshimin,司马,新语丝]
 ---
 
 方舟子推特合集（66）2015.09.26-30

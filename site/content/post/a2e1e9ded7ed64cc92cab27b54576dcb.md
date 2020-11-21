@@ -4,7 +4,7 @@ Lastmod: 2020-06-21T13:41:19.026477+00:00
 date: 2020-06-21T13:41:17.018590+00:00
 title: "北大数学学院的怪事"
 author: "高山"
-tags: [Hu,Yang,Jun,博士生,element,biharmonic,Xueqin,methods,数学,博导,新语丝]
+tags: [Yang,博士生,element,biharmonic,Xueqin,methods,数学,博导,新语丝]
 ---
 
 北大数学学院的怪事

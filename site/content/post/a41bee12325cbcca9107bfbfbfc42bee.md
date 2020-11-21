@@ -4,7 +4,7 @@ Lastmod: 2020-06-21T13:49:19.654612+00:00
 date: 2020-06-21T13:49:17.710907+00:00
 title: "方舟子推特合集（159）2017.3.1-5"
 author: "方舟子"
-tags: [方舟子,com,twimg,Mar,pbs,media,account,Verified,fangshimin,https,新语丝]
+tags: [方舟子,Mar,fangshimin,新语丝]
 ---
 
 方舟子推特合集（159）2017.3.1-5

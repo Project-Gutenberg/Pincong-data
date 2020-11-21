@@ -4,7 +4,7 @@ Lastmod: 2020-06-21T16:15:36.972290+00:00
 date: 2020-06-21T16:15:33.962718+00:00
 title: "关于“电子纸之父”"
 author: "MVSM"
-tags: [EInk,国富,纸之父,电子,http,Osmosis,IRX,Electro,html,com,新语丝]
+tags: [EInk,国富,纸之父,电子,Osmosis,IRX,Electro,html,新语丝]
 ---
 
 关于“电子纸之父”

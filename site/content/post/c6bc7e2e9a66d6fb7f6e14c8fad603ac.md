@@ -4,7 +4,7 @@ Lastmod: 2020-04-08T05:14:21.392192+00:00
 date: 2020-04-08T05:14:21.391847+00:00
 title: "直击武汉解封：完成使命的医院将何去何从"
 author: "活粒"
-tags: [nbsp,医院,体育馆,方舱,王美萍,武汉,神山,新冠]
+tags: [医院,体育馆,方舱,王美萍,武汉,神山,新冠]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_gif/ia1nxOhDj7ATLLyQibBg0j84iammJvD6rJp6eaCp56o3B7Y30PoXFefxCesWTRQ0KynVx6tj7DZSOFQeRIUy5QTtg/640%3Fwx_fmt%3Dgif)

@@ -4,7 +4,7 @@ Lastmod: 2020-06-26T17:28:08.563826+00:00
 date: 2020-06-26T17:28:08.562940+00:00
 title: "都知道《隐秘的角落》火了，它到底怎么火的？| DT数说"
 author: "不敢爬山的DT君"
-tags: [隐秘,角落,DT,这部,豆瓣,观众,片头,配乐,作品]
+tags: [隐秘,角落,这部,豆瓣,观众,片头,配乐,作品]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_gif/bMX5EkeMvZ2mLTWHJxh4Kdy3XXjUfNKjuYicwzb0TwAibia6Tst2S3qy3JA2I3HLTFXe4hWeKokEQbd7YmaCa6C4Q/640%3Fwx_fmt%3Dgif)

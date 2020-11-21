@@ -4,7 +4,7 @@ Lastmod: 2020-07-14T14:27:01.395044+00:00
 date: 2020-07-14T14:26:42.000Z
 title: "2020美國總統大選：中國移民們還會投票給特朗普嗎？｜端傳媒 Initium Media"
 author: "theinitium.com - 特約撰稿人 邢泰 發自華盛頓"
-tags: [特朗普,華人,他們,認為,桑德斯,移民,一個,Min,ng,經濟]
+tags: [特朗普,華人,他們,認為,桑德斯,移民,一個,Min,經濟]
 ---
 
 [theinitium.com - 特約撰稿人 邢泰 發自華盛頓](https://theinitium.com/article/20200513-international-trumps-chinese-fans/)  

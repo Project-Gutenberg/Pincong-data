@@ -4,7 +4,7 @@ Lastmod: 2020-04-17T11:27:53.091088+00:00
 date: 2020-04-17T10:14:37.000Z
 title: "一位援鄂医生的真实倾诉"
 author: "希迈"
-tags: [xFF0C,x7684,x3002,x662F,x4E0D,x4E00,x4EBA,x6211]
+tags: []
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//vewas.net/wp-content/uploads/2020/04/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200331220940-1-960x639.jpg)

@@ -4,7 +4,7 @@ Lastmod: 2020-06-21T13:54:25.564211+00:00
 date: 2020-06-21T13:54:23.579001+00:00
 title: "回应《南开大学副教授程明明是否存在学术不端行为？》"
 author: "程明明"
-tags: [论文,作者,citations,user,Scholar,com,scholar,google,https,Google,新语丝]
+tags: [论文,作者,citations,user,Scholar,scholar,google,Google,新语丝]
 ---
 
 回应《南开大学副教授程明明是否存在学术不端行为？》

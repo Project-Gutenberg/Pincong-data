@@ -3,4 +3,7 @@ _site
 public
 resources
 node_modules
+*.yml
+*.py
+Makefile
 .DS_Store

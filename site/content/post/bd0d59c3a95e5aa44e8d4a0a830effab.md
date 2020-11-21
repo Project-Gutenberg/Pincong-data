@@ -4,7 +4,7 @@ Lastmod: 2020-06-30T19:25:11.123970+00:00
 date: 2020-06-30T19:25:11.123754+00:00
 title: "姚洋：中美技术竞争只会加强，美国无法将中国排除在技术标准之外"
 author: "巴伦"
-tags: [美国,技术,中国,一个,竞争,领域,疫情,世界,规则,特朗普]
+tags: [美国,技术,中国,竞争,领域,疫情,世界,规则,特朗普]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_jpg/5h5qLYvibLEOBwd36HiaOnw5UAGrHMQnsPdvvzkbdLaH2uF9SjBlpiccJKjAXlpbEVicicK1zovZNn7gZO7w4ickN6ibg/640%3Fwx_fmt%3Djpeg)

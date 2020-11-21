@@ -4,7 +4,7 @@ Lastmod: 2020-06-21T13:18:03.598045+00:00
 date: 2020-06-21T13:18:01.612253+00:00
 title: "2015年中国工程院有效院士候选人吴效科教授的行骗伎俩"
 author: "方舟子"
-tags: [http,com,Chinese,xys,www,al,acupuncture,doi,2017,Randomized,新语丝]
+tags: [Chinese,xys,acupuncture,2017,Randomized,新语丝]
 ---
 
 2015年中国工程院有效院士候选人吴效科教授的行骗伎俩

@@ -4,7 +4,7 @@ Lastmod: 2020-05-21T15:16:43.272285+00:00
 date: 2020-05-21T15:16:43.271800+00:00
 title: "孙玲：从工厂流水线工人到纽约程序员"
 author: "TEDxShenzhen"
-tags: [编程,学习,英语,飞盘,10,一个,程序员,freeCodeCamp]
+tags: [编程,学习,英语,飞盘,程序员,freeCodeCamp]
 ---
 
 编者荐语：

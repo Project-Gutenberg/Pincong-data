@@ -4,7 +4,7 @@ Lastmod: 2020-07-13T13:39:51.980563+00:00
 date: 2020-02-05T00:06:21.000Z
 title: "许章润：愤怒的人民已不再恐惧"
 author: "editor"
-tags: [x4E8E,x4F53,x6C11,x6CBB,x6743,x3001,x6027,x4E0E,x81F3,x6210]
+tags: []
 ---
 
  [![](https://images.weserv.nl/?url=https%3A//lh4.ggpht.com/_SAlWJ_xow1Y/TEwRv7sA3EI/AAAAAAAABWI/NLSAdEAJ-7I/twitter.png)](https://twitter.com/home/?status=许章润：愤怒的人民已不再恐惧 https://www.chinesepen.org/blog/archives/142746) [ ![](https://images.weserv.nl/?url=https%3A//lh3.ggpht.com/_SAlWJ_xow1Y/TEwRvVzhdiI/AAAAAAAABV8/RRa3HuGBLeA/facebook.png) ](https://www.facebook.com/share.php?u=https://www.chinesepen.org/blog/archives/142746) [![Share on Google+](https://images.weserv.nl/?url=https%3A//www.gstatic.com/images/icons/gplus-32.png)](https://plus.google.com/share?url=https://www.chinesepen.org/blog/archives/142746) 

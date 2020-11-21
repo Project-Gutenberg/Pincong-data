@@ -4,7 +4,7 @@ Lastmod: 2020-11-03T04:47:37.887929+00:00
 date: 2020-11-03T04:47:37.887634+00:00
 title: "白宫首届现场直播马屁赛诗会，川大高级阁员马屁排名及点评！"
 author: "北大飞"
-tags: [Secret,川大,gre,荣幸,Mr,going,And,马屁,Th,udible]
+tags: [Secret,川大,gre,荣幸,going,And,马屁,udible]
 ---
 
 ![](https://images.weserv.nl/?url=http%3A//mmbiz.qpic.cn/mmbiz_png/nrnUXSxO3B1IDyB5k3sO2BW3WHGNdByXggJwF1jyNGJFWYb1c5R5p5fLowuJKTkw2wMibbBPDVPCvKPeyK7LBEw/0%3Fwx_fmt%3Dpng)

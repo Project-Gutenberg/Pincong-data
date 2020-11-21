@@ -4,7 +4,7 @@ Lastmod: 2020-06-21T14:39:54.893428+00:00
 date: 2020-06-21T14:39:52.900001+00:00
 title: "方舟子推特合集（118）2016.06.16-20"
 author: "方舟子"
-tags: [方舟子,Jun,fangshimin,com,pbs,media,twimg,https,jpg,jpghttps,新语丝]
+tags: [方舟子,fangshimin,新语丝]
 ---
 
 方舟子推特合集（118）2016.06.16-20

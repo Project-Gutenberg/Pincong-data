@@ -4,7 +4,7 @@ Lastmod: 2020-11-07T01:15:46.443201+00:00
 date: 2020-11-06T00:00:00.000Z
 title: "「請放在集中串」亞利桑那官員承認奇異筆致選票作廢"
 author: "what7isay"
-tags: [添加话题,...,修改记录]
+tags: [...,修改记录]
 ---
 
 https://twitter.com/MrsBenGay1/status/1324196015944073217  

@@ -4,7 +4,7 @@ Lastmod: 2020-05-12T04:27:36.451421+00:00
 date: 2020-05-12T04:27:36.451303+00:00
 title: "SB国运及其他"
 author: "董文正"
-tags: [SB,流賊,统治阶级,最后,崇祯,上层,底层,东条]
+tags: [流賊,统治阶级,最后,崇祯,上层,底层,东条]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_jpg/tOqRcJshibiapC7bkxD6Cd95jIuohp1KABAc5voUEuaBsY4EQ3A5icDxEgtZXh2qwsmJfIQR6iaqSnhql0sT45LCbQ/640%3Fwx_fmt%3Djpeg)

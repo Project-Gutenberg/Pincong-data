@@ -4,7 +4,7 @@ Lastmod: 2020-03-18T08:27:52.273210+00:00
 date: 2020-03-18T08:27:52.272812+00:00
 title: "一位高中生给“方方阿姨”的信"
 author: "犀利声"
-tags: [方方,阿姨,武汉,作家,日记,看到,一个,了吗]
+tags: [方方,阿姨,武汉,作家,日记,看到]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz/iaGswicCbWm6ic2rtZ8OSsoVQKbk32I4libu2ykicx7jhyS50Xywx9TwIQWyfCtia9ibdKAOOYagib9hgJd48AxHQFc8kA/640%3Fwx_fmt%3Dgif)  

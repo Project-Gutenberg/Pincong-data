@@ -4,7 +4,7 @@ Lastmod: 2020-03-19T14:11:47.271550+00:00
 date: 2020-03-19T14:11:47.271326+00:00
 title: "桥水澄清爆仓传闻，美股十天四次熔断"
 author: "张欣培"
-tags: [桥水,nbsp,达利,基金,美股,Alpha,策略,下跌]
+tags: [桥水,达利,基金,美股,Alpha,策略,下跌]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_gif/ia1nxOhDj7ATLLyQibBg0j84iammJvD6rJp6eaCp56o3B7Y30PoXFefxCesWTRQ0KynVx6tj7DZSOFQeRIUy5QTtg/640%3Fwx_fmt%3Dgif)

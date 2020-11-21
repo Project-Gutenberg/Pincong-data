@@ -4,7 +4,7 @@ Lastmod: 2020-06-21T12:03:03.726492+00:00
 date: 2020-06-21T12:03:01.652751+00:00
 title: "方舟子推特合集（250）2018.11.21-30"
 author: "方舟子"
-tags: [方舟子,fangshimin,com,More,Verified,account,Nov,twimg,media,pbs,新语丝]
+tags: [方舟子,fangshimin,More,Nov,新语丝]
 ---
 
 方舟子推特合集（250）2018.11.21-30

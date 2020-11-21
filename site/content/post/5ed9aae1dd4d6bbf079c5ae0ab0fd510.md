@@ -4,7 +4,7 @@ Lastmod: 2020-04-06T10:39:57.352090+00:00
 date: 2020-01-19T12:00:40.000Z
 title: "美国这样错过抗疫最关键70天，华邮万字长文调查特朗普为何输给病毒"
 author: "加美"
-tags: [nbsp,特朗普,冠状病毒,美国,阿扎尔,官员,白宫,病毒]
+tags: [特朗普,冠状病毒,美国,阿扎尔,官员,白宫,病毒]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_gif/ja3qtofys6eumKg3WKxYXlwPorHU5pZxeRHNsicSibbgu6B2ciaeZEdRde5jTlfiapLVqkdj14QZKv4XB280Vg8pZw/640%3Fwx_fmt%3Dgif)

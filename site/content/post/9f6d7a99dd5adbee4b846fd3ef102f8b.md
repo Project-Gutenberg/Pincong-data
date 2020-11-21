@@ -4,7 +4,7 @@ Lastmod: 2020-05-19T16:28:27.812834+00:00
 date: 2020-05-19T16:28:27.812632+00:00
 title: "人生无新旧，职业有轮回"
 author: "半佛仙人"
-tags: [职业,美团,外卖,骑手,其实,配送,一个,需求]
+tags: [职业,美团,外卖,骑手,其实,配送,需求]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_jpg/3Xbx2HV4F3epMAEGEFYPjib6nbD7esRJicYGtSCMYxkbFeicC0a70O3oviaLyNpao0iaKF1Vj97SvUSQWfuicwqskVzQ/640%3Fwx_fmt%3Djpeg)

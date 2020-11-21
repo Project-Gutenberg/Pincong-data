@@ -4,7 +4,7 @@ Lastmod: 2020-06-23T11:45:40.377130+00:00
 date: 2020-06-23T11:45:22.000Z
 title: "三峽上游潰壩 中國建築專家：宜昌以下快跑"
 author: "hk.epochtimes.com"
-tags: [三峽,大壩,中國,發生,泥石流,專家,最後說,hk,epochtimes,壩塊,宜昌以下跑]
+tags: [三峽,大壩,中國,發生,泥石流,專家,最後說,epochtimes,壩塊,宜昌以下跑]
 ---
 
 [hk.epochtimes.com](http://hk.epochtimes.com/news/2020-06-20/58267217)June 23, 2020

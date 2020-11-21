@@ -4,7 +4,7 @@ Lastmod: 2020-05-22T04:44:17.751091+00:00
 date: 2020-05-22T04:44:17.750626+00:00
 title: "当年，我举报了我的母亲，她第二天就被枪毙了……"
 author: "低头读者"
-tags: [张红兵,方忠谋,nbsp,母亲,文革,固镇县,父亲,1970]
+tags: [张红兵,方忠谋,母亲,文革,固镇县,父亲,1970]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_jpg/tsicBVjA2loOx7eRXTHYzADgDicyXHiaJRyic2j2TZK8dia1AbhYibfAxFKoP8bGEJd6bibn9bicrbicY8tKiadnpJTFa6PQ/640%3Fwx_fmt%3Djpeg)
