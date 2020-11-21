@@ -4,7 +4,7 @@ Lastmod: 2020-03-07T15:55:14.274550+00:00
 date: 2020-03-07T15:55:14.274489+00:00
 title: "听到她声音"
 author: "邓艾艾艾"
-tags: [命运,声音,听到,people,hear,还令,sing]
+tags: [命运,声音,听到,还令]
 ---
 
 这是从前以Do you hear the people sing的旋律填的中文词。

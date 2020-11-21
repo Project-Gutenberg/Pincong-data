@@ -4,7 +4,7 @@ Lastmod: 2020-07-31T16:36:48.459345+00:00
 date: 2020-07-31T16:36:48.456954+00:00
 title: "在网上好好说话，为什么越来越难了"
 author: "高低杠"
-tags: [生疮,公共,credits,道德感,爱国者,平庸,恶意,理性,网民]
+tags: [生疮,公共,道德感,爱国者,平庸,恶意,理性,网民]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_jpg/T1D6NL8dWAalOqe2SVyF8ysrGFFHkVVMuoPq88enVf7eJetWibsvJFuUeG5vL3ekou1uM04qrnwrfTx0umrkeEw/640%3Fwx_fmt%3Djpeg)

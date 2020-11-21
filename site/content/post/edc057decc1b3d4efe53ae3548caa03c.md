@@ -4,7 +4,7 @@ Lastmod: 2020-01-27T05:39:21.324619+00:00
 date: 2020-01-19T00:00:00.000Z
 title: "【每日翻车新闻搬运】vol 172：故宫大奔事件持续发酵"
 author: "InspectorBen"
-tags: ["翻车新闻","翻车新闻搬运"]
+tags: [翻车新闻,翻车新闻搬运]
 ---
 
 文章原址：[https://www.reddit.com/r/hanren/comments/eqvx7m/](/url/link/aHR0cHM6Ly93d3cucmVkZGl0LmNvbS9yL2hhbnJlbi9jb21tZW50cy9lcXZ4N20v "https://www.reddit.com/r/hanren/comments/eqvx7m/")  

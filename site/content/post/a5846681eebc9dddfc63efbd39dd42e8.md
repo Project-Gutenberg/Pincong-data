@@ -4,7 +4,7 @@ Lastmod: 2020-05-26T01:32:50.790985+00:00
 date: 2020-05-26T00:00:00.000Z
 title: "爱国机场的覆灭"
 author: "苛政猛于虎"
-tags: [翻墙,VPS,自我审查,安全上网]
+tags: [翻墙,自我审查,安全上网]
 ---
 
 ![https://images.weserv.nl/?url=https://i.imgur.com/WN95odm.jpg](https://images.weserv.nl/?url=https%3A%2F%2Fi.imgur.com%2FWN95odm.jpg)  

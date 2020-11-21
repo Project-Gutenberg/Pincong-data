@@ -4,7 +4,7 @@ Lastmod: 2020-01-27T05:37:39.092088+00:00
 date: 2020-01-21T00:00:00.000Z
 title: "拒当废青，寄往广东的口罩类物品不予发货"
 author: "Tashkent"
-tags: ["非典","口罩","廣東","香港"]
+tags: [非典,口罩,廣東,香港]
 ---
 
 [![https://images.weserv.nl/?url=https://i.imgur.com/sPk2wU0.jpg](https://i.imgur.com/sPk2wU0.jpg)](/url/img/aHR0cHM6Ly9pLmltZ3VyLmNvbS9zUGsyd1UwLmpwZw "https://i.imgur.com/sPk2wU0.jpg")  
