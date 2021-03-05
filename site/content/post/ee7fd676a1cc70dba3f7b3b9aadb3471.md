@@ -4,7 +4,7 @@ Lastmod: 2021-02-23T09:23:03.427689+00:00
 date: 2021-02-23T00:00:00.000Z
 title: "女兒被霸凌！爸拿屠宰刀「捅死9歲同學」：我不後悔　已執行死刑"
 author: "firedragon145"
-tags: [中國,								社會,								轉載,								時事]
+tags: [中國,社會,轉載,時事]
 ---
 
 ![https://images.weserv.nl/?url=https://i.imgur.com/0mwsEUN.jpg](https://images.weserv.nl/?url=https%3A%2F%2Fi.imgur.com%2F0mwsEUN.jpg)  

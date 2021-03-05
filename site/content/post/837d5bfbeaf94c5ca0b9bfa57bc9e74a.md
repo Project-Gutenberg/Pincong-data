@@ -4,7 +4,7 @@ Lastmod: 2021-01-18T08:49:04.216529+00:00
 date: 2021-01-13T00:00:00.000Z
 title: "特朗普被禁言　澳洲署理總理：Twitter審查言論及雙重標準"
 author: "一個港青"
-tags: [澳洲,								美國]
+tags: [澳洲,美國]
 ---
 
 原文：[https://www.sbs.com.au/language/cantonese/zh-hant/donald-trump-s-twitter-ban-sparks-political-debate-in-australia-over-censorship-concerns]( "https://www.sbs.com.au/language/cantonese/zh-hant/donald-trump-s-twitter-ban-sparks-political-debate-in-australia-over-censorship-concerns")  

@@ -4,7 +4,7 @@ Lastmod: 2020-06-05T06:50:14.732106+00:00
 date: 2020-06-05T00:00:00.000Z
 title: "如何看待留學生袁宏睿參與搶掠並發在網上炫耀？"
 author: "roundo"
-tags: [加速主义,George Floyd,美国]
+tags: [加速主义,GeorgeFloyd,美国]
 ---
 
 

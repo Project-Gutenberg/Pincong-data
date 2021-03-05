@@ -4,7 +4,7 @@ Lastmod: 2021-03-01T14:37:53.643128+00:00
 date: 2021-02-28T00:00:00.000Z
 title: "復工無望！投資逾千億的武漢弘芯將遣散所有員工"
 author: "一個港青"
-tags: [中國,								晶片]
+tags: [中國,晶片]
 ---
 
 原文：[https://udn.com/news/story/7333/5281155]( "https://udn.com/news/story/7333/5281155")  

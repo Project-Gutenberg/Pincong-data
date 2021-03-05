@@ -4,7 +4,7 @@ Lastmod: 2020-06-14T00:44:50.079635+00:00
 date: 2020-06-13T00:00:00.000Z
 title: "西雅圖市宣佈獨立究竟意味著什麼？"
 author: "knifee"
-tags: [西雅图,George Floyd,黑人民權]
+tags: [西雅图,GeorgeFloyd,黑人民權]
 ---
 
 

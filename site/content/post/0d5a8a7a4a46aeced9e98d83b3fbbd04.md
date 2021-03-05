@@ -4,7 +4,7 @@ Lastmod: 2020-06-18T17:23:23.242295+00:00
 date: 2020-06-19T00:00:00.000Z
 title: "台湾：Black Lives Matter！ 国际工人团结斗争！ 反对美国及香港警暴！"
 author: "Socialist1917"
-tags: [国际主义,托派,台湾,Black Lives Matter,美国]
+tags: [国际主义,托派,台湾,BlackLivesMatter,美国]
 ---
 
 国际社会主义前进的原文连结：[https://www.socialism.org.tw/2020/06/08/20200604justiceforgeorgefloydintaiwan/]( "https://www.socialism.org.tw/2020/06/08/20200604justiceforgeorgefloydintaiwan/")  
