@@ -4,7 +4,7 @@ Lastmod: 2020-07-25T00:36:48.332529+00:00
 date: 2020-07-25T00:36:48.332003+00:00
 title: "开启下克上的时代"
 author: "青年维也纳"
-tags: [山名,应仁,幕府,大名,之乱,京都,宗全,家臣,利义政,细川]
+tags: [山名,应仁,幕府,大名,京都]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_jpg/N4s5tLcAaicg5fLepkscziclR7Y9WcAyoCyerq59CROjyExPuWfwwgTf3LAHaPvQpXrtzMYwIkkvS8fvCwWlFxSA/640%3Fwx_fmt%3Djpeg)

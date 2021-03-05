@@ -4,7 +4,7 @@ Lastmod: 2020-06-27T04:36:28.090062+00:00
 date: 2020-06-27T04:36:28.089362+00:00
 title: "独家 | 陆正耀遭弹劾，“铁三角”反目，瑞幸退市前夜风云突变"
 author: "不止十一人"
-tags: [陆正耀,瑞幸,造假,董事会,质押,瑞幸咖啡,董事,正耀,类股]
+tags: [陆正耀,瑞幸,造假,董事会,质押]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_gif/1j8dLsI7H2KR9q9IESnib7pwp9w40p4b5v2F51bnicMbN9cPmYfjnPibVAoBwKClnzfYzJticq662ib5wONich0y8vog/640%3Fwx_fmt%3Dgif)

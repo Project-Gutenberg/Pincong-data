@@ -4,7 +4,7 @@ Lastmod: 2020-03-09T11:20:54.567375+00:00
 date: 2020-03-09T04:28:41.000Z
 title: "封城45天：“我想在死前吃一块猪肉。”"
 author: "From"
-tags: [太婆,武汉,爹爹,湖北,同学,儿子,老人,疫情]
+tags: [太婆,武汉,爹爹,湖北,同学]
 ---
 
 [From](https://mp.weixin.qq.com/s/X89JFgpLK7ncW2alUuTzsw)  

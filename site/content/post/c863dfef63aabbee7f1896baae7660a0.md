@@ -4,7 +4,7 @@ Lastmod: 2020-05-19T04:14:23.724727+00:00
 date: 2020-05-19T04:14:23.722427+00:00
 title: "太过瘾了，悬疑、烧脑、反杀…6集根本不够看啊！"
 author: "写字的乌鸦"
-tags: [西尔,机长,莫斯科,人性,未婚夫,乘客,飞往,科幻]
+tags: [西尔,机长,莫斯科,人性,未婚夫]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_gif/zrUKoS7UUSZKtwiaCjrkuXMnPT9tH8XYjj4aV3sSiaC4KoydQuTUFWO9ISnxwBEveGwNgpGp3m0WWKxqUv8vgxow/640%3Fwx_fmt%3Dgif)

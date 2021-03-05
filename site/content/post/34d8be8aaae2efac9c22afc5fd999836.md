@@ -4,7 +4,7 @@ Lastmod: 2020-05-21T15:50:07.612255+00:00
 date: 2020-05-21T15:49:53.000Z
 title: "卞中佩：六四是中國與台灣巨大的分界線｜端傳媒 Initium Media"
 author: "theinitium.com"
-tags: [六四,台灣,中國,歷史,經濟,兩岸,冷戰]
+tags: [六四,台灣,中國,歷史,經濟]
 ---
 
 [theinitium.com](https://theinitium.com/article/20190604-opinion-june4-crack-between-china-and-taiwan/)  

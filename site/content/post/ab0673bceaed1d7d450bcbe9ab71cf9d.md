@@ -4,7 +4,7 @@ Lastmod: 2020-04-24T14:16:21.920534+00:00
 date: 2020-04-24T14:16:21.919967+00:00
 title: "在中国做手机，情怀不再重要了吗？｜大象公会"
 author: "大象公会"
-tags: [一加,手机,刘作,产品,罗永浩,体验,屏幕,情怀]
+tags: [一加,手机,刘作,产品,罗永浩]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_gif/Z08UWq352tkicAqPAHJH1nydR37gWegDcyuh6yvpnFxzvfcll9fAI11OZMPtzr6GW6Ria0DT5qHdlTsd9UyPZcIA/640%3Fwx_fmt%3Dgif)

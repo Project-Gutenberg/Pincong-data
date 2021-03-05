@@ -4,7 +4,7 @@ Lastmod: 2020-03-30T16:37:54.744073+00:00
 date: 2020-03-30T16:37:54.742812+00:00
 title: "政府撒币的政治经济学｜大象公会"
 author: "大象公会Elephantia"
-tags: [撒钱,量化,政府,直升机,UBI,发钱]
+tags: [撒钱,量化,政府,直升机,UBI]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_gif/Z08UWq352tkicAqPAHJH1nydR37gWegDcyuh6yvpnFxzvfcll9fAI11OZMPtzr6GW6Ria0DT5qHdlTsd9UyPZcIA/640%3Fwx_fmt%3Dgif)

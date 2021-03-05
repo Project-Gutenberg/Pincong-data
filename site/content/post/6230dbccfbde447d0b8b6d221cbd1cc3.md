@@ -4,7 +4,7 @@ Lastmod: 2020-05-23T23:11:41.010766+00:00
 date: 2020-05-23T23:11:41.009495+00:00
 title: "安省今日确诊又双叒破纪录！ 疫情“刹不住”， 二次爆发将至！ 专家却说：没准备好！"
 author: "CareerEngine 北美生活引擎"
-tags: [原作者,版权,多伦多,图源,Twitter,疫情]
+tags: [原作者,版权,多伦多,图源,Twitter]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_png/0uJ5ZAtmCVshm1EAf0zcA96Z0bxPDv2HjvlMp23r5rEyPjTM1pNia3nGKfNSqcFphgbOUH1PA2eHoHe5aHWUgRQ/640%3Fwx_fmt%3Dpng)

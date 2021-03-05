@@ -4,7 +4,7 @@ Lastmod: 2020-06-30T16:07:40.243031+00:00
 date: 2020-06-30T16:07:40.242708+00:00
 title: "创业半年、拿到第一笔融资，贾佳亚离开腾讯之后经历了什么？"
 author: "晚点团队"
-tags: [贾佳亚,腾讯,人工智能,团队,创业,公司,思谋,技术]
+tags: [贾佳亚,腾讯,人工智能,团队,创业]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_gif/8l3j8mUia0gvGvN3Vj6LiaG1XyicqwJoSQPWlfGo1hWHxOLo7Vc40IYgVJ72sVX4F7snoZtkoudeFvp8rk2BFGbrA/640%3Fwx_fmt%3Dgif)

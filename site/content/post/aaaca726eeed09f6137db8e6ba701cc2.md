@@ -4,7 +4,7 @@ Lastmod: 2020-06-21T01:54:35.314467+00:00
 date: 2020-06-21T01:54:35.312054+00:00
 title: "《纽约客》| 复仇式的公义：种族主义与母职惩罚"
 author: "Sarah&nbsp;Stillman"
-tags: [图尔,斯坦伯格,女性,布朗,俄克拉荷马州,汉密尔顿,监狱]
+tags: [图尔,斯坦伯格,女性,布朗,俄克拉荷马州]
 ---
 
  ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_jpg/FRtibYcT5KatdhBIhx7Sv1PGlZAolfW8eRyr6wWAPoNKia7ia5Wt6pwC0wlaNNUdHFpzfwz11kJmYEWlgPpoHmZUA/640%3Fwx_fmt%3Djpeg)

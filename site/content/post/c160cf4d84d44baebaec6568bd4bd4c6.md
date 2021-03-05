@@ -4,7 +4,7 @@ Lastmod: 2020-12-18T15:03:13.562330+00:00
 date: 2020-12-18T15:03:13.559030+00:00
 title: "如何评价英剧《是，首相》(Yes, Prime Minister)？"
 author: ""
-tags: [汉弗莱,Minister,公务员,Yes,Prime,Humphrey,首相,哈克,大臣,爵士]
+tags: [汉弗莱,Minister,公务员,Yes,Prime]
 ---
 
 

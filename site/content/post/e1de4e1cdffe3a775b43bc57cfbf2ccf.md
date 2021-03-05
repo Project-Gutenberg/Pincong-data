@@ -4,7 +4,7 @@ Lastmod: 2020-05-27T12:09:16.424470+00:00
 date: 2020-05-27T12:09:16.424173+00:00
 title: "外卖涨价了？数字会骗人"
 author: "半佛仙人"
-tags: [外卖,财报,数据,涨价,单均,电商,美团,背后]
+tags: [外卖,财报,数据,涨价,单均]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_jpg/3Xbx2HV4F3dJjFkHLgeDXKriajqghpbdEkNCNsBHb3V9eYat7kwfZNnwgUgrZ5jvnSOUdmib7n88pYF2XxIhajnA/640%3Fwx_fmt%3Djpeg)

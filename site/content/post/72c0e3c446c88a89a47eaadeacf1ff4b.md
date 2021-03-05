@@ -4,7 +4,7 @@ Lastmod: 2020-07-21T11:43:51.066067+00:00
 date: 2020-07-21T11:43:51.065824+00:00
 title: "纽约的山西人又杀回来了"
 author: "杨乃悟"
-tags: [德御系,仁东,山西,山西省,龙跃,金科,海淀,东旭,担保方]
+tags: [德御系,仁东,山西,山西省,龙跃]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_jpg/8TxMl1sic8bVDNZLCICEde19bXkK33iaLL1vVTOkyriatc6Nh1ibicq4H6GSperbBf42LyicofaL5BAiaethH7fRuI2hQ/640%3Fwx_fmt%3Djpeg)

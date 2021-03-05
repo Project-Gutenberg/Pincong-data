@@ -4,7 +4,7 @@ Lastmod: 2020-07-15T07:13:54.567737+00:00
 date: 2020-07-15T07:13:54.567063+00:00
 title: "劳工营的故事——新加坡生死劫"
 author: "王文振"
-tags: [劳工,新加坡,外劳,宿舍,隔离,酒店,新加坡政府,孩子,二维码]
+tags: [劳工,新加坡,外劳,宿舍,隔离]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_jpg/VHHCQQWicLYJ8A2EiboCL6ARnD7hkfibXPq96meBO0mvsUJRwN2xMhB4VCe4tFe5m9B2ibjXLGDhagrDC5JIIHfJXA/640%3Fwx_fmt%3Djpeg)

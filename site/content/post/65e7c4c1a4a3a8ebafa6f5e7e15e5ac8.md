@@ -4,7 +4,7 @@ Lastmod: 2020-07-26T17:03:57.745826+00:00
 date: 2020-07-26T17:03:57.744852+00:00
 title: "意大利黑手党的“新冠机会”：慈善竞争、渗透政经、操控舆论​"
 author: "裴炎"
-tags: [黑手党,意大利,头目,欧元,帮派,意大利政府,西西里岛,新冠肺炎,意大利黑手党,穷人]
+tags: [黑手党,意大利,头目,欧元,帮派]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_jpg/Tjnia6K0WAwxRhzD5C9mveiaQvDLQ1LxvbmVwW9l3mVLb3rhiaAe1r3ib8NS1cWyb2KEoUnc3jic4a1icb97xBfgTclA/640%3Fwx_fmt%3Djpeg)

@@ -4,7 +4,7 @@ Lastmod: 2020-06-22T10:33:46.081899+00:00
 date: 2020-06-22T10:33:46.080886+00:00
 title: "关于疯癫的杂记"
 author: "CC"
-tags: [疯癫,理性,暴力,福柯,邻人,法律,行为,道德]
+tags: [疯癫,理性,暴力,福柯,邻人]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_png/o6uDRpiclc5VdhFH8pNtt7vAbljDiaM4jZ82pibuDpn4fMv3uhtPicMNglgVOEVjfichYZmxroibGMicJuFbK8ibBPwoPw/640%3Fwx_fmt%3Dpng)

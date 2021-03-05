@@ -4,7 +4,7 @@ Lastmod: 2020-07-26T14:02:59.941139+00:00
 date: 2020-07-26T14:02:59.940632+00:00
 title: "人们为什么也喜欢负面角色？"
 author: "王江涛"
-tags: [阴暗,负面,威胁,特质,实验,虚构,自我概念,相关度,参与者,暴力]
+tags: [阴暗,负面,威胁,特质,实验]
 ---
 
 ****************![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_jpg/Tjnia6K0WAwxRhzD5C9mveiaQvDLQ1LxvbAL3LxJEMJCDnibnhBF63IiaFwGVFUDnxUAB5oTyIlbwyicKIOys4NaOyw/640%3Fwx_fmt%3Djpeg)▲ ****************人性中阴暗的一面，要么被公开否定，要么被人们藏在内心深处，虽然被压制，却一直真实存在于人们的生活中。（视觉中国/图）

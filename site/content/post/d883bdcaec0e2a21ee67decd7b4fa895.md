@@ -4,7 +4,7 @@ Lastmod: 2020-07-03T19:13:37.095683+00:00
 date: 2020-07-03T19:13:37.095190+00:00
 title: "暴力智慧凝聚的中国古代军事文化｜在线课推荐"
 author: "军事人文历史"
-tags: [课程,军事,订阅,暴力,战争,人类文明,音频,二维码,文化]
+tags: [课程,军事,订阅,暴力,战争]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_jpg/zl9dLCzPDXMWa7vH2yTJyvmibyAXIL6KmXib3Oyia94BgznGbuYBU77wfvFUP8WFicjF7AGpNE98whic6P3GxdRu8lg/640%3Fwx_fmt%3Djpeg)

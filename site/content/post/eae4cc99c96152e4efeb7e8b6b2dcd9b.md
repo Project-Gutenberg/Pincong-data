@@ -4,7 +4,7 @@ Lastmod: 2020-07-04T16:02:00.029591+00:00
 date: 2016-07-25T22:22:13.000Z
 title: "海参崴：中国人眼中的“失地”与胜地 - undefined"
 author: "ANDREW HIGGINS"
-tags: [符拉迪沃斯托克,俄罗斯,中国人,中国,领土,海参崴]
+tags: [符拉迪沃斯托克,俄罗斯,中国人,中国,领土]
 ---
 
 ![一个男人在符拉迪沃斯托克港口的一个码头上垂钓。此处临近俄罗斯太平洋舰队总部。](https://images.weserv.nl/?url=https%3A//static01.nyt.com/images/2016/07/19/world/vladivostok-web/vladivostok-web-master1050.jpg)

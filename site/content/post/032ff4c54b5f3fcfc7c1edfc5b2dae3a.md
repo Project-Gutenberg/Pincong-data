@@ -4,7 +4,7 @@ Lastmod: 2020-07-01T19:53:19.094596+00:00
 date: 2020-07-01T19:53:19.093950+00:00
 title: "职场性骚扰：法院立案后，还有几道关"
 author: "周缦卿&nbsp;谭畅"
-tags: [性骚扰,黄薇,周某,原告,精神,案由,损害,损害赔偿,立案,责任]
+tags: [性骚扰,黄薇,周某,原告,精神]
 ---
 
 ****************![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_jpg/Tjnia6K0WAwxRhzD5C9mvejOibt5dh5mjSZ76g7guTAyObhfic12lM9VoLBKyibnicn7ZCb2uWdzBibY8ESJoNoCzoWg/640%3Fwx_fmt%3Djpeg)▲****************（农健/图）

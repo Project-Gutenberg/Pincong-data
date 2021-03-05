@@ -4,7 +4,7 @@ Lastmod: 2020-05-12T17:58:04.090878+00:00
 date: 2020-05-12T17:58:04.090183+00:00
 title: "李萍：笨小孩之母"
 author: "帅呆的sixgod"
-tags: [李萍,郭靖,孩子,伟大,母亲,求生,农妇,自尽]
+tags: [李萍,郭靖,孩子,伟大,母亲]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_jpg/EC7unEiaL8xq18dhUblb7F8ibiaRjk38VWqSpryh0ia0N8r325y9SDgNyxbh9atDiaofZU1N847UlHC3H3gpFRNWYLg/640%3Fwx_fmt%3Djpeg)

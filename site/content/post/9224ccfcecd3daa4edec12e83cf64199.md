@@ -4,7 +4,7 @@ Lastmod: 2020-11-30T10:29:35.569029+00:00
 date: 2020-11-30T10:29:35.561774+00:00
 title: "李毅、司马南、金灿荣背后：民族主义商业化浮沉。"
 author: "闻溪"
-tags: [饶谨,唐杰,四月网,CNN,Anti,视频,民族主义,爱国主义,胡亦南,四月]
+tags: [饶谨,唐杰,四月网,CNN,Anti]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_gif/WZH4b1fCQa3zA3oHbibnQjYvLLq33dJsKIxrpyD8AuwL9y0RZhabMo2VibH2o70Ux1W7Lib34uWEv1jiaUWV45AMXQ/640%3Fwx_fmt%3Dgif)

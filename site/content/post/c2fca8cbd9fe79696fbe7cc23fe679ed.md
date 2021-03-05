@@ -4,7 +4,7 @@ Lastmod: 2020-04-03T04:08:55.153230+00:00
 date: 2020-04-03T04:08:55.152360+00:00
 title: "在人间丨我从全美首个新冠病例确诊的地方毕业了，却不知何时能回国"
 author: "许晔"
-tags: [疫情,西雅图,病毒,特朗普,美国,社交,很多]
+tags: [疫情,西雅图,病毒,特朗普,美国]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_gif/Oxm6LqljIvwoudAUoKrkrIEsHkkGcv3AXdLhldT24zGMo1tYibBicWEQBYtKyMcbKE9icViatGib6vQWWI2ovRuLhYg/640%3Fwx_fmt%3Dgif)![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_jpg/Oxm6LqljIvwIPAkWudY24KZhB2uTpSA94jBlN5jGaTRCoJPr0DSz2yzbYsCovyL4q5Fia9ASlhMxPiacAMr9Ow0Q/640%3Fwx_fmt%3Djpeg)

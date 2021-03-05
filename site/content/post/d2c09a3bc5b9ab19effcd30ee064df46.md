@@ -4,7 +4,7 @@ Lastmod: 2020-07-14T13:48:56.379750+00:00
 date: 2020-07-14T13:48:56.379578+00:00
 title: "特斯拉演绎过山车行情，多空分歧越来越大"
 author: "郭力群"
-tags: [特斯拉,巴伦,标普,周刊,指数,股价,评级,分析师,目标价,电动汽车]
+tags: [特斯拉,巴伦,标普,周刊,指数]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_jpg/5h5qLYvibLEOBwd36HiaOnw5UAGrHMQnsPdvvzkbdLaH2uF9SjBlpiccJKjAXlpbEVicicK1zovZNn7gZO7w4ickN6ibg/640%3Fwx_fmt%3Djpeg)

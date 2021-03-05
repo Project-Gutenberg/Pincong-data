@@ -4,7 +4,7 @@ Lastmod: 2020-05-10T12:49:14.948280+00:00
 date: 2020-05-10T12:49:14.947397+00:00
 title: "除了「她」，谁都不能说生育是件理所当然的事 | 成为母亲"
 author: "苏惟楚"
-tags: [一萌,孩子,沈甜,医生,怀孕,图源,羊水]
+tags: [一萌,孩子,沈甜,医生,怀孕]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_png/z5UhR5ian8Sicc2q11CNqsrpY8BmGuNgnz3Ng5VrdcMNHzQPBMkDwLWEfkBvckj7tc3pyia3jxvqrWcGfxA9OphVw/640%3Fwx_fmt%3Dpng)

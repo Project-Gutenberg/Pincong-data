@@ -4,7 +4,7 @@ Lastmod: 2020-05-29T12:54:08.166233+00:00
 date: 2020-05-29T12:54:08.164697+00:00
 title: "稻盛和夫：我活了88岁，总结为一个字"
 author: "稻盛和夫"
-tags: [人生,京瓷,领导者,美好,度过,思考,工作]
+tags: [人生,京瓷,领导者,美好,度过]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_jpg/Ftnt4m7MlgjjdiaJ1pZClxD4rSeTvYAtEoGyP4eIakGM05NnVMdRSe0e1N1mxqFMuWtOGYjuNtRTskubr2vJGoQ/640%3Fwx_fmt%3Djpeg)

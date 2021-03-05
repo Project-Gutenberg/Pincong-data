@@ -4,7 +4,7 @@ Lastmod: 2020-11-14T03:48:59.467000+00:00
 date: 2020-11-14T03:48:59.466118+00:00
 title: "川总和他的“病友”们到底在“嗨”什么？"
 author: "罗马主义"
-tags: [沧海,晚清,美国人,上卷,上帝,川普,疯子,救赎,公知]
+tags: [沧海,晚清,美国人,上卷,上帝]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_gif/Lvm6UAoJibrP9JEWQRXR3swLXRYlFicicbg2q6gYPiapiaCkPr8GibxibGO0jcDe76cnAUJ3KBkCmyTIZBueDAOslJ0Zw/640%3Fwx_fmt%3Dgif)戳蓝字**“灼识新维度”**关注我们哦！

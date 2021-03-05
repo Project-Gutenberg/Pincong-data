@@ -4,7 +4,7 @@ Lastmod: 2020-12-04T03:43:43.735171+00:00
 date: 2020-12-04T03:43:43.734572+00:00
 title: "这届年轻人，正在被债务掏空丨谷雨"
 author: "祁十一"
-tags: [小南,明心,欠债,阿亮,直播间,负债,催债,信用卡,债务,电话]
+tags: [小南,明心,欠债,阿亮,直播间]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_jpg/PMF9AsXlXes0dytdmlpwC1aaexYuYjQ1gCia04WzQB79FTx7jw09XhEaNia0wMx1hXBnSDY3nWdOKrWVULKMgia8g/640%3Fwx_fmt%3Djpeg)

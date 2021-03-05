@@ -4,7 +4,7 @@ Lastmod: 2020-07-24T01:37:06.015325+00:00
 date: 2020-07-24T01:37:06.015000+00:00
 title: "一名中国女医生被美控签证欺诈 面临重刑罚款"
 author: "佚名"
-tags: [签证,宋琛,中国空军,总医院,钓鱼台,中国军方,访问学者,文件夹,出庭]
+tags: [签证,宋琛,中国空军,总医院,钓鱼台]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_gif/wrdA2VAlKgjpjIey0WJHT2aK5iceMbGpoxcmFXxsibXcgERxfFYC7ia5hCp10G491PoCywayia0iciaDj6jY6debqupg/640%3Fwx_fmt%3Dgif)  

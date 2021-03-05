@@ -4,7 +4,7 @@ Lastmod: 2020-06-23T14:24:12.109574+00:00
 date: 2020-06-23T14:24:12.109445+00:00
 title: "遂宁男子浏览境外网站被行政处罚"
 author: ""
-tags: [计算机信息,蒋鹏,联网,煽动,网络,观看,行政处罚,遂宁市]
+tags: [计算机信息,蒋鹏,联网,煽动,网络]
 ---
 
 [![普法](https://images.weserv.nl/?url=https%3A//www.williamlong.info/logo/Law.gif)](https://www.williamlong.info/tag/Law.html)

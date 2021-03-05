@@ -4,7 +4,7 @@ Lastmod: 2020-03-22T05:58:34.064087+00:00
 date: 2020-03-22T05:58:34.063820+00:00
 title: "独家 | 追查泉州坍塌酒店：谁为29条逝去的生命负责？"
 author: "黄姝静&nbsp;俞琴"
-tags: [欣佳,酒店,杨金锵,产权证,土地,泉州市,财经]
+tags: [欣佳,酒店,杨金锵,产权证,土地]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_gif/ia1nxOhDj7ATLLyQibBg0j84iammJvD6rJp6eaCp56o3B7Y30PoXFefxCesWTRQ0KynVx6tj7DZSOFQeRIUy5QTtg/640%3Fwx_fmt%3Dgif)

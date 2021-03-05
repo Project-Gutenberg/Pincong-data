@@ -4,7 +4,7 @@ Lastmod: 2020-03-15T11:46:50.783992+00:00
 date: 2020-03-15T11:46:50.783581+00:00
 title: "对话北大王锡锌：有没有外国人永居条例，超国民待遇都会存在"
 author: "姚胤米"
-tags: [条例,外国人,财经,立法,讨论,征求意见,参与]
+tags: [条例,外国人,财经,立法,讨论]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_gif/ia1nxOhDj7ATLLyQibBg0j84iammJvD6rJp6eaCp56o3B7Y30PoXFefxCesWTRQ0KynVx6tj7DZSOFQeRIUy5QTtg/640%3Fwx_fmt%3Dgif)

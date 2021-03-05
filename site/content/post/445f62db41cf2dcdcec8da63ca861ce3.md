@@ -4,7 +4,7 @@ Lastmod: 2020-07-07T15:03:24.606344+00:00
 date: 2020-07-07T15:03:24.605952+00:00
 title: "印度屏蔽中国手机应用后续：互联网以外的投资和贸易也被波及"
 author: "晚点团队"
-tags: [印度,公司,印度政府,中国,应用,中印,国手,投资,2019]
+tags: [印度,公司,印度政府,中国,应用]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_gif/8l3j8mUia0gvGvN3Vj6LiaG1XyicqwJoSQPWlfGo1hWHxOLo7Vc40IYgVJ72sVX4F7snoZtkoudeFvp8rk2BFGbrA/640%3Fwx_fmt%3Dgif)

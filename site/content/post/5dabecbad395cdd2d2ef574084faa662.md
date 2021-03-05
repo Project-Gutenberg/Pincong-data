@@ -4,7 +4,7 @@ Lastmod: 2020-03-30T09:53:52.701604+00:00
 date: 2020-03-30T09:53:52.701307+00:00
 title: "专访姚洋：当心疫情冲击演变为系统性经济衰退"
 author: "王延春"
-tags: [复工,疫情,复产,全球,经济,下降,中国]
+tags: [复工,疫情,复产,全球,经济]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_gif/ia1nxOhDj7ATLLyQibBg0j84iammJvD6rJp6eaCp56o3B7Y30PoXFefxCesWTRQ0KynVx6tj7DZSOFQeRIUy5QTtg/640%3Fwx_fmt%3Dgif)

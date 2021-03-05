@@ -4,7 +4,7 @@ Lastmod: 2020-05-20T04:28:53.375584+00:00
 date: 2020-05-20T04:28:53.373587+00:00
 title: "童星三千，没残的只剩一瓢"
 author: "陆一鸣"
-tags: [童星,谢孟伟,王莎莎,转型,小贝,小演员,儿童]
+tags: [童星,谢孟伟,王莎莎,转型,小贝]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_gif/r7l7L28KwuWDccY1JxFTMW33MryBEdGKoULLVMndiaMF10WW2AaJtdUia2pF8D7QoYGtLlKyeErsAkZ85OaQ6ia1w/640%3Fwx_fmt%3Dgif)

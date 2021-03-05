@@ -4,7 +4,7 @@ Lastmod: 2020-12-19T14:29:41.852196+00:00
 date: 2020-12-19T14:29:41.850867+00:00
 title: "一个北漂的移民之路：我的生活需要一些改变丨看客"
 author: "看客"
-tags: [小花,移民,大超,加拿大,父亲,小卡,北漂,雅思,户口]
+tags: [小花,移民,大超,加拿大,父亲]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_png/33sYCEQicAeicp0WKaQ6iarZoNWYOfLXCxH1KXO8iaib57Wc6f1DnQNOiaCMGmoDvNQw08v84GjMSGVICFFiasYqmgNWg/640%3Fwx_fmt%3Dpng)

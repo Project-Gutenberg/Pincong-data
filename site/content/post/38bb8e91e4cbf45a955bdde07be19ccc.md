@@ -4,7 +4,7 @@ Lastmod: 2020-11-28T11:45:24.730358+00:00
 date: 2020-11-28T11:45:22.088771+00:00
 title: "对甘肃农业大学动物医学院魏彦明等人基金申请学术不端的举报"
 author: ""
-tags: [Hu,mice,prep,nels,ngelic,国家自然科学基金,1162,Veterin,liver,experiments,新语丝]
+tags: [Hu,mice,prep,nels,国家自然科学基金]
 ---
 
 对甘肃农业大学动物医学院魏彦明等人基金申请学术不端的举报

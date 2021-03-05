@@ -4,7 +4,7 @@ Lastmod: 2020-04-25T19:22:36.245153+00:00
 date: 2020-04-25T19:22:36.242605+00:00
 title: "除了 iPhone SE，我们还找来了华为三星的小屏旗舰做了个对比测试"
 author: "托尼"
-tags: [华为,手机,三星,iPhone,P40,S20]
+tags: [华为,手机,三星,iPhone,P40]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_gif/yZPTcMGWibvsD5PdQWMib8ZmkHdZ1kcSn25uYkG6ksfUTRH25NFyficdDKoiaDB2L57rianoiaZaqrdibwtc5LRU5j0tg/640%3Fwx_fmt%3Dgif)

@@ -4,7 +4,7 @@ Lastmod: 2020-04-06T13:43:59.748265+00:00
 date: 2020-04-06T13:43:59.747619+00:00
 title: "95个把404纹在身体上的青年。"
 author: "雨露麻"
-tags: [404,纹身,交换,刘安,参与者,记录]
+tags: [404,纹身,交换,刘安,参与者]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_jpg/owm3zNRcVzyUPX4Y2wcW5O97cSvLibGALibIDSoTcAgnX6eBNehuWWgHc47rWzjGcBYSJuGdWz6JBlBeNsFUYWcA/640%3Fwx_fmt%3Djpeg)

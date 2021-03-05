@@ -4,7 +4,7 @@ Lastmod: 2020-08-06T00:34:03.897594+00:00
 date: 2020-08-05T00:00:00.000Z
 title: "为什么星链不能被用来翻墙？"
 author: "posclegom"
-tags: [马斯克,spaceX,Starlink,星链,星链计划,翻墙]
+tags: [马斯克,spaceX,Starlink,星链,星链计划]
 ---
 
 

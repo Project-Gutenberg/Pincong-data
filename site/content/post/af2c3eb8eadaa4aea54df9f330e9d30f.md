@@ -4,7 +4,7 @@ Lastmod: 2020-04-07T03:47:05.322688+00:00
 date: 2020-04-07T03:47:05.322543+00:00
 title: "方舟子：“群体免疫”不等于放任自流"
 author: "SCIENCEOWLS"
-tags: [免疫,群体,冠状病毒,新冠,病毒,冷血,疫情]
+tags: [免疫,群体,冠状病毒,新冠,病毒]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_png/wkJQUnQ7iaU3DtPu6CqOiauvgYMVUqxoKria2SiaKn9U44v6lx7bplhok87rvJVBIrfIUfjHxIPJ0jmw0a3NYTojng/640%3Fwx_fmt%3Dpng)  

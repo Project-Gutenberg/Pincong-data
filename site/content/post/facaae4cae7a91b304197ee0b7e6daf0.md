@@ -4,7 +4,7 @@ Lastmod: 2020-05-17T09:31:54.216244+00:00
 date: 2018-04-26T10:04:00.000Z
 title: "沈度：從沈陽到岳昕──蝴蝶效應、母校情結，與兩個北大"
 author: "端点星"
-tags: [學生,北大,岳昕,社會,因為,校方,什麼,問題]
+tags: [學生,北大,岳昕,社會,因為]
 ---
 
 本文来自端传媒，[原文](https://theinitium.com/article/20180426-opinion-pku-notmyaniversary/)为会员付费阅读。

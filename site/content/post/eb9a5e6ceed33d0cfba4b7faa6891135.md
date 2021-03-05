@@ -4,7 +4,7 @@ Lastmod: 2020-05-25T09:55:04.950541+00:00
 date: 2020-05-25T09:55:04.950160+00:00
 title: "流量公益让所有人变得势均力敌"
 author: "半佛仙人"
-tags: [扶贫,公益,直播,电商,碧桂园,贫困地区,脱贫]
+tags: [扶贫,公益,直播,电商,碧桂园]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_jpg/3Xbx2HV4F3cXNIul6cVbicRaTF51W3radXibg0zKCiaTsMicflICtSuofZF0VcEmKf3CdqCCpJibYlk1F2Ln3mnGGFw/640%3Fwx_fmt%3Djpeg)

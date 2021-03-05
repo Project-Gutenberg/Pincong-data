@@ -4,7 +4,7 @@ Lastmod: 2020-03-14T02:26:59.418210+00:00
 date: 2020-03-14T02:26:59.417598+00:00
 title: "在丢失哨声的语境下，我等待着自己的一则微头条被删掉"
 author: "唐映红"
-tags: [文章,头条,疫控,口罩,柳叶刀,教授,转发,观点]
+tags: [文章,头条,疫控,口罩,柳叶刀]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_png/FRJVGarJ3DhdEBmcDoA8oKvjFnMXB7gJRf16a2DqYPP9WPchYmz8NVnshu2WzodmvaIUgYjI5TZsANr7chefLA/640%3Fwx_fmt%3Dpng)

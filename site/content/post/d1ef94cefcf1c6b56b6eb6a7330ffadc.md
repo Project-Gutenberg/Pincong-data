@@ -4,7 +4,7 @@ Lastmod: 2020-06-03T15:38:15.183851+00:00
 date: 2020-01-05T16:00:00.000Z
 title: "《叛乱法》—美国总统可否“调兵”国内平乱的法律依据"
 author: "https://www.facebook.com/bbcnews"
-tags: [叛乱,总统,特朗普,启用,派兵,骚乱,美国,州长]
+tags: [叛乱,总统,特朗普,启用,派兵]
 ---
 
  ![美国抗议示威](https://images.weserv.nl/?url=https%3A//ichef.bbci.co.uk/news/320/cpsprodpb/1508C/production/_112665168_5917fb36-c08c-4143-b128-9d38262cb2e5.jpg) Getty Images 

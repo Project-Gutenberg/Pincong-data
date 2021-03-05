@@ -4,7 +4,7 @@ Lastmod: 2020-06-30T19:27:10.161125+00:00
 date: 2020-06-30T19:27:10.160943+00:00
 title: "斯蒂格利茨：美国是如何走到这一步的？"
 author: "斯蒂格利茨"
-tags: [美国,国人,经济,社会,特朗普,价值观,进步,平等,议程,市场]
+tags: [美国,国人,经济,社会,特朗普]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_jpg/5h5qLYvibLEOBwd36HiaOnw5UAGrHMQnsPdvvzkbdLaH2uF9SjBlpiccJKjAXlpbEVicicK1zovZNn7gZO7w4ickN6ibg/640%3Fwx_fmt%3Djpeg)

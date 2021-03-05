@@ -4,7 +4,7 @@ Lastmod: 2020-04-30T13:08:32.710736+00:00
 date: 2020-04-27T14:56:23.244Z
 title: "端点星案：“立人大学”旧友集体发文声援"
 author: "端点星的宇宙好友"
-tags: [小伟,立人,蔡伟,寻衅滋事,志愿者,疫情,失联,大学]
+tags: [小伟,立人,蔡伟,寻衅滋事,志愿者]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//assets.matters.news/embed/47162ed1-6e87-4ac4-aef7-04464fbf5070.jpeg)

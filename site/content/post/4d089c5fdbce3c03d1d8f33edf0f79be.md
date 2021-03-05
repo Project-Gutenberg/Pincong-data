@@ -4,7 +4,7 @@ Lastmod: 2020-09-19T18:43:38.144679+00:00
 date: 2020-09-19T18:43:38.144533+00:00
 title: "旧文为祭 | 如果这个世界上有超级英雄，她的名字叫RBG"
 author: "张小龟"
-tags: [斯伯格,法律,性别歧视,最高法院,区别对待,菲尔德,先例,ACLU,大法官]
+tags: [斯伯格,法律,性别歧视,最高法院,区别对待]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_jpg/WAVYDZepr3zELYxVBWgt56lROfpCsIP6GHB3uYzQ3M8WGiczbJribzQYGtgVWfzPibfu2duQ0SIKOxicvetSkG4mNw/640%3Fwx_fmt%3Djpeg)

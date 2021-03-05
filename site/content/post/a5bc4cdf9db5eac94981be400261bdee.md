@@ -4,7 +4,7 @@ Lastmod: 2020-08-19T01:52:43.375461+00:00
 date: 2020-08-19T01:52:43.374610+00:00
 title: "移民时代丨流动中的项目制移民工：不落“地”的世界旅人"
 author: "澎湃思想市场"
-tags: [移民,海外,工头,工人,劳务,阿强,劳工,工程项目,跨国,流动]
+tags: [移民,海外,工头,工人,劳务]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_jpg/yVnW0JJsaSOltEelfSdzWtiaqtkfwQkiageLJzgMImicaEvWcRZOKmztoJAX5BzSUctQ0LPcnbytzAwAu732uEZJA/640%3Fwx_fmt%3Djpeg)

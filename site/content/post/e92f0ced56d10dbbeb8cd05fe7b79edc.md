@@ -4,7 +4,7 @@ Lastmod: 2020-11-03T04:26:56.074108+00:00
 date: 2020-11-03T04:26:56.073342+00:00
 title: "互联网奇闻录：死不明白、活不明白及优秀人民教师李寒青"
 author: "北大飞"
-tags: [李寒青,孩子,圣母,人渣,数学老师,咳咳,截图,肇事者,理性,受害者]
+tags: [李寒青,孩子,圣母,人渣,数学老师]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_png/kCDccIWAsR9AkB2icicbxHr2HM9Pdkuzct53sdxeXicKaWurCaBYRPHibrBxXHJ4f6COica6JvPoK5z2Wxot4qAq3oQ/640%3Fwx_fmt%3Dpng%3Fx-oss-process%3Dstyle/xmorient)

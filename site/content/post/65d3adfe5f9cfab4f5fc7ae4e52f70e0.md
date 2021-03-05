@@ -4,7 +4,7 @@ Lastmod: 2020-03-19T18:49:04.351115+00:00
 date: 2020-03-19T18:47:18.000Z
 title: "「稻學」與排外：為何「打倒走資派」的語言，在中國互聯網浮現？｜端傳媒 Initium Media"
 author: "theinitium.com"
-tags: [鄧小平,毛澤東,這些,問題,他們,中國,歷史,三十年,稻上飞,稻上飛]
+tags: [鄧小平,毛澤東,這些,問題,他們]
 ---
 
 [theinitium.com](https://theinitium.com/article/20200310-opinion-chinese-politics-history-imagination/)  

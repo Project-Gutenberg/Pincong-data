@@ -4,7 +4,7 @@ Lastmod: 2020-03-07T08:19:13.743768+00:00
 date: 2020-03-07T08:19:13.743024+00:00
 title: "“吸氢疗法”纳入第七版新冠诊疗方案，曾引发争议"
 author: "杜玮"
-tags: [氢气,吸氢,治疗,徐克,钟南山,患者,医学,研究]
+tags: [氢气,吸氢,治疗,徐克,钟南山]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_png/hxTsUqrHvvskA3iajGOk4CqHY1YvHWO5vwIx3lAMGSMWah88ldG1yWpA8GcNnWngwlhSaV1JO34JLGPaib7YcB2g/640%3Fwx_fmt%3Dpng)

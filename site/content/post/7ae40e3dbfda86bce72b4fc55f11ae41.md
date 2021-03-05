@@ -4,7 +4,7 @@ Lastmod: 2020-05-02T14:14:30.767031+00:00
 date: 2020-05-02T14:14:30.764676+00:00
 title: "终于过审，折腾了四年，这个沉默的群体，总算被看见…"
 author: "写字的乌鸦"
-tags: [凤侠,寻亲,养父,蔡凤侠,江阴,韩萌,女儿,养母]
+tags: [凤侠,寻亲,养父,蔡凤侠,江阴]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_gif/zrUKoS7UUSZKtwiaCjrkuXMnPT9tH8XYjj4aV3sSiaC4KoydQuTUFWO9ISnxwBEveGwNgpGp3m0WWKxqUv8vgxow/640%3Fwx_fmt%3Dgif)

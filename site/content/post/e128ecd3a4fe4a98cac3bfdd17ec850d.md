@@ -4,7 +4,7 @@ Lastmod: 2020-03-07T11:28:16.874260+00:00
 date: 2020-03-06T20:24:35.000Z
 title: "疫情下市场萧条 商户退租抗议此起彼伏 - 大纪元"
 author: ""
-tags: [十三行,商户,广州,租户,退租,租金,商场,批发市场]
+tags: [十三行,商户,广州,租户,退租]
 ---
 
 [![](https://images.weserv.nl/?url=https%3A//i.epochtimes.com/assets/uploads/2020/03/Unknown-600x400.jpg)](https://images.weserv.nl/?url=https%3A//i.epochtimes.com/assets/uploads/2020/03/Unknown-600x400.jpg)

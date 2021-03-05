@@ -4,7 +4,7 @@ Lastmod: 2020-07-26T05:35:42.362426+00:00
 date: 2020-07-26T05:35:42.362234+00:00
 title: "外交学院党委书记：愤青外交把中国害惨了！"
 author: ""
-tags: [愤青,南宋,蒙古,陈新甲,金国,崇祯,清流,宋朝,皇帝,皇太极]
+tags: [愤青,南宋,蒙古,陈新甲,金国]
 ---
 
 ![](https://images.weserv.nl/?url=http%3A//www.scyjlaw.com/data/attachment/portal/201703/29/045119lyzhhahoayvh6qza.jpg)

@@ -4,7 +4,7 @@ Lastmod: 2020-06-08T16:23:35.318278+00:00
 date: 2020-06-07T13:45:29.000Z
 title: "郝海东叶钊颖 我们的下半场 - 禁闻网"
 author: ""
-tags: [郝海东,叶钊颖,足球,孩子,小叶,记者]
+tags: [郝海东,叶钊颖,足球,孩子,小叶]
 ---
 
 来源: 人物 ![](https://images.weserv.nl/?url=https%3A//botanwang.com/sites/default/files/styles/632_n/public/field/image/0897-iaxiufn8505479.jpg%3Fitok%3Dw1jUtK7b)

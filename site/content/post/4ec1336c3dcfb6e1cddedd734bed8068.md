@@ -4,7 +4,7 @@ Lastmod: 2020-05-29T12:38:05.013158+00:00
 date: 2020-05-29T12:38:05.010143+00:00
 title: "推荐孩子必看的地理书来了！"
 author: "小贝"
-tags: [孩子,旅行,星球,孤独,购买,孟买,贴纸,啤酒节]
+tags: [孩子,旅行,星球,孤独,购买]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_jpg/DCftNYRGoKWqZMMeOkT7X1eO6Ug92N6Fgw4BVUpficwuWic4cN7oI7Ciapic9AOF1o3PVQEB2BibCjC4kETgG2q9DRg/640%3Fwx_fmt%3Djpeg)

@@ -4,7 +4,7 @@ Lastmod: 2020-08-16T07:38:58.572105+00:00
 date: 2020-08-16T07:38:58.571710+00:00
 title: "《V字仇杀队》台词选"
 author: ""
-tags: [一寸,决不能,仇恨,未曾,外表,微信,音乐,面庞,我爱你]
+tags: [一寸,决不能,仇恨,未曾,外表]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_gif/YN45z9Ka9ibTrKPQTNJXumx0gygDoA6JQh9y29N7natUyYGP4IOU7jAtn0BmCUaLzH1RefOyubF0mPEABJyS8og/640%3Fwx_fmt%3Dgif)

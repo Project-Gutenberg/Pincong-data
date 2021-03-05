@@ -4,7 +4,7 @@ Lastmod: 2020-05-26T14:09:31.897134+00:00
 date: 2020-05-26T14:09:31.895695+00:00
 title: "简闲吃萝卜的代表委员，淡操心的人民群众"
 author: "董文正"
-tags: [政协委员,建议,平台,网友,群众,智慧,城市交通,人大代表]
+tags: [政协委员,建议,平台,网友,群众]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_jpg/tOqRcJshibiaqiaQ7hRFxlWP7VeP4mAet1QiaLrPAJ2WXuvoUzQp5mXc7O8YnL87QnCcRcrPrsUh95qrdrp2ZLF7cg/640%3Fwx_fmt%3Djpeg%26tp%3Dwebp%26wxfrom%3D5%26wx_lazy%3D1%26wx_co%3D1)

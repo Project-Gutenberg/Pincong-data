@@ -4,7 +4,7 @@ Lastmod: 2020-08-15T09:11:15.998127+00:00
 date: 2020-08-15T09:11:15.995656+00:00
 title: "烂尾楼里的30位房奴：每天爬上18楼、集体生火做饭、一个月洗一次澡..."
 author: "盐粒"
-tags: [烂尾楼,烂尾,房奴,居民,孩子,楼梯,房贷,幸福,昆明]
+tags: [烂尾楼,烂尾,房奴,居民,孩子]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_gif/52JBhCibBsRRQK4cK1R1h7D2ucqqXdSNvT5FXTia4x8WicQH4YaaZWpsJibcGbR2RXwKmPvPicfJCh3NZHbK6NgDMjA/640%3Fwx_fmt%3Dgif)

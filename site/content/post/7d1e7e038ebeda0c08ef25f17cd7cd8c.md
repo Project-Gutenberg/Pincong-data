@@ -4,7 +4,7 @@ Lastmod: 2020-07-22T01:31:07.684712+00:00
 date: 2020-07-22T01:31:07.678277+00:00
 title: "鹰爸的魔爪：神童背后的生意经"
 author: "东半球第二正经の"
-tags: [神童,孩子,鹰爸,公学,军事化,办学,特训班,演说,不听话]
+tags: [神童,孩子,鹰爸,公学,军事化]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_png/JibxEhyPTQ1ZiarzUVbD9iabsicYZ8UStq8JJC2p7qia0wiaxQexHDEaLUzGJ5OSx0oSMryIosSOjANdUuxsZ8lsicthw/640%3Fwx_fmt%3Dpng)

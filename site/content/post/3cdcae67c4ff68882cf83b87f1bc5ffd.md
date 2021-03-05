@@ -4,7 +4,7 @@ Lastmod: 2020-07-16T13:06:47.460960+00:00
 date: 2020-07-16T13:06:47.460311+00:00
 title: "中国芯片业“全村的希望”，是投资者赚钱的希望吗？"
 author: "吴海珊"
-tags: [中芯,台积,芯片,纳米,科创板,研发,晶圆,代工,IPO]
+tags: [中芯,台积,芯片,纳米,科创板]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_jpg/5h5qLYvibLEOBwd36HiaOnw5UAGrHMQnsPdvvzkbdLaH2uF9SjBlpiccJKjAXlpbEVicicK1zovZNn7gZO7w4ickN6ibg/640%3Fwx_fmt%3Djpeg)

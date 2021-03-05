@@ -4,7 +4,7 @@ Lastmod: 2020-06-14T13:29:00.089199+00:00
 date: 2020-06-14T13:29:00.089101+00:00
 title: "一天内6人确诊新冠肺炎46人检测阳性，中国北京一城区重启“战时机制”"
 author: "https://www.facebook.com/bbcnews"
-tags: [病毒,新冠,疫情,发地,病例,海鲜,市场,三文鱼]
+tags: [病毒,新冠,疫情,发地,病例]
 ---
 
  ![。](https://images.weserv.nl/?url=https%3A//ichef.bbci.co.uk/news/320/cpsprodpb/2FE2/production/_112885221_xinfadi5.jpg) Reuters 

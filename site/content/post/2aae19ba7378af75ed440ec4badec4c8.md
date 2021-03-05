@@ -4,7 +4,7 @@ Lastmod: 2021-02-13T10:19:42.725920+00:00
 date: 2021-02-13T10:19:42.725318+00:00
 title: "特集 I 疯王川普脱轨记：川普盯上了彭斯 I 第七篇"
 author: ""
-tags: [彭斯,川普,总统,选举,伊斯特,白宫,多斯,拜登,肖特,国会]
+tags: [彭斯,川普,总统,选举,伊斯特]
 ---
 
 ****![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_gif/thibReU11qJaSicCpG1KwhbmzB7vKAIicX6PicmVKcuczvvHuqiblJz9h0azvwCg1mtc83JSIzRdeiasr2RiaPZv0Bjpw/640%3Fwx_fmt%3Dgif)****

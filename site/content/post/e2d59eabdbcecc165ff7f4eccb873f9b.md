@@ -4,7 +4,7 @@ Lastmod: 2020-03-25T10:58:20.329407+00:00
 date: 2020-03-25T10:58:20.329022+00:00
 title: "认证费飙升、截流风险大，中国口罩出海钱不好挣"
 author: "张建锋&nbsp;王颖"
-tags: [口罩,认证,出口,医用,海外,订单]
+tags: [口罩,认证,出口,医用,海外]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_gif/1j8dLsI7H2IEJMboSutsJWrENMYESqqMDGPL0uXEoyQyrbFwz56Qkf7mgaic8VicXbsDWhIhAicicNmdLK0E719LvA/640%3Fwx_fmt%3Dgif)  

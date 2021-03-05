@@ -4,7 +4,7 @@ Lastmod: 2020-06-03T15:08:17.287523+00:00
 date: 2020-06-03T15:08:17.286776+00:00
 title: "谁能拯救中医｜大象公会"
 author: "大象公会Elephantia"
-tags: [中医,西医,医学,中医界,中西医,旧医,学习,卫生部]
+tags: [中医,西医,医学,中医界,中西医]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_gif/Z08UWq352tkicAqPAHJH1nydR37gWegDcyuh6yvpnFxzvfcll9fAI11OZMPtzr6GW6Ria0DT5qHdlTsd9UyPZcIA/640%3Fwx_fmt%3Dgif)

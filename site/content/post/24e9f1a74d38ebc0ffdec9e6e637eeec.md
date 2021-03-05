@@ -4,7 +4,7 @@ Lastmod: 2020-06-14T17:15:54.353442+00:00
 date: 2020-06-14T17:15:54.353187+00:00
 title: "网传：美的老板何享健被劫持 | CareerEngine"
 author: "CareerEngine 北美生活引擎"
-tags: [美的,何享,集团,君兰,2018,创始人,乡镇企业]
+tags: [美的,何享,集团,君兰,2018]
 ---
 
 ![](https://images.weserv.nl/?url=//static.careerengine.us/api/aov2/http%253A_%257C__%257C_mmbiz.qpic.cn_%257C_mmbiz_jpg_%257C_2I3U2zaGs7sicyXPIgE2vxJYBsewB6QF3K5tXibLk0epvoF7ftviclibuicdsNR51SF7JR1AIicH5xuCUYv8KXYl8mDw_%257C_0%253Fwx_fmt%253Djpeg)

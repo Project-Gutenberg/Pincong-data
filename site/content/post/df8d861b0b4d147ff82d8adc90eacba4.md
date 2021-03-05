@@ -4,7 +4,7 @@ Lastmod: 2020-05-29T14:42:16.590769+00:00
 date: 2020-05-29T14:42:16.589974+00:00
 title: "“我，30岁，不敢生病，很少社交”：维持成年人的体面，究竟有多难？"
 author: "点击蓝字关注👉"
-tags: [必要,大牌,制造商,品质,用户,毕胜]
+tags: [必要,大牌,制造商,品质,用户]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_gif/GtWwdCwkv7EtGibq8TibLb9qicdPRv4zbWKXs50Eic6mqwaeuKcwxPWcFcOzdmvmMHiaYMTnloVUib4vzYdCxicyhIGjw/640%3Fwx_fmt%3Dgif)

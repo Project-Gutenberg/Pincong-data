@@ -4,7 +4,7 @@ Lastmod: 2020-07-17T08:24:00.435282+00:00
 date: 2020-07-17T08:24:00.434688+00:00
 title: "IPO 速览 | 被选中的中芯国际"
 author: "晚点团队"
-tags: [中芯,台积,芯片,工艺,晶圆,纳米,张汝京,代工,设计]
+tags: [中芯,台积,芯片,工艺,晶圆]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_gif/8l3j8mUia0gvGvN3Vj6LiaG1XyicqwJoSQPWlfGo1hWHxOLo7Vc40IYgVJ72sVX4F7snoZtkoudeFvp8rk2BFGbrA/640%3Fwx_fmt%3Dgif)

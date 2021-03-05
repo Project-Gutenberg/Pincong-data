@@ -4,7 +4,7 @@ Lastmod: 2020-04-02T15:39:59.249462+00:00
 date: 2020-04-02T15:39:59.249091+00:00
 title: "比安康医院更恶劣！院长补助高出一线医护10倍，谁敢说话就封嘴"
 author: "公民于平"
-tags: [医护人员,医生,补助,医院,领导,刘丹,一线,院方]
+tags: [医护人员,医生,补助,医院,领导]
 ---
 
 最近，我发表[《他们下山来摘桃子了》](http://mp.weixin.qq.com/s?__biz=MzI1ODcyODYwNA==&mid=2247484554&idx=1&sn=a75b630f56558d95cc3ce431bb2a981d&chksm=ea02f379dd757a6f963ca86eccc68f2ebd1c8ec868e6a1cb1390d547b8e672570c9a7fddcaad&scene=21#wechat_redirect)一文，反映陕西安康中心医院抗疫补助发放，院领导拿到的钱远远高于一线医护人员。这篇文章引起很大反响，

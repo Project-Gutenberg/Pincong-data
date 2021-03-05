@@ -4,7 +4,7 @@ Lastmod: 2021-01-16T10:51:53.250606+00:00
 date: 2021-01-16T10:51:53.249643+00:00
 title: "Win10 将永久删除 FlashPlayer ，必须要 flash 时怎么办？可以用什么来替代它？"
 author: ""
-tags: [Flash,flash,Player,浏览器,Adobe,Ruffle,FlashPlayer,微软,插件,补丁]
+tags: [Flash,flash,Player,浏览器,Adobe]
 ---
 
 

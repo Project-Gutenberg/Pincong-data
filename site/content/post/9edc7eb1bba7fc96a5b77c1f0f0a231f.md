@@ -4,7 +4,7 @@ Lastmod: 2020-08-05T05:41:00.366621+00:00
 date: 2020-06-08T15:21:37.313Z
 title: "一边嘲笑别人活着，一边凑凑合合活着"
 author: "张根巨"
-tags: [韩国瑜,罢免,摆摊,嘲笑,游行,群众运动,学区,市长,商铺]
+tags: [韩国瑜,罢免,摆摊,嘲笑,游行]
 ---
 
  ![](https://images.weserv.nl/?url=https%3A//assets.matters.news/embed/d45a485b-e6bf-4669-b6a2-c1547c0f58b0.jpeg) 

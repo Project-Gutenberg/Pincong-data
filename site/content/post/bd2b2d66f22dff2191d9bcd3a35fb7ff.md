@@ -4,7 +4,7 @@ Lastmod: 2020-05-04T11:37:18.546125+00:00
 date: 2020-05-04T11:37:18.545967+00:00
 title: "扶贫项目亏损 基层干部是过是罪？"
 author: "财新记者"
-tags: [多伦县,2016,干沟,项目,向日葵,种植,敏捷,锡盟]
+tags: [多伦县,2016,干沟,项目,向日葵]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_jpg/7BzN7BuDIjS7AiaVqSHYu2iblLEvBKhbpvxkibJvEI4hmhEoYmCVuI2UJ0qfZTR9LKScayrSZ7uNosueiaOeBwlobw/640%3Fwx_fmt%3Djpeg)

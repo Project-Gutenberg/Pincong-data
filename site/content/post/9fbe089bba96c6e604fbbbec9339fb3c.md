@@ -4,7 +4,7 @@ Lastmod: 2020-08-14T14:53:32.069398+00:00
 date: 2018-08-14T14:53:32.069310+00:00
 title: "杭州经济，平和安好"
 author: "槽点挖掘机"
-tags: [杭州,规模,第四组,贷款,居民,同期,676,净增,万套,杭州市]
+tags: [杭州,规模,第四组,贷款,居民]
 ---
 
 以下数据全部来源于杭州市统计局官网，地址为：http://tjj.hangzhou.gov.cn/content-outerViewreport.action?reportid=f8ca6a28-fdba-4256-b5cb-0e7fa86d2a3d

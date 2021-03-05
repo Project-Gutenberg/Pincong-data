@@ -4,7 +4,7 @@ Lastmod: 2020-12-31T10:06:21.393645+00:00
 date: 2020-12-31T10:06:21.393255+00:00
 title: "好文分享丨秦国百姓“可以通过军功改变命运”只是幻象"
 author: "言九林"
-tags: [爵位,军功,公士,爵制,商君书,秦民,秦国,军士,头颅,斩首]
+tags: [爵位,军功,公士,爵制,商君书]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_png/ibYIE3gDV7K5YwSPBO9v3jNuRhy0T2P48GmC6GlQNSCfYBGJuibFUyf9XttW5jBicibNS2UVczuJqoelfRfIg6uiaRQ/640%3Fwx_fmt%3Dpng)  

@@ -4,7 +4,7 @@ Lastmod: 2020-07-07T12:24:05.125536+00:00
 date: 2020-07-07T12:24:05.125162+00:00
 title: "洪灝独家解读A股牛市：短期涨得越快，持续性就越差"
 author: "张晓添"
-tags: [巴伦,中文版,市场,周刊,资金,行情,牛市,M2,轮动,洪灝]
+tags: [巴伦,中文版,市场,周刊,资金]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_jpg/5h5qLYvibLEOBwd36HiaOnw5UAGrHMQnsPdvvzkbdLaH2uF9SjBlpiccJKjAXlpbEVicicK1zovZNn7gZO7w4ickN6ibg/640%3Fwx_fmt%3Djpeg)

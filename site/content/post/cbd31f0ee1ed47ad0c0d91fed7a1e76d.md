@@ -4,7 +4,7 @@ Lastmod: 2020-06-17T14:28:03.917639+00:00
 date: 2020-03-27T00:00:00.000Z
 title: "MATTERS | 雲五：从我被豆瓣判了赛博死刑，到审查体制背后的怯懦"
 author: "InspectorBen"
-tags: [言论审查,豆瓣,文字狱,港警,反送中,香港]
+tags: [言论审查,豆瓣,文字狱,港警,反送中]
 ---
 
 原文地址：[Matters]( "https://matters.news/@ny1k/%E4%BB%8E%E6%88%91%E8%A2%AB%E8%B1%86%E7%93%A3%E5%88%A4%E4%BA%86%E8%B5%9B%E5%8D%9A%E6%AD%BB%E5%88%91-%E5%88%B0%E5%AE%A1%E6%9F%A5%E4%BD%93%E5%88%B6%E8%83%8C%E5%90%8E%E7%9A%84%E6%80%AF%E6%87%A6-bafyreia4l4hibk24l6d33bqedmaqycipkaluio6di3at5tk365ajjqqkqa")  

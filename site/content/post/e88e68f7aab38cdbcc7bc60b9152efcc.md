@@ -4,7 +4,7 @@ Lastmod: 2020-10-04T02:53:58.876083+00:00
 date: 2020-10-03T00:00:00.000Z
 title: "美国的经济本质上还是资本主义的么？"
 author: "ZetaFC"
-tags: [资本主义,政治,武汉肺炎,经济,中国,美国]
+tags: [资本主义,政治,武汉肺炎,经济,中国]
 ---
 
 Is the US Economy Still Functionally Capitalist? - Academic Agent  

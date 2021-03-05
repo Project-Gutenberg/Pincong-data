@@ -4,7 +4,7 @@ Lastmod: 2020-03-07T13:46:35.988031+00:00
 date: 2020-03-07T13:46:35.987873+00:00
 title: "李文亮事件后续：更多“吹哨人”遭中国当局打压"
 author: ""
-tags: [陈秋实,许章,BBC,公开信,言论,李文亮,周佩仪,报导]
+tags: [陈秋实,许章,BBC,公开信,言论]
 ---
 
  ![人们悼念李文亮](https://images.weserv.nl/?url=https%3A//ichef.bbci.co.uk/news/320/cpsprodpb/4795/production/_110852381_5491aa7f-1807-400e-ba6c-9f1208f441df.jpg) Getty Images 

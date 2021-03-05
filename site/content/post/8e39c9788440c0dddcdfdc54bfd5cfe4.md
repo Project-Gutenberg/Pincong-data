@@ -4,7 +4,7 @@ Lastmod: 2020-04-07T08:38:44.822261+00:00
 date: 2020-04-07T08:38:44.821949+00:00
 title: "不可说服的人"
 author: "维舟"
-tags: [说服,范式,其实,自我,闭环,观点,问题]
+tags: [说服,范式,其实,自我,闭环]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_jpg/a5gPZh3sTStCJsRibDJ9uFpX9gKJByUNxW8ADd4GejjVgOIuqhQxgLymqcUaibqF4DqCS6t9dmJk9hSVGI0psoibg/640%3Fwx_fmt%3Djpeg)

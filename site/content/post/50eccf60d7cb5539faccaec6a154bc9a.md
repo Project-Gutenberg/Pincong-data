@@ -4,7 +4,7 @@ Lastmod: 2020-05-17T09:37:18.726899+00:00
 date: 2018-04-18T00:00:00.000Z
 title: "陶崇园正义懒人包2.0"
 author: "端点星"
-tags: [武汉理工大学,校方,王攀,教育部,陶崇园,研究生,校友,老师]
+tags: [武汉理工大学,校方,王攀,教育部,陶崇园]
 ---
 
 信息源自微博id 周Wayne [18日消息](https://m.weibo.cn/6523533544/4230178723592265). 提供的 [有道云链接已](https://note.youdao.com/share/mobile.html?id=b5a16b925694163219262434ec486b6c&type=note#/)、[石墨文档](https://shimo.im/docs/d9AH8rjBM2E6OOHJ/)、[百毒云盘链接](https://pan.baidu.com/s/1fJbTdoyRs3MhzGijTovLaw)都已失效

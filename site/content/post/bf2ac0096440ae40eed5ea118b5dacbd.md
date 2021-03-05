@@ -4,7 +4,7 @@ Lastmod: 2020-07-07T14:39:48.972587+00:00
 date: 2020-07-07T14:39:48.971790+00:00
 title: "高考作文难？我单凭一个司马迁就能拿遍全国0分作文！"
 author: "毕导"
-tags: [司马迁,范例,作文,思路,阅卷,史记,疫情,人生]
+tags: [司马迁,范例,作文,思路,阅卷]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_gif/dibhztzn2cdBicRYb8kx97aernpibumK0KmHiaJ0t4iaLTe6Q13VbicV96MHx0FvjkAB1b903EhIERSBE03zfORfic3gA/640%3Fwx_fmt%3Dgif)

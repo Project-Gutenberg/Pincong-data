@@ -4,7 +4,7 @@ Lastmod: 2020-07-11T15:49:03.754156+00:00
 date: 2020-07-07T16:00:00.000Z
 title: "微博热搜第一！伊利和蒙牛的「6大罪状」是真的吗？"
 author: ""
-tags: [蒙牛,伊利,原作者,三聚氰胺,乳业,跨省,罪状,结论,巴氏奶,追捕]
+tags: [蒙牛,伊利,原作者,三聚氰胺,乳业]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//pic3.zhimg.com/v2-dc0dc2d6de8ea1f393a9c856d813f932_b.jpg)

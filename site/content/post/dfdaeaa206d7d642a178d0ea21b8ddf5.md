@@ -4,7 +4,7 @@ Lastmod: 2020-05-01T09:10:15.526814+00:00
 date: 2020-05-01T09:10:15.526631+00:00
 title: "众声喧哗的时代"
 author: "维舟"
-tags: [多元,文化,声音,社会,解读,权威,报社,后现代]
+tags: [多元,文化,声音,社会,解读]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_jpg/a5gPZh3sTSs5MFut5GEnysOjWaSRIHZgQUiaA6AwcpMG0Gwnra09A3iaDQ58fWJGhJJTKoFpu2hxicupwuFcdutkg/640%3Fwx_fmt%3Djpeg)

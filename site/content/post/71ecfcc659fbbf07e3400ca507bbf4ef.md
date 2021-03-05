@@ -4,7 +4,7 @@ Lastmod: 2020-06-10T16:33:18.192125+00:00
 date: 2019-01-05T04:48:36.000Z
 title: "万象评论"
 author: ""
-tags: [法官,王林清,员额,办案,审判员,入额,视频,助理]
+tags: [法官,王林清,员额,办案,审判员]
 ---
 
 [![](https://images.weserv.nl/?url=https%3A//archive.is/ZOgp3/4c030a05a25f880cc2b16da09b7f580b54ed4c48)](https://images.weserv.nl/?url=https%3A//archive.is/ZOgp3/4c030a05a25f880cc2b16da09b7f580b54ed4c48)

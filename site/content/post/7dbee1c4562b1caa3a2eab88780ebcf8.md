@@ -4,7 +4,7 @@ Lastmod: 2020-08-01T22:27:33.334101+00:00
 date: 2020-08-01T22:27:33.332882+00:00
 title: "吉林再出国学大师，《明学》震撼世界"
 author: "阅毒123"
-tags: [弓克,贺电,副厅长,国学大师,平安,吉林,东北,学术界,明学,二维码]
+tags: [弓克,贺电,副厅长,国学大师,平安]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_jpg/Dz1Nk41VY6VIIZWFeR2oicCq69J3ibTUXuuYjuAIlA4IcDyYM7GLm6Jz1j0yD6AqaraDwwiaCOmYKRkwJicxM1EV2A/640%3Fwx_fmt%3Djpeg)

@@ -4,7 +4,7 @@ Lastmod: 2020-07-24T15:29:57.091835+00:00
 date: 2019-10-20T21:34:33.000Z
 title: "为什么共产党统治能在中国成功 - undefined"
 author: "IAN BURUMA"
-tags: [信条,儒学,统治,改革者,道统,统治者,意识形态,正统,异见,真空]
+tags: [信条,儒学,统治,改革者,道统]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//static01.nyt.com/images/2019/09/29/opinion/sunday/29Buruma/29Buruma-master1050.jpg)

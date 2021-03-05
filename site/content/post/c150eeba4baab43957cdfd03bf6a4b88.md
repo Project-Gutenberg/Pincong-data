@@ -4,7 +4,7 @@ Lastmod: 2020-06-19T12:03:58.480236+00:00
 date: 2020-06-19T12:03:58.480114+00:00
 title: "观察：中英联合声明“失效” 中共承诺价值几何？"
 author: "https://www.facebook.com/bbcnews"
-tags: [香港,中英联合声明,中共,承诺,基本法,中国政府,普选,民主]
+tags: [香港,中英联合声明,中共,承诺,基本法]
 ---
 
  ![China, UK, Hong Kong](https://images.weserv.nl/?url=https%3A//ichef.bbci.co.uk/news/320/cpsprodpb/930E/production/_96764673_039916053-1.jpg) AFP 

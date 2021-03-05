@@ -4,7 +4,7 @@ Lastmod: 2020-07-16T09:01:31.805849+00:00
 date: 2020-07-16T09:01:31.805281+00:00
 title: "唯有爱和尊重可以摆渡"
 author: "张昱程与熹华君"
-tags: [负能量,粉笔,呵护,关怀,用爱,张昱程,孩子,教师,打翻]
+tags: [负能量,粉笔,呵护,关怀,用爱]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_jpg/7tWcBZczicnM7DHeKPCNanzmZGcOsWuWFphPKAFAdV4vcoSrGrN1MnN3iaVvOFDapUtABHuAeMFnQdXOJ77TTRVw/640%3Fwx_fmt%3Djpeg)

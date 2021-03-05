@@ -4,7 +4,7 @@ Lastmod: 2021-01-07T14:49:54.901747+00:00
 date: 2021-01-07T14:49:54.900899+00:00
 title: "【集体化时期托幼研究】万笑男等 | 从“帮忙看孩子”到“为共产主义培育幼苗” ——山东农村保教人员研究(1951-1961)"
 author: "万笑男、朱丽丽"
-tags: [保教,孩子,保育员,妇女,托儿,妇联,教工,母亲,托儿所,教养员]
+tags: [保教,孩子,保育员,妇女,托儿]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_jpg/ia5qsQKa7SQYSBk2DQHf2OURo7cpdpMenQLYKicceHLup8rGZ5a7WMCCICXAGfnpuFW5TRnRjBl3pJj0QmiaXSyLQ/640%3Fwx_fmt%3Djpeg)

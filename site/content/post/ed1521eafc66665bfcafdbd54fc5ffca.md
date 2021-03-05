@@ -4,7 +4,7 @@ Lastmod: 2020-04-11T04:40:13.605623+00:00
 date: 2020-04-11T04:40:13.605325+00:00
 title: "鲁迅，你凭什么出日文版日记？"
 author: "欧阳乾"
-tags: [日记,日文版,出版,狂人日记,四合院,日本,鲁迅,觉得]
+tags: [日记,日文版,出版,狂人日记,四合院]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_jpg/ngJDsTiaCHBgs7ewlGH8M5GAhAqoy7ia01VLVnUjrcsu90iaJVL3IlCRxib8ELa0TonMSV0ZfJMcz2MYgDa2lUjrIw/640%3Fwx_fmt%3Djpeg)

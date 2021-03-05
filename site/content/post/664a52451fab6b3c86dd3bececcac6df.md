@@ -4,7 +4,7 @@ Lastmod: 2020-06-23T11:06:36.402537+00:00
 date: 2020-06-23T11:06:36.402364+00:00
 title: "​五岳亡于天门道长"
 author: "帅呆的sixgod"
-tags: [刘正风,嵩山,天门,左冷禅,天门道人,四岳,反抗,岳不群,泰山,恒山]
+tags: [刘正风,嵩山,天门,左冷禅,天门道人]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_jpg/EC7unEiaL8xqk8lH4bzSDkvG0MTrJPzPxtovNbS1SHIHlA8YBh28IwVwsns20txV0K6S5g5qDGUrrJXfJJPa20w/640%3Fwx_fmt%3Djpeg)

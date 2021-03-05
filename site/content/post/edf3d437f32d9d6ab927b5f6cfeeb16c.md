@@ -4,7 +4,7 @@ Lastmod: 2020-06-14T13:32:43.223456+00:00
 date: 2020-06-14T13:32:29.000Z
 title: "香港《國歌條例》今日生效 「噓國歌」、改國歌或違法 國歌教育納入中小學｜端傳媒 Initium Media"
 author: "theinitium.com - 實習記者 鄺泳珊 發自香港"
-tags: [國歌,立法,條例,侮辱,草案,歌法,會議,2019]
+tags: [國歌,立法,條例,侮辱,草案]
 ---
 
 [theinitium.com - 實習記者 鄺泳珊 發自香港](https://theinitium.com/article/20200612-whatsnew-hongkong-national-anthem-ordinance/)  
