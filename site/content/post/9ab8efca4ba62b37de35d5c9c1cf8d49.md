@@ -4,7 +4,7 @@ Lastmod: 2020-03-24T16:36:02.755063+00:00
 date: 2020-03-24T16:36:02.754491+00:00
 title: "现在缺什么？缺自由|郭晶的捂汗风尘日记|2/12-2/15"
 author: "郭晶"
-tags: [有人,出门,郭晶,口罩,朋友]
+tags: [出门,郭晶,口罩,朋友]
 ---
 
 ![](https://images.weserv.nl/?url=https%3A//assets.matters.news/embed/351daee9-72a0-4a07-9325-7fa78d78c11a.jpeg)
