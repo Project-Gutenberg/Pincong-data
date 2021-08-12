@@ -2,14 +2,10 @@
 layout: default
 Lastmod: 2021-08-12T06:08:19.685657+00:00
 date: 2021-08-12T06:08:19.685093+00:00
-title: "请问丰城警方：说一句 “与病毒共存” 就要抓人吗？ – Telegraph"
+title: "请问丰城警方：说一句 “与病毒共存” 就要抓人吗？"
 author: ""
 tags: [防疫,某良,言论,丰城,扬州,行政拘留,病毒,共存,留言,张文宏]
 ---
-
-[Source](https://mp.weixin.qq.com/s/2iTmCZevjzBepF63L8PjOw?v_p=89&WBAPIAnalysisOriUICodes=10000001_10000002_10000198&launchid=10000365--x&wm=3333_2001&aid=01A0Y3qSeRZOsTCOEcK2I6er6Z9pdlWl3FfEBytlXlMmEIALQ.&from=10B7393010)
-
-商务联系 QQ
 
 江西丰城一位张姓教师，因为在网上有关扬州疫情的新闻下面留言，说扬州可以试验一下 “放弃严格防疫，与病毒共存”，结果被当地警方行政拘留了十五天。
 
@@ -62,18 +58,3 @@ tags: [防疫,某良,言论,丰城,扬州,行政拘留,病毒,共存,留言,张�
 **退一万步，就算丰城的张某良的留言，有嘲讽的意味或不对的地方，他犯了什么法？如果连这样的言说空间都没有，那我们期待的是怎样一个世界？**
 
 **我比较胆小，只是这样弱弱的请教一句。希望不要被跨省。谢谢了。**
-
-PS：
-
-![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_jpg/H3SNQXw0NVvZic0lLNveic6OzibdvjIfKYwO9q0Zo8PZG8gygADibK6hXM6NNN751h6wHSdGmWXhEpzxZ4tYceEIog/640%3Fwx_fmt%3Djpeg)
-
-昨天半夜，重庆女教授跳楼的文章阅读数刚过 6w，就被 404 了…… 想看的请长按下面卡片关注我的小号，特殊话题，以后在小号发布： **请长按上面卡片关注**
-
-[每日荐书](http://mp.weixin.qq.com/s?__biz=MzA5MzI3NjY4Ng==&mid=2651143255&idx=1&sn=8f85be0292ef58cb48c92cc407575ef0&chksm=8b91c336bce64a203ec32a7fcb106eecf5cbbe9305827e8a481e687a37c3f874bf87b6917500&scene=21#wechat_redirect)**        感兴趣的朋友可点击上图购买**长按二维码向我转账
-
-确认过眼神，你是有眼光的人
-
-受苹果公司新规定影响，微信 iOS 版的赞赏功能被关闭，可通过二维码转账支持公众号。
-
-![](https://images.weserv.nl/?url=https%3A//mmbiz.qpic.cn/mmbiz_png/H3SNQXw0NVujIPylle8NJ51TibPpNDauymGz6vBQA1OG4DMUibswRW8kDREPiaftedO9OCdlPU6ia71d4UFu5pJVXg/640%3Fwx_fmt%3Dpng)
-
