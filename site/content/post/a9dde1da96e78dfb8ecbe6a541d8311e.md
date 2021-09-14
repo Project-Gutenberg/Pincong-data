@@ -2,7 +2,7 @@
 layout: default
 Lastmod: 2021-09-14T05:44:51.366190+00:00
 date: 2021-09-14T04:17:19.000Z
-title: "【404帖子】弦子诉朱军性骚扰案第二次开庭在即 公开声援遭遇审查"
+title: "弦子诉朱军性骚扰案第二次开庭在即 公开声援遭遇审查"
 author: ""
 tags: [开庭,弦子,声援,禁言,emsp,微信,海淀法院,性骚扰,朋友圈,外对]
 ---
@@ -22,6 +22,3 @@ tags: [开庭,弦子,声援,禁言,emsp,微信,海淀法院,性骚扰,朋友圈,
 ![cdtimg](https://images.weserv.nl/?url=https%3A//chinadigitaltimes.net/chinese/files/2021/09/IMG_0693-scaled.jpg)
 
 ![cdtimg](https://images.weserv.nl/?url=https%3A//chinadigitaltimes.net/chinese/files/2021/09/IMG_0695-scaled.jpg)
-
-相关阅读：
-
