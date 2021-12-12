@@ -7,15 +7,6 @@ author: "一只猫的折叠花筒"
 tags: [四清,运动,文格,干部,过来人,记忆,社教,亲历记,白区党,德宏]
 ---
 
-CDT编辑注：文字版[原文](https://mp.weixin.qq.com/s/4AdGC7g7Gex1oODdyAnuMA)已在微信上404，图片版截至北京时间12日凌晨4点尚可见。以下文字由CDT编辑根据图片转录。
-
-![img](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)  
-![img](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)  
-![img](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)  
-![img](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)  
-![img](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)  
-![img](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)
-
 “过来人”最不愿提起的一次运动 《“四清”运动亲历记》 郭德宏、林小波 编 人民出版社
 
 2008年
