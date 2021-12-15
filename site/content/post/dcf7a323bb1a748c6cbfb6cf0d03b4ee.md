@@ -2,12 +2,12 @@
 layout: default
 Lastmod: 2021-12-15T07:24:17.959033+00:00
 date: 2021-12-15T06:43:17.000Z
-title: "【404文库】网易新闻｜慢镜头观社会：脑子坏了，还能执掌江山吗？"
-author: ""
+title: "脑子坏了，还能执掌江山吗？"
+author: "慢镜头观社会"
 tags: [李诵,皇帝,中风,唐顺宗,唐德宗,宝座,太子,革新,唐朝,退位]
 ---
 
-作者：慢镜头观社会 原文已被删除
+作者：慢镜头观社会
 
 ![file](https://images.weserv.nl/?url=https%3A//chinadigitaltimes.net/chinese/files/2021/12/image-1639549971553.png)
 
