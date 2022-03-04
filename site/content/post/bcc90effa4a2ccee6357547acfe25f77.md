@@ -3,23 +3,9 @@ layout: default
 Lastmod: 2022-03-04T15:27:26.245236+00:00
 date: 2022-03-04T15:27:26.245100+00:00
 title: "资中筠：一点感想：这个春季不好过"
-author: ""
+author: "资中筠"
 tags: [乌克兰,俄罗斯,锁链,历史,义战,动武,一浪,棋子,无能为力,底线]
 ---
-
-![](https://images.weserv.nl/?url=https%3A//m.creader.com/assets/img/default.gif)
-
-注册日期：2015-04-18  
-访问总量：171574 次
-
-1.  [万维读者网](https://m.creader.com/blog)
-2.  [孤礁絮语](https://m.creader.com/blog/b/9225)
-3.  正文
-
-* * *
-
-sr-annote { all: unset; }
-
 资中筠：一点感想：这个春季不好过
 
 2022 年 3 月 1 日
