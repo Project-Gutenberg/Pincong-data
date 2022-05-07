@@ -1,0 +1,2490 @@
+---
+layout: default
+Lastmod: 2022-05-07T15:59:02.472982+00:00
+date: 2022-05-07T15:59:02.470970+00:00
+title: "如何看待最近张文宏消声一段时间后又重新频繁发声？"
+author: ""
+tags: [张文宏,疫情,清零,医生,共存]
+---
+
+
+    
+### 知乎用户 黄惠儋 发表
+    
+何止是他，一帮装死的都像打了鸡血了。
+    
+    
+    
+    
+### 知乎用户 到处挖坑蒋玉成 发表
+    
+大胆预言，今天新闻联播之后又要装死了
+    
+    
+    
+    
+### 知乎用户  palace green 的草​ 发表
+    
+很简单，上海疫情至今没有任何相当级别的人收到严惩，我指的是区一级的四大家领导，收到免职这样的处分。
+
+而且上海严重的两极分化根本没有制止住，一边能咖啡牛排上门一边抢个方便面都抢不到，封城更是封成笑话，无数荒诞离奇的事件接连发生，就医无门的被活活熬死。
+
+然后呢，没事儿啊，真的嘛事都没啊，这波底线试探已经是阶段性的胜利了，当然可以让张文宏再出来试探一下下一波底线，比如是不是要在上海提前优化人口结构，逆转老龄化趋势。
+
+就问你一句，街头砍死三个人 jc 就要 pk 你了，上海现在的 jc 好像都去搞无人机去了，成本收益比比，张文宏估计以后要开启日更模式了。
+
+真香。
+    
+    
+    
+    
+### 知乎用户 匿名用户 发表
+    
+上海眼看是要控制住了，该出来摘桃子了。再不多说点的话这个功劳就和他无关了！另外辉瑞的神药引进后还没卖多少吧？那可得加油了！
+
+武汉爆发时：
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+
+武汉控制住以后
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+
+对照武汉疫情前期后期的视频：疫情前期：不能欺负老实人，所以要把老实人都换下来，让共产党员上，不管同不同意必须上。疫情控制住以后：你当我不想去吗？这是个机会，都抢着去的，我没抢到好委屈。。。然而再回过头看看之前说的话：哦，合着欺负老实人，不给人家机会的恰恰是您自己啊？
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+    
+    
+    
+    
+### 知乎用户 匿名用户 发表
+    
+疫情期间能生活在有张文宏的城市里，你就偷着乐吧。
+
+![](https://images.weserv.nl/?url=https%3A//pica.zhimg.com/v2-ae915fba7598a3f0fdbf53a779d15605_r.jpg%3Fsource%3D1940ef5c)
+
+.
+    
+    
+    
+    
+### 知乎用户  唐旭堃 发表
+    
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+
+附下，原文地址
+
+[https://mp.weixin.qq.com/s/0\_rvncYJEQDZIM4Xo5EGsw](https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/0_rvncYJEQDZIM4Xo5EGsw)
+
+只有一个问题，上海疫情爆发的时候，张医生到底在不在上海
+
+针对评论虚拟背景的问题，我不确定是不是虚拟背景。
+
+是实话就这清晰度能咬定虚拟背景的也是神人，我反正看不出来是不是虚拟背景。
+
+不过，这至少不是常用背景，找了几张之前张医生远程连线的图。这也不是常用背景吧
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+
+张医生真有用虚拟背景的习惯？
+    
+    
+    
+    
+### 知乎用户 如水 发表
+    
+风声过去了，看着大局已定。不用担心自己担责任了，又赶紧出来刷存在感了呗。
+
+前两天日增两万，他要是敢出来没完没了的胡说八道，玩不好，整急眼了，真就拿他祭旗。
+
+他自己也不干净，论文那事，说大也大，说小也小。而且就他这个级别的，那几年毕业的，学术上没点瑕疵都不正常。无伤大雅的时候，没人管你，要是真有较真的。别说职位了，学位能不能保住都够呛。
+
+原来以为他呼吁吃肉不要喝粥，是个好人。单纯是被人利用了而已。现在看来他就是个哗众取宠之辈。
+
+他和湖北的[张定宇](https://www.zhihu.com/search?q=%E5%BC%A0%E5%AE%9A%E5%AE%87&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2466434099%7D)，张继先等一线的医生比差远了。
+
+但却欺世盗名，还出了书？这典型的德不配位。
+
+就这种所谓的医生掌握话语权，一面当着学阀，一面又拥抱所谓的国际。
+
+这国内医疗状况好的了嘛。
+    
+    
+    
+    
+### 知乎用户 玄觞永恒 发表
+    
+事后诸葛亮
+
+事前猪一样
+
+疫情看起来已经得到了控制，马上就尘埃落定了，准备来分一杯羹……
+
+亲爱的网红医生，你的主场不应该是上海疫情了，我们在英国儿童不明原因肝炎为你开辟了新的战场，我们期待你的表现，加油……
+    
+    
+    
+    
+### 知乎用户  看试手 发表
+    
+听我说，张文宏智商很高。
+
+每次出现风向不利于他的舆情之后，有着网红标签的张文宏都立即在网上隐身，仿佛退网了一样，待到舆情渐渐平息，他就会借着一个新热点为由头，再次在网络上激扬文字，指点防疫。
+
+最典型的，莫过于高强在人日上发文批张文宏，张文宏没有站出来和高强对线，而是立马缩了起来，一缩就是一个多月。
+
+就在大家都以为张文宏怂了的时候，张文宏又站了出来，大家都以为张文宏是看风声过了才出来，但张文宏却说，他之前没在网上发声，是因为那一段时间工作太忙了，忙于防疫。
+
+多好的理由啊，我说改日请你吃饭，一直没请，待到又有事求你，我赶紧给你打电话，说之前太忙了，都没时间请你，今天终于不那么忙了，请你一定赏光，你来了，我先给你一顿高帽，觥筹交错间，继续请你帮忙办事。
+
+忙，始终是个好理由。
+
+这回也一样，三月末，张文宏站出来，在发布会上发言，断言指数传播已被打断，之后的事实证明，张文宏的判断是错误的，之后便是上海愈发混乱的两三周。
+
+四月末，上海疫情向好，张文宏先是以视频连线的方式参加了一个会，之后又紧急安排上海媒体采访自己，在采访中，放了张文宏查房照片，以凸显在过去的一段时间里，张文宏一直战斗在疫情前线，根本没时间上网发声。
+
+可能有人会说，张文宏这回是站出来抢功了。张粉会立马站出来反驳，不是的，功劳本就属于张文宏，你知道张文宏在过去一个月里多么辛苦吗？你只是蹲在家里抢菜，张文宏却蹲在医院里抢救啊！
+
+听我说，咱们在网上评价张文宏的网友，如果有张文宏一半的聪明，社会地位、经济收入都能比现在上一个大台阶。
+
+当张文宏把聪明劲用在名利时，我们却把聪明劲用在几乎没有什么意义的网上发声，这是我辈的悲哀。
+    
+    
+    
+    
+### 知乎用户 此剑无名 发表
+    
+还记得 20 年初武汉疫情时，张大夫的言论吗？
+
+“有事党员先上。你不是党员吗，不是天天学习喊口号吗，现在疫情来了，你们党员先上。”
+
+我也是党员，我也看不惯那些敷衍的形式主义。
+
+但是在这种场合下，在公众环境里，用这种语气说出来，便带着浓重的‘鄙视感’，从那时起，对张本人没有一点好感。
+
+总结：哗众取宠，装 B 过头。装清高，图名图利。
+
+随便反驳，谢谢大家。
+    
+    
+    
+    
+### 知乎用户 覆土生​ 发表
+    
+一个小小的疑惑：
+
+如果不是在去年，而是在现在。复旦大学学术道德委员会对张文宏医生的博士论文可能存在的学术不端行为进行调查。
+
+会得出一个怎样的结果呢？
+    
+    
+    
+    
+### 知乎用户 千寻百度​ 发表
+    
+代理人喉舌罢了，上海出了那么大的篓子，有谁被追责吗？啧啧…… 我可不相信几个小商贩、基层干部能捅出那么大篓子。
+
+那说明什么，说明那一帮利益团伙完好无损，连弃车保帅都不用做。
+    
+    
+    
+    
+### 知乎用户 CYNIC 发表
+    
+充分体现了什么样的人怎么扛着红旗反红旗，体现了这种人是如何窃取了我们党，我们人民群众艰苦奋斗胜利的功劳。
+    
+    
+    
+    
+### 知乎用户 外行看门道 发表
+    
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+
+上面这个新闻一出来，很多人都说是[人民日报](https://www.zhihu.com/search?q=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2466939580%7D)对张文宏的肯定。但是仔细看是人民日报客户端上海频道。这很有拉大旗做虎皮的意思。这种非纸媒的地方频道很可能还是上海的势力在抬举他。要把他的权威形象进一步做实。
+
+下面的是上海的地方媒体。更是借着张文宏的嘴，把上海和武汉一起做对比。这多么没有牙的人能做出这种事情用上海去比当初的武汉。这也可以看作是上海的势力在抬举他，要把它进一步做实权威形象。
+
+![](https://images.weserv.nl/?url=https%3A//pica.zhimg.com/v2-cc75bd43f9cc4412716dfe5a1c4ad475_r.jpg%3Fsource%3D1940ef5c)
+
+下面是一个网络截图。不知道里面这个表述来源是不是可靠？但是我觉得这里面的表述挺有意思。一个喜欢夸夸其谈政治经济历史的人多半有点别的心思。
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+
+最近的事情让我觉得魔都似乎是一个特区。自己独立出的特区。这个魔都特区似乎在实行一国两制。
+
+[如何看待张文宏医生表示自己是老实人在工作中一直被欺负？](https://www.zhihu.com/answer/2469602308)
+    
+    
+    
+    
+### 知乎用户 缺月梧桐 发表
+    
+我没有看到可靠信息，
+
+但是，目前上海抗疫指挥官，大概率是张伯礼、叶财德等人，也就是南下干部。
+
+上海整个医疗系统应该已经被南下干部接管，之所以进行这个判断，是根据微博上大量水军和利益既得者辱骂叶财德等人。  
+假如他们利益没受损、地位没受到威胁，那么为什么骂叶财德？
+
+然后根据时间线判断，南下干部接管之后，拐点才出现，说明南下干部才是真正干活的。
+
+**网红在南下干部接管医疗系统、真正拐点之后才频频发声、用各种渠道占据热搜，这只能说明他们害怕、恐惧了。**
+
+害怕恐惧什么？
+
+一个大战役，开始就想投敌，甚至搞出录音事件宣传敌军无害、说出和敌军共存才是王道、敌军有强烈和我共存的意思等等屁话；
+
+**上面临阵换将，还打赢了，你说那些被换掉的家伙会不会反扑？**
+
+他们恐惧万分频频发声急于洗白，说明形式一片向好！
+
+他们想下山抢桃子，说明下面丰收了，说明形式变好！
+
+他们怕了！怕清算！怕查自己利益勾结体！更是向好！
+    
+    
+    
+    
+### 知乎用户 青蛙油炸更香 发表
+    
+自上海疫情爆发以来网红张语录：
+
+1.“疫情已出现拐点”=> 那才是疫情的开端
+
+2.“疫情指数上升趋势已被打断”=> 确症人数以几何趋势上升
+
+3.“奥密克戎总病死率很低，只有 0.0178%”=> 过了几天，这个指标已上升四倍，结合还有重症危重 400 多人，预估超过 0.1% 几成定局。
+
+4\. (5/4 增加) 隔离是导致幼儿肝炎的重要可能原因。那阿拉桑居家 40 天，难不成大英帝国的隔离措施比阿拉桑还厉害？大英帝国名义上群体免疫，实际上搞隔离？？？
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+
+综上，网红张作为疫情防控专家，发表的言论存在严重科学性错误，显示其不具备胜任其工作的能力，应就地免职，取消退休待遇。
+    
+    
+    
+    
+### 知乎用户 倒春寒 发表
+    
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+
+别的咱也不知道，我就不懂尼玛一个流感而已，病人都转阴了，旁边的人口罩都不带，你把自己裹得这么严实？你告诉我这就是流感而已？
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+
+这果子快要熟喽！
+    
+    
+    
+    
+### 知乎用户 水星不插电​​ 发表
+    
+我在本科阶段上过张老师的课（本人复旦医学生）。
+-----------------------
+
+那是在新冠疫情开始之前，**张老师来教室给我们上《传染病学》绪论课**。
+
+那时候张老师还不是网红，只是**华山医院感染科主任**。班上想选张老师作为博导的同学甚众。
+
+课上张老师属实把**人类的传染病相关历史**讲明白了，也提到了**华山医院（感染科全中国第一）**目前在传染病防治方面的主要成绩。
+
+印象里，张老师的课**一级棒**（看得出来有认真准备过），张老师的**专业水平也令人赞叹**（各种传染病的活字典）。
+
+话就说到这吧，疫情弄到这个份上，我也不想妄言。
+
+我只说我亲眼看过、亲耳听过的事，如上。
+-------------------
+    
+    
+    
+    
+### 知乎用户 Aaa 发表
+    
+虽然嘴上喊共存，可他比谁都怕被感染。
+
+………………………………………
+
+评论里很多[张教主](https://www.zhihu.com/search?q=%E5%BC%A0%E6%95%99%E4%B8%BB&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2466133744%7D)的教徒质问我穿防护服看病人有啥好喷的？我只能说你们这智商难怪能被他忽悠了。
+
+这新闻的重点不在于他穿不穿防护服，而是以爱丁堡媒体推他的力度，除了在线问诊我就没见过他参与治疗阳性病人的新闻。
+
+而且这厮每次都是在最安全的地方和时间大放厥词。就像这次爱丁堡疫情爆炸的时候，他就跟死了一样隐身，现在情况好一点了，就跟媒体一起跑去方舱蹭热度摘桃子。我就问你们谁见过天天忙着治疗阳性病人的医生能长胖的？你瞧那大肚子，怕不是在家数钱累出来的。
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+
+张文宏（左一）在询问新冠重症患者（已转阴）病情
+    
+    
+    
+    
+### 知乎用户 数学建模老司机 发表
+    
+张网红现在的发言估计也不完全是他自己的想法了，尽管言论里面还是夹带着不少私货（比如为自己开脱的言论）。
+
+总而言之，如果你是张网红的粉丝，你可以永远证明他是对的。因为张网红的发言总是反反复复的车轱辘话，正反两面怎么解释都讲得通，随着舆论风向见风使舵就好。
+    
+    
+    
+    
+### 知乎用户 糊涂​ 发表
+    
+和泽连斯基一个类型的。
+
+话说的很漂亮，实际上为美国代言，给大家挖坑。
+
+小心颜色革命，小心泽连斯基，小心张网红。
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+    
+    
+    
+    
+### 知乎用户 点赞勿评论 发表
+    
+看来这波躲过去了，网红走可以高兴的在上海和全国人民面前蹦跶。
+
+[文宏](https://www.zhihu.com/search?q=%E6%96%87%E5%AE%8F&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2466847593%7D)，国士无双。
+    
+    
+    
+    
+### 知乎用户 慧觉真实义 发表
+    
+一，张文宏这个人，代表了一类人，就是接受了国外教育，精致利己主义，生活在自身舒适圈的精英阶级。
+
+二，我们自始至终要清楚一个事实，如果一个人不蠢，那里面的心思绝对是从利益出发的。
+
+三，倒春寒、让党员先上、鼓吹精准防疫、在没有确实证据下说肝炎是隔离问题，这些充满了不负责的言论，让人不得不怀疑。而且我没记错的话，**张网红没有入党吧？**躲在后方让党员先上可还行。**如果是一个普通老百姓喊着让党员先上，其实问题不大。他是一个『喊完党员先上，然后说这是一个机会的丑恶嘴脸』。**
+
+四，有时候，他突然消失，这时候又出来上蹿下跳。不是为了名利，就是在考量利益。
+
+五，张文宏的出现，也说明了另一种现象。有些人说到底，被资产阶级的名利，给腐蚀了，变得脱离人民群众。宁可为了自己的荣华富贵，卖掉上海老百姓，也要鼓吹共存。
+
+六，在莲花清蕴发表了公开声明，并且确实进行了实验之后，没有人鼓吹辉瑞了。看来，十几元的莲花，2300 一支的辉瑞，阻断了某些人的财路。
+
+七，辉瑞的效果其实并不好，也不是根除新冠的特效药。而且有些以前回答辉瑞问题的高赞答案也说了，辉瑞是暂时阻断生病，一旦停药必定复发。辉瑞作为美国紧急上市的药物，充满了很多问题。
+
+八，有的人说，莲花是安慰剂。哦，辉瑞 2300 的安慰剂，活生生吸血老百姓，这个『安慰』，是可以让老百姓破产，直接睡到垃圾箱里的『安慰』，这时候谁也不说了。大有发国难财的迹象。这要是有人跳出来，大声的说，『你们这样是要下地狱的』。那内心龌龊的人，却又像虫豸一样冒出来，说什么听不懂的话的。原来某些人确确实实收了钱，对于自己会不会下地狱，自己心里却又惶恐，这种惶恐的心态，着实的可笑。
+
+九，有些事情，你不妨大胆的猜。就说对方确实是收了钱。到最后如果他不能像鲁迅一样敢出来发几篇文章，那有可能真的收了钱，而且不少。
+    
+    
+    
+    
+### 知乎用户 唔悦 发表
+    
+上海嘛，这次疫情我就没见过几个处级以上被问责。。现在形势变好了，那就更不可能追责了。当然要出来刷存在感抢功劳啦。
+
+这个人的屁话和上海官方一样。懒得看。
+    
+    
+    
+    
+### 知乎用户 当幸福来敲门​ 发表
+    
+他连续两天登上人民日报。人民日报表扬他是负责任的好医生。而他，内心是倾向共存的。说明什么？？
+
+我的推断是，其实 XX 也有两手准备。
+
+1\. 动态清零
+
+2.“清零” 之下的共存
+
+清零自然不必谈，现在每天都在说清零，在说清零的好处，让人们坚持清零不动摇。
+
+但是，也要留一手万一以后会走 “清零” 之下的共存？那么就需要留一个在台前的人去时不时提一提这种可能，这样也让民众有一定的心理预期有这样的一条路存在。为以后舆论的转向做准备。
+
+上海的事，可以说张文宏有很大的责任。按道理，这样的责任主要承担者。居然不仅没有被撤职，没有被彻底禁言（参考王思聪）。甚至还能对公众发声，更何况他的思想就是 “共存” 啊！他居然还能上人民日报，还是持续两天。第一天是他说上海死亡率是 0.017%（梁万年先生说的死亡率是 0.7%），第二天是表扬他是负责任的好医生！！！
+
+另外，请注意张文宏的身份，他是国家传染病中心主任，这个身份，其实就是有国家级背景的。有些事，有些话，也许不是他个人的意志想要说，或者想要做的。
+
+政治，是个复杂的东西 \[思考\] 您说呢？
+
+我个人愚见，张文宏背后是有人扶持的，不然他不会说这么多话，他其实是一个被推上前台的话事人。
+
+近期，北京的疫情，我观察到，并没有全面封城，还是在尽量少范围的封城，减少对经济的影响。期待着北京这次能控制住，这样就不是一刀切，就是相对精准防控了！
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+
+上面的图是我 4 月 26 日对以后可能的防控的方法的预测。
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+
+这是 5 月初各地出台的新防疫政策。
+
+我对未来的防疫预测一下：
+
+1\. 本着早发现，早控制的理念。核酸将会常态化。出入不同的公共场所，所要求的核酸的时间会有所不同（2---7 日内核酸不等）这个具体时间应该会放开让各地去自行要求，但肯定是以常态化核酸为基础。
+
+2\. 如果一切顺利，发现的早，那么就可以封控的早，封控的范围也会小，发现传染源的可能性也会大。这样基本就可以尽量的减少对因为大范围封控对经济的不利影响，甚至争取精准到封楼，防止一刀切。
+
+3\. 国内疫情控制下来以后，国内各地的各种码的系统可能会进行统一，并且规定一个大致的流动规范，如：两地行程码都是绿码，不许进行隔离（或居家隔离 1--3 天？），两地其中一地绿码，另外一地黄码，怎么怎么样。应该不会规定死天数，但会根据不同的码，给一个隔离的时间范围。交由地方自行决定。做得好皆大欢喜，做的不好地方得负责。这样，会有效的缓解层层加码的问题。而且出了问题，责任也由地方承担。
+
+4\. 对国外的进出口，会加大防止输入的力度。外防输入的措施会非常严格。
+
+5\. 各地会建大量方舱备用（尤其是大中型城市或者边关城市）对于轻重症患者的对待方式会有一些调整。核酸自测盒不会大范围推广。还是以传统测核酸为主。
+
+轻症，无症状会直接去方舱隔离治疗
+
+重症去定点医院治疗
+
+正常人正常工作生活
+
+基本还是动态清零为基础的，精准防控模式（也就是张文宏的精准防控思想的延展和某些方式的加强。）
+
+疫苗会加紧研发，不仅是灭活疫苗，还有 “国产” 的 mrna 疫苗。疫苗三针会建议混打。参考香港打疫苗的数据如下图
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+
+如果一切顺利，这样的动态清零的 “精准” 防控模式，对于生产生活经济的影响会降低一些。
+    
+    
+    
+    
+### 知乎用户 还是不注名好 发表
+    
+房间里有蚊子，他正在你的耳旁密集发声。
+
+你可以选择把蚊子拍死，这样需要费一番功夫，而且会溅你一手血。
+
+你可以选择挥挥手把蚊子赶走，但这样的话，消声一段时间后，蚊子又会回到你的耳旁密集发声，还会叮你一个包。
+    
+    
+    
+    
+### 知乎用户 文韬​ 发表
+    
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+
+为什么不问一下为什么媒体给了一个人这么多发声的平台和机会？
+    
+    
+    
+    
+### 知乎用户 helo 发表
+    
+赶快刷刷脸，摘桃子，好继续作妖。
+    
+    
+    
+    
+### 知乎用户 开车阵亡杨大少 发表
+    
+“什么？让我去指导股市？可我根本不懂股票啊”
+
+“没事，您只需要活用您在上海抗疫的经验就行。毕竟您指导什么，什么就噌噌的往上涨”
+    
+    
+    
+    
+### 知乎用户 ergexh 的小号 4 发表
+    
+看到了
+
+[@水星不插电]()
+
+这位优秀校友的回答，我作为他旦不入流的从医失败者学渣医疗垃圾也来答一下吧。其实说过好多次相同的内容了我就不重复了，直接放链接
+
+我大五实习在华山医院见过张文宏，感受过科室里的 "张爸" 气息（本人复旦医学生），我同学有几位博士的导师就是 "张爸"，我之前也给 "张爸" 辩护过。但现在不了，因为人在上海，我真的有一头牛，张主任抱歉
+-----------------------------------------------------------------------------------------------------
+
+[张文宏接受媒体采访时表示，高龄患者与基础疾病患者的病故，是上海救治最大挑战，如何看待这一判断？](https://www.zhihu.com/question/529834467/answer/2456647268)
+
+这是之前还处于挺张派态度时的回答
+
+[如何评价复旦大学张文宏 / 张颖共同通讯的论文被期刊撤稿？](https://www.zhihu.com/question/491323703/answer/2162414165)[读了张文宏写给年轻人的一封信《流水争先，靠的是绵绵不绝》，你有何感想？](https://www.zhihu.com/question/507767262/answer/2292411268)
+
+已经说过了，转向倒张态度，是因为看到了上海卫健委 / 疾控 / 医界高层公然靠健康云数据造假，靠请假科普发公众号文章选择性摘经来蛊惑人心渲染 "大号流感"，公然违反第九版诊疗方案里的轻重危重型诊断标准
+
+[汪诘采访上海疾控专家，证实上海目前 0 死亡重症，无症状是无肺炎症状，如何科学理解这种情况？](https://www.zhihu.com/question/525687098/answer/2420722148)
+
+你们有自己的 "科学" 观点抗疫方案，我不持态度。你们靠造假欺瞒来强行推行自己这一派的私货，那可就别怪一般外行路人 / 看起来跟上海医界高层无直接利益相关的圈内他旦校友 / 上海以外地区的医学界人士质疑你们了。
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+
+引述一下我的一位还在他旦某医院读博的医生学弟的话：
+
+**"内行领导不是万能的，一个弊端就是有时候会因为共同利益而相互袒护，所以教员觉得需要发动一场自下而上的运动破除一下"**
+
+一小部分人靠专业地位，把自身的利益包装成全民的利益，选择性地向群众灌输 "正确思想" 也不是不可能的事情。连花清瘟，gv971，不都是一样吗
+
+我也只说我亲眼看过、亲耳听过的事，如上。我当年在枫林上《传染病学》绪论课时来上课的还不是张文宏，当时还是[卢洪洲](https://www.zhihu.com/search?q=%E5%8D%A2%E6%B4%AA%E6%B4%B2&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2469996071%7D) (上课不讲课，净在那儿吹自己实验室有多牛，基金经费有多多。好好上课这点上应该不如张文宏)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+（这部分记忆大概率有误，我跟评论区的其他枫林学子对话后才想起来卢洪洲上的是选修课” 新发传染病学” 的总论，张文宏上的是必修传染病学的绪论。据该学弟回忆，张的绪论课也是自我吹嘘成分居多，我不记得我是把当时上课的张记成卢了还是根本就把绪论课翘了...）
+    
+    
+    
+    
+### 知乎用户 See​ 发表
+    
+我个人支持张文宏医生，我是来 battle 的。
+
+1，如果觉得引进特效药，给老百姓多一个选择不好，或者说使用进口药不好；那么，以后患重大疾病了请坚持使用国产药和国产设备。
+
+2，如果觉得发生疫情就该一刀切，让上海继续封城，不该复工复产；那么，今年上海转移支付出现问题，导致部分欠发达地区财政出现问题，部分老百姓收入下降物价上涨，就不要抱怨。
+
+3，其他想到再写。
+
+疫情当前，上海和中国其他城市相比确有不同。两方面 1，有经济任务。2，基层素质确实良莠不齐，确切地说，有很大问题。第一点导致做事有点畏首畏尾，第二点导致基层政令执行死板、或者偏差。多的不做赘述。
+
+三年以来，不是张医生，也会有李医生，王医生，出面对抗新冠，战争本来就有输有赢，一次抗疫不利就要网暴个人，非要中个离间计，把蔡瑁蔡中杀了，才知道后悔吗。
+
+科学的事情，请交给相关科研人员，科研活动本来就有就有往复。从大局上说，判断错误不应该，因为后果太过严重；但是从客观世界来说，新冠病毒确实是非常狡猾的病毒，不断变异，以试图在人类社会中存活下去。人定胜天？真的符合自然规律吗？
+
+最后，请别让小说《三体》里说，“人类并不感谢逻辑” 的事情，在现实里发生。
+
+ps：不要谈什么排外、咖啡、利己主义，谢谢。
+    
+    
+    
+    
+### 知乎用户 大顺宰相牛金星 发表
+    
+跪求别出来说那些刀切豆腐两面光的鸡汤话了。
+
+每一次他出来说话，都会引起上海人民大内斗、大混乱、各种互掐和友尽。
+
+这几天看着数字掉下来了，物资也平稳了，群众情绪好不容易平静甚至看到希望了。
+
+得，又出来说话了。
+
+我们给这些 “真理、脊梁、科学、真相、骨气” 点赞，你们是好样的，我们不黑你们。
+
+但求放过上海的老百姓吧，我们真的疲惫不堪了。
+
+我们只想平静的生活，只想上海赶紧好起来。
+    
+    
+    
+    
+### 知乎用户 清风拂面 发表
+    
+欢迎大家讨论，但是你得承认在面对奥密克戎的时候目前的封城政策和经济发展至少是呈负相关的，我们才有讨论的必要，不然您都既要还要了，那就没讨论的必要了
+
+———————————————
+
+上面有人想舍经济保清零，有人想保经济舍清零
+
+前两年第一派以压倒性优势取得了胜利，并且占据了道德高地，将反对的批成了美国的走狗
+
+但是 22 年西安的一波封城，是武汉封城后最大的一次封城，上千万人吃饭都成了问题，算是再一次将共存和清零拿上了台面讨论，也就是那以后知乎上面越来越多的人支持共存了
+
+上海一直搞精准防疫，说白了就是第二派的大本营，这次一直不封就是想要用既定事实来做成第二种方案，让清零变成不可能，倒逼全国保经济
+
+你可以说上海就是章北海，在说服不了老航天的情况下直接采取非法手段把他们做掉了，拯救了航天事业，也可以说上海是昭和男儿，直接军变让日本在战争深渊中越陷越深
+
+我们目前没有人敢保证清零 / 共存谁是正确的，上海究竟拿的是三体剧本还是昭和剧本，时间会给我们答案
+
+这等待过程以后在历史书上可能也就是简单几个字，曲折的探索，初心是好的，形式的误判，但确实我们实打实流失的青春
+
+只是希望几十年后别有蠢货跳出来说 xxx 受了几千年委屈，让你们受几年委屈怎么了
+    
+    
+    
+    
+### 知乎用户 实话商人​​ 发表
+    
+我以为这个大网红，经历过上海这么大的事，好歹消停了，自我感觉愧疚，愧对上海人民。
+
+结果还在为上海人民代言！
+
+我是真的服了，他心理素质咋就这么好？
+    
+    
+    
+    
+### 知乎用户 Lave Wong 发表
+    
+工具人上班了而已。
+
+像张这样的人，当众说的每一句话都是代表组织的，他怎么可能脱离组织自己胡乱地自说自话？
+    
+    
+    
+    
+### 知乎用户 ceniux 发表
+    
+疫情第三年，实际上怎么防控，已经有一套成熟的方案了。
+
+[张文宏](https://www.zhihu.com/search?q=%E5%BC%A0%E6%96%87%E5%AE%8F&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2467852248%7D)重新设计了一套 “精确防控” 的方案
+
+![](https://images.weserv.nl/?url=https%3A//pic4.zhimg.com/v2-88cae4f3c7adad7ac5c41053b982d28d_r.jpg%3Fsource%3D1940ef5c)
+
+这里有两个问题：
+
+一个是他没有抗疫一线工作的经验，完全是理论上推导，闭门造车。你坐个出租车，也不会让没摸过车的人来当司机吧？
+
+还有，一个从没验证过的方案，为啥直接在上海实施？一旦实践证明他假设的方案是错误的，造成的影响是毁灭性的。
+
+上海的疫情是从三月初开始的，而深圳也是同时发生疫情。
+
+上海采取张文宏的 “精确防控”，就是不需要大规模做核酸检测，也不需要封闭和隔离。而深圳采取传统的大规模核酸检测 + 隔离阳性感染者。
+
+这两个城市很像，对比一下结果。证明他的 “精确防控” 方案是错误的。
+
+张文宏设计了一套错误的方案，直接用在上海。彻底弄崩了之后，应该老老实实承认错误，承担起应付出得责任。
+
+结果他对 “精确防控” 闭口不谈，也辞去了疫情防治组组长的职务，跑到海南博鳌去了。
+
+终于，他把自己的家乡变成了疫情第一线。
+
+都这样了，他还是没去一线。
+
+张文宏给我的感觉像是网络上的键盘侠、键盘政治家。
+
+“只要按照我的方案，那么中国……”，出事以后拍拍屁股跑路。
+    
+    
+    
+    
+### 知乎用户 neilwang 发表
+    
+![](https://images.weserv.nl/?url=https%3A//pica.zhimg.com/v2-f2feb8f29bca1937ed994d50a52c5308_r.jpg%3Fsource%3D1940ef5c)
+
+**医用白手套「既拿捏也 OK」，质量上乘品质保障**
+    
+    
+    
+    
+### 知乎用户  vicky zheng 发表
+    
+网红黑眼圈剑指国家动态清零政策中的隔离措施，意欲何为姑且不论，说儿童急性肝炎是新馆隔离所致，不得不说简直智商感人，堪称学术混子，血饮禁不住要批驳一下：
+
+**_01_**
+
+**疾病爆发与腺病毒无关**
+
+网红黑眼圈的结论，直接排除了这种不明儿童肝炎是新冠病毒引发，然而，日本厚生劳动省 4 月 25 日发表消息称，日本国内也出现了首例可能患有不明原因急性肝炎的儿童。但据日本广播协会报道，与此前在欧美出现的多数病例不同，这名病患并未检测出腺病毒。
+
+很明显，日本患儿身上没有检测到腺病毒，如果是腺病毒导致了不明肝炎，那么，为什么日本检测不到腺病毒而英国检测到了呢？其实，原因很简单，因为三大神药中的阿斯利康就是腺病毒载体疫苗，日本虽然购买了 1.94 亿计阿斯利康，但并未给国民注射，所以，日本患儿身上没有发现腺病毒。
+
+**_02_**
+
+**无法排除与新冠的联系**
+
+4 月 26 号，科技日报援引以色列《国土报》《耶路撒冷邮报》等媒体报道，尽管没有明确证据表明这种不明肝炎与新冠病毒相关，但多名以色列医疗专家在接受媒体采访时表示，怀疑两者间存在联系。以色列施耐德儿童医疗中心小儿肝移植中心主任格拉斯伯格称，在排除了各种可能性之后，发现的所有病例的共同点，都是在肝炎出现前三个半月左右感染了新冠病毒。已知严重的新冠病毒感染可能会损害肝脏，因此这种不明肝炎可能是新冠肺炎的长期症状之一。
+
+耶路撒冷哈达萨 · 艾因 · 卡莱姆医院肝病科主任萨法迪认为，这种肝炎与自身免疫性肝病类似，其诱因通常是感染，即人体从感染中恢复后，免疫系统会在某些情况下攻击肝脏。以色列的大多数病例是没有接种新冠疫苗的儿童，尽管其诱因可能是另一种病原体感染，但新冠病毒是过去一年的主要感染因素，因此有理由怀疑这种不明肝炎与新冠病毒有关。
+
+从上面的新闻可以看出，即便是出现西方自己都无法排除不明肝炎与新冠有关，但张黑眼圈却敢于在现有研究资料都没有了解充分的情况下，就信誓旦旦地将新冠排除在外，完全被不提新冠是导致不明肝炎的任何可能性。不知道这位肝病砖家的科学素养在哪里？是猪油蒙了心，还是做贼心虚？
+
+**_03_**
+
+**腺病毒不会导致急性发病**
+
+理论上而言，广泛存在腺病毒感染确实可以导致肝损伤，但请大家注意了，英美以等国发现的不明肝炎，都是在不到三个月时间内就发展到了急性肝坏死，甚至严重者已经需要肝脏移植，这种猛烈发病根本就不是腺病毒感染所能导致的，更别说腺病毒感染以后人体会快速产生抗体清除，所以，从这里也能看出，网红黑眼圈的神棍本色。
+
+**_04_**
+
+**不明肝炎与隔离无关**
+
+在不明肝炎爆发的同时，美国自 2020 年 3 月新冠爆发以来，成人肝脏移植增加了 50%，很明显酗酒这个长期问题不可能导致病人在短短三年内就让肝脏移植增加这么多，也不可能导致如此多的病人在短时间内发展到肝坏死需要移植肾脏的地步。唯一的解释就是，新冠病毒爆发损害了酗酒者的肝脏，加大了免疫系统破碎进程，新冠破坏体液和细胞免疫，让普通疾病开始 “新冠化”。
+
+仔细想想网红黑眼圈的这些话，其可笑程度堪比周星驰电影。之前，它一直鼓吹英国不隔离新冠病毒，是群体免疫的全球急先锋，现在又说，大英帝国爆发不明肝炎是因为大英帝国长期的新冠隔离。事实上，英国早就躺平了，英国哪门子来的新冠隔离？事实是新冠病毒污染了原本受到隔离保护的儿童，才导致肝炎爆发，到了它的嘴里，不明肝炎反而又是因为严格防疫管控。如此逻辑与神经错乱，我觉得网红黑眼圈有必要放下忽悠的工作，去神经科挂个号，好好看看自己的脑子。
+
+网红黑眼圈之所以将不明肝炎归咎于严格隔离，其说法其实也是有源远的，它来自于英国公共安全局的说法，它们上来就下意识否定了此病由新冠疫苗导致，却对儿童体内大量的腺病毒从何而来置若罔闻。很明显，从英国干爹有什么最新说法，网红黑眼圈就会不假思索地拿来，特别害怕民众将不明肝炎与新冠和三大神药结合起来。同时，它们又非常巧妙地将这种不明肝炎的爆发与长时间的新冠隔离联系起来。意欲何为，不言自明。
+
+很明显，它们是在瞒天过海地将引发不明肝炎的新冠病因，从英国全面开放躺平以及面对奥米克戎几乎完全无效的三大神药身上转移视线，暗戳戳地企图对准中国国内目前正在执行的长时间与新冠病毒防疫隔离的 “动态清零” 政策。在人民日报、新华社等官媒一再强调国家政策是保持 “动态清零” 不动摇的的前提下，二鬼子们依旧在勾结犹太资本忽悠中国，妄想将中国拉到 “与病毒共存” 的尸山血海之中。
+
+转自～血饮
+    
+    
+    
+    
+### 知乎用户  Anonymous 发表
+    
+这个问题下面的答主里, 外宾真的太多了.
+
+某前首富之子: 我也想频繁发声啊~
+    
+    
+    
+    
+### 知乎用户  恶魔猎手 发表
+    
+_我国是人口大国，老龄人口多，地区发展不平衡，医疗资源总量不足，放松防控势必造成大规模人群感染、出现大量重症和病亡，经济社会发展和人民生命安全、身体健康将受到严重影响。要深刻、完整、全面认识党中央确定的疫情防控方针政策，坚决克服认识不足、准备不足、工作不足等问题，坚决克服轻视、无所谓、自以为是等思想，始终保持清醒头脑，毫不动摇坚持 “动态清零” 总方针，坚决同一切歪曲、怀疑、否定我国防疫方针政策的言行作斗争。_
+
+**“认识不足 准备不足 工作不足 轻视 无所谓 自以为是”**
+
+话说的已经很明白了，请外省自行对号入座，你说是吧，**大上海？**
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+    
+    
+    
+    
+### 知乎用户 大叔 206​ 发表
+    
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+    
+    
+    
+    
+### 知乎用户 又高又瘦 发表
+    
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+
+![](https://images.weserv.nl/?url=https%3A//pica.zhimg.com/v2-c00db56f66938fe83f98e79e13a52123_r.jpg%3Fsource%3D1940ef5c)
+
+![](https://images.weserv.nl/?url=https%3A//pic2.zhimg.com/v2-12f4bebaaf7209d1fb4cc78344054f46_r.jpg%3Fsource%3D1940ef5c)
+    
+    
+    
+    
+### 知乎用户 张婷​ 发表
+    
+对于反社会人格无差别犯罪的社会渣滓、网络上喷天喷地的键盘侠、行业里的蛆虫无耻之徒，这一类人，我们大家是不是都一样深恶痛绝？
+
+我们都想把它们 “清零”。
+
+问题是，我们能做到吗？
+
+——或者严谨一点来说，我们短期内，能够清零蛆虫吗？
+
+社会风气、教育环境、家庭背景、人格心理、道德三观，一系列的诱因，导致了人性的纷繁复杂。
+
+我们可能永远无法将蛆虫清零，可能永远无法根除所有的潜在犯罪分子。
+
+正是因为无法 “清零”，所以我们不得不面对一个现实：
+
+在日常生活中，在公共场所里，在文明城市里，我们总是不可避免地会遇到这些蛆虫，所以，我们可能长期都需要和它们 “共存”。
+
+清零做不到，共存是必然。
+
+但这并不代表，我们不努力去打击罪犯、清理蛆虫，不是吗？
+
+明白了这个逻辑，我们才能探讨接下来的张文宏 “事件”。
+
+事件起因很简单，今年 6 月份，张文宏公开采访里，发表了对病毒的看法：
+
+“中国可以做到清零，不代表世界上所有国家都能做到。只要其他地方清不了零，那么这个病毒就会在世界上一直传播，流转。”
+
+张文宏医生认为，我们可能长期时间内，都要和病毒 “共存”。
+
+8 月 7 日，中国卫生经济学会总顾问、原卫生部部长高强在 “人民日报健康客户端” 撰文：
+
+痛批英美等国将政府防疫失策 “甩锅” 给病毒变异，并指出我国必须坚持严格防控，必须打消 “与病毒共存” 的想法。
+
+张文宏医生说，“我们要和病毒共存”；高部长说，“必须打消与病毒共存”。
+
+高部长和张医生所说的 “共存”，是一个意思吗？两人的观点，是各自为营掀起骂战吗？
+
+高部长强调的是英美国家防疫政策失败，甩锅给 “病毒”。
+
+也就是说，欧美国家的 “与病毒共存”，是寄希望于接种疫苗，口罩不戴、人群聚集、高风险地区不封闭管理、不核酸检测、不消杀病毒，这是他们的“共存” 理念。
+
+高部长驳斥的，正是欧美国家的消极对抗 “与病毒共存”，这是政治立场发声。
+
+而张医生强调的是什么？
+
+正是由于欧美国家的消极对抗，所以病毒不可能在全世界清零，我们要做好与病毒共存的防范意识，戴口罩、不聚集、消杀病毒，这也正是我们的防疫政策，不是吗？
+
+张医生的言论，是基于事实的科学观点。
+
+上次张医生说 “多喝牛奶”，也被一堆人批判是为西方国家站队，因为 “中国人应该喝粥，不应该喝牛奶。”
+
+日本外务省和美国拜登政府到底准备了多少银子啊，怎么我们中华大地上到处都是 “间谍汉奸” 呢？
+
+是个人都去领 50 万了？是个人就能给他扣上汉奸走狗的帽子了？
+
+这一场风暴，来得格外诡异，我倒是怀疑，是真正的汉奸走狗在歪曲解读挑动舆论风暴。
+
+这是一个基本的事实：我们是不可能彻底消灭新冠病毒的。
+
+18 年过去了，我们消灭 “非典” 了吗？
+
+疫苗的研发，只是说我们找到了应对病毒的办法，但这并不代表我们彻底消灭了病毒。
+
+病毒还在变异，从德尔塔毒株到拉姆达毒株。
+
+纵观全球，新冠病毒肆虐之下，超过两亿人确诊，现有确诊人数超 2300 万，累计超过 430 万人死亡，美国仍然每天十万人感染。
+
+这是一场全球灾难！
+
+教育系统里，艾跃进教授走了，万幸，后来还有郑强教授和饶毅教授的公开言论；
+
+医疗系统里，李文亮医生走了、陶勇医生受伤了，万幸，还有艾芬医生的哨声和张文宏医生的声音；
+
+法律系统里，我们知道的可能也就一个罗翔老师，可偏偏还逼着他退出微博了。
+
+我们应该庆幸，“三大系统” 里，尚且还能听到不同的声音，能够听到那些真实的声音。
+
+百家争鸣才有百花齐放，在不同的声音里，不是说让我们选一个声音站队，然后和另外一队人撕逼骂战。
+
+审辨明思，如果只有一种声音，那还如何保持独立思考？
+
+更重要的一点是，专业科学的声音，本身就不应该和政治立场混为一谈。
+
+试想一下，专业人才、客观事实的观点陈述，如果永远都要被扣上各种政治帽子，那还有真话可信吗？
+    
+    
+    
+    
+### 知乎用户 羊嘟嘟 发表
+    
+内容详情
+
+张文宏医生，[南方系媒体](https://www.zhihu.com/search?q=%E5%8D%97%E6%96%B9%E7%B3%BB%E5%AA%92%E4%BD%93&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2467529937%7D)跟 bbc 合伙捧起来的网红
+
+出圈是在疫情刚开始，一番党员先上，不然就是欺负老实人的言论，被 bbc 南方系媒体解读为党员欺负小老百姓，置疑政权的合法性。其实历来新中国那次天灾人祸不是党员先上？
+
+大家知道上海等等地方的政治环境是怎样的，张医生默认了这番解读，后来言论更为出圈，武汉新冠发源地，外国疫苗比中国好，开放国门与病毒共存等等，其实就很容易理解了，因为得到了一群人的认同，能让他走的更顺利，医路坦途。
+
+医院主任，新冠治疗组组长。
+
+正常情况下，新冠治疗组组长，可以是政府官员挂帅，呼吸系统专家负责具体工作，或者是大医院负责人挂帅，呼吸系统专家负责具体工作。而张文宏医生是肝病专家，与新冠治疗天壤之别，怎么排也到不了他去当组长，明显是以低级官员的身份去涨资历的，为以后铺路。如果没有出来博士论文造假这档子事，估计张文宏医生敢被捧到钟南山院士的地位。那就可怕了，对比在没有科学溯源的前提下，一口咬定新冠发源地在武汉，下次再有类似疫情，你想想以钟南山的身份一口咬定病毒起源中国，这锅中国背定了。
+
+如果你玩某手的话，刷到张文宏医生的相关视频，全是五六十岁的中老年人主持的财经系，法律系，二三十岁的美女主持的新闻系博主夸赞张文宏医生的开放国门，与病毒共存，狠踩与相背的观点，比如高强，已经被打为极权代表了。如果不是有势力在带节奏我是不信的
+
+内容来源：张文宏发文透露近况，称我国抗疫策略目前最适合我们自己，你有什么想说的？
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+
+发一个被系统删除的 2021 年的回答，还有个回答是 2020 年被系统删除的，先是我的回答被删除，然后问题都被删除了，现在找不到了。药代开始火和最火的时候我就看出来他就是个买办和投机者了，也发声了。
+
+神隐了一段时间又来发声，有两个可能，给自己洗白或者被利益集团推出来吸引火力的弃子。
+
+我认为是弃子的可能性很大，因为自 2020 年起，事关网红药代的回答，都是系统审核后才能显示，抄论文之前的回答，有明显黑他的回答是会被删除的，一个月前，只要不骂娘就会通过审核，现在已经不需要审核了。明显，他被放弃了
+    
+    
+    
+    
+### 知乎用户 赵英男​ 发表
+    
+但愿 “路线之争” 就到这吧。
+    
+    
+    
+    
+### 知乎用户 安布雷拉研究员​ 发表
+    
+最开始，我是支持张某某的。认为他说话实在。后来他鼓吹最后一个新冠寒冬，我就觉得不对了。只要是懂流行病学的人都知道，病毒毒力下降哪有那么快。他在那个位置，说出这么轻率的话，不负责任。再后来，倒春寒，上海疫情，他说的越来越离谱，可以这么说，要么他是不学无术的混子，要么就是揣着明白装糊涂。简单说，非蠢即坏，这个人已经不适合现在的岗位了。我更倾向后者。等消息吧，国家不会 “亏待” 他的。
+    
+    
+    
+    
+### 知乎用户 padapasa 发表
+    
+有很频繁吗…… 我印象里他只出来说了下肝炎那事儿，之后就又不见人影了啊。
+
+如果真的是出来了挺多次的，那只能证明问这个问题的人真的挺关注他的，我这种只在各 app 看看热榜热搜的人，是真的没咋看到他。而这种情况，比起之前他说了啥就立刻哪儿哪儿都是，不想知道也得知道的情形，已经是天壤之别了。
+
+我的理解是，像这种没有大肆宣传，只是偷偷摸摸的出现，本质就只是为了让粉丝安心的。换句话说，让粉丝们觉得还有搏一搏的可能。不然的话，知乎的上海 ip 们不得泄了劲了吗？
+    
+    
+    
+    
+### 知乎用户 住隔壁我姓王 发表
+    
+别的不懂，也不发表言论。
+
+毕竟专业的东西应该让专业的人来做。
+
+但是 2020 年，他说的那句话，就是让一些人先上，我觉得 98% 的普通老百姓是绝对支持他的。
+
+现在，如果他真的帮美国人卖药，我觉得 98% 的普通老百姓一样想打死他的。
+
+所以有一说一，他做的好请支持他，他做的不对，就告诉他，让他改，如果他不改，就打死他，但是没有调查清楚前，不要给任何人扣帽子。
+    
+    
+    
+    
+### 知乎用户 小痔 发表
+    
+一些人说话好阴阳怪气！
+
+看你们对张医生的说法，感觉大有红卫兵搞大字报的趋势
+
+然后老生常谈，揪着几个错的地方，我看你们对钟老可是客气很多的
+
+难道是因为钟老给企业带货？
+
+我看张医生以后可以走钟老的路线，真的！
+
+因为大众太容易见风使舵了，还是像钟老那样带货，大家都有钱赚，比较好，这样就是大众不喜欢你了，还有公司支持你，不至于轮多到墙倒众人推。
+
+我在上海，就我了解，周围大都支持张医生，可能是因为我们被封了一个多月吧！
+    
+    
+    
+    
+### 知乎用户 高安路老实人 发表
+    
+首先所谓共存就是伪命题
+
+就是狗屁
+
+共存派的一切理论一切说法
+
+每一句都是扯几把蛋
+
+要么就是因为无知所以扯几把蛋
+
+要么就是因为坏所以扯几把蛋
+
+但凡对这个世界有一定认识有一定了解
+
+就知道是扯几把蛋
+
+* * *
+
+张频繁发声是因为被顶到了这个位置上命不由己
+
+借着[博鳌亚洲论坛](https://www.zhihu.com/search?q=%E5%8D%9A%E9%B3%8C%E4%BA%9A%E6%B4%B2%E8%AE%BA%E5%9D%9B&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2469278968%7D)把他又拿出来了
+
+张作为温州土鳖一个是喜欢出风头
+
+还有一个就是对这个玩意似乎真的没有及时的了解（医生，包括所谓知名专家里懂经的多，稀里糊涂的也是不少）
+
+20 年的时候怎么不想想
+
+那么多人都不跳出来
+
+偏偏你一个跟疫情扯不上太多关系的主任能跑出来装了那么多逼呢
+    
+    
+    
+    
+### 知乎用户 苏秦 发表
+    
+这个闹严重的话，中央肯定要搞下一批人，危机关头不能乱说话的呀！
+
+现在上海疫情有所好转，还是要说两句，不然显得自己没有存在感，说不定到时候还能邀功呢！
+    
+    
+    
+    
+### 知乎用户 Maylie PEVC 猎头​​ 发表
+    
+我在上海十年了，经历了 2020 的疫情，当然也是正在经历目前的疫情。
+
+上海在 2020 年的疫情取得了非常好的成功，这个是有目共睹的。但是，同一套上海领导班子，同样的[张文宏](https://www.zhihu.com/search?q=%E5%BC%A0%E6%96%87%E5%AE%8F&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2472784196%7D)，这一次疫情，却经历了完全不同的效果，这到底为什么，很多人看不明白，我也看不明白。下面是我一个同样经历两次疫情的海归邻居的发言，大概能代表很多人的困惑。
+
+![](https://images.weserv.nl/?url=https%3A//pica.zhimg.com/v2-51a331100f180e796df8f67d350212ce_r.jpg%3Fsource%3D1940ef5c)
+
+到底发生了什么？我们不得而知。但我相信，既然 2020 年，上海政府能够做的很好，张文宏能迅速成为大家有口皆碑的防疫专家，他们都不是吹出来的，都是做出了成绩被人民看到的！
+
+但是大家估计不了解，上海已经开始抓投机倒把之徒了。秋后算账，大家等着看好戏！！！
+
+**张文宏开始频繁发声说明什么？上海的疫情接近尾声了！！！**
+
+**至暗时刻已经过去！而且上海大家开始对解封充满了信心。差不多五月中旬吧，五月中旬解封指日可待！**
+
+![](https://images.weserv.nl/?url=https%3A//pic2.zhimg.com/v2-71fb2fae4ed36af2d89e163394362c07_r.jpg%3Fsource%3D1940ef5c)
+    
+    
+    
+    
+### 知乎用户 春消秋逝 发表
+    
+张网红看病人。
+
+你要不配文字，看得出这是张网红？
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+
+不要听他说什么，要看他怎么做
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+    
+    
+    
+    
+### 知乎用户  Mini​ 发表
+    
+应网友提出，配图食用更佳。
+
+很多医生提到大众不专业所以在造神和灭神之后对张医生态度差异极大，提到从专业医学角度来说对张医生有失公允。具体说明如下图：大致意思是张医生早就预计到上海疫情防控不严，可能会出现严重后果。
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+
+特别是很多专业医学人员都提到一个关键：那就是张医生只是医生最终防疫政策他无法最终决定，他只是个背锅侠。
+
+可是不要忘了在疫情之前他真的只是医生吗，他的所作所为在公众面前左右横跳的发言似乎已经为政府代言了，具体证据亦如下图所示：
+
+![](data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='386' height='365'></svg>)
+
+![](data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='408' height='838'></svg>)
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+
+他完全可以选择像一般医生一样私下对病人进行医嘱，但是他选择面对大众大肆输出自己的专业知识（一脸肯定）那么就意味着他已做好为疫情防控不利这一后果背锅的准备了（公众面前发言是需要慎重的。因为不是简单的医学知识的输出、更多要思考的是自己的言行会产生多大的辐射以及多么严重的影响。甚至面对不同知识层面的人对其言论产生的不同理解与认知）。他疫情期间言之凿凿的如下图所示：
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+
+![](https://images.weserv.nl/?url=https%3A//pica.zhimg.com/v2-6855c813e8c7f2bb76de40cd8e67ce04_r.jpg%3Fsource%3D1940ef5c)
+
+毕竟欲戴王冠必承其重不是吗，不能光吃红利而不担后果，万事皆无绝对好，盛极转衰的例子自古还少吗，别说在公众面前，就是私下对待自己专业领域的发言不应时刻保持严谨吗。张医生又是否真的对自己的专业保持谦卑与恭敬吗？
+
+很多专业医学从业者要求公众对待张医生的态度应该站在医学的角度做 critical thinking，大众不是从医人员所以不专业、不配发表评论，那么确实某种程度上大众对张医生的批判有失公允（毕竟大众对专业医学知识有所欠缺），例如下图知乎为张医生辩驳的回答。
+
+![](https://images.weserv.nl/?url=https%3A//pic1.zhimg.com/v2-e4b3bd7cdebae88fdd3912cd4fdf3933_r.jpg%3Fsource%3D1940ef5c)
+
+那么问题来了，且不说就算医学角度张医生就敢拍胸脯确定自己绝对专业权威不可挑战（万事无绝对，任何时候请保持谦卑心是不栽跟头的根本）。
+
+站在公众人物发言的角度，他今天所承受的后果是他当初选择走上 “网红医生” 这条路已经决定了的。对于公众来说不管你是从医还是从政，黑猫白猫抓住耗子就是好猫，张医生专业了半天结果上海依然感染 50 多万死亡 400 多人（此数字当前还在上涨）。那么不管是作为专业医生他所谓的建议还是作为政府的发言人政治的代表他都是不合格的（深圳、广州没有那么多专业简单粗暴的封城，而疫情确实控制下来了不是吗）。
+
+如果按照为张医生辩驳的，最终防疫政策张医生是无权决定的甚至是反对的，那他当初决议不发言，老老实实做一个低调的医生（报着如果公众发言毋宁死的态度，正常谨慎做一个医生。就算对疫情防控有专业的有想法意见选择向政府领导汇报而不是选择出书公众发言来造势提高声望）或者就算发言也为其发言后的后果谨慎思考而非共存与清零左右横跳（大众眼中看到的），那么他今天或许就不是所谓的背锅侠或者背的锅没那么大不是吗。所以张医生今天所面对的非议和指责甚至所谓的不公待遇都是当初他自己埋下的，怨不得谁。
+    
+    
+    
+    
+### 知乎用户 CHAO WEIWEI​ 发表
+    
+如果是真正的旨意，哪需要长篇累牍、云山雾罩的？搁这全频道阻塞呢？
+
+一字足矣：马某 马某某
+
+从他们最近开始攻击钟南山，就是为张的复出扫清障碍。上头默许钟被攻击，是因为当下同样需要打击那些发国难财的，甚至连[康希诺](https://www.zhihu.com/search?q=%E5%BA%B7%E5%B8%8C%E8%AF%BA&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2470243192%7D)都被查了。钟、陈都罚酒三杯，闭门自省，那些毫无尺寸之功的不得抽筋剥皮？
+
+最后张大概率和台北的柯 P 一样，扭过脸来就把 1450 给卖了。
+    
+    
+    
+    
+### 知乎用户 不会停止发声 发表
+    
+以前我也想骂他，现在我理解他了，看了他在方仓流调的时候防护服都不穿，很明显他不怕病毒，倾向于共存，但是奈何不能说真话啊，还有一大群人骂他
+
+![](https://images.weserv.nl/?url=https%3A//pica.zhimg.com/v2-020eacd01e31e840899f563823aaff32_r.jpg%3Fsource%3D1940ef5c)
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+    
+    
+    
+    
+### 知乎用户 十年一 发表
+    
+张文宏和王思聪这一次都会有一个清晰的认识，现在和他们年轻时代不一样了。
+
+希望张能平安，这样会显得这个社会还有一些正常的人正常的事。
+    
+    
+    
+    
+### 知乎用户 何何何 发表
+    
+大家要往好处想
+
+张文宏出面发声，说明疫情得到了缓解。
+
+哪怕你不在乎张文宏的死活，总要关心下上海人民的死活吧。
+    
+    
+    
+    
+### 知乎用户 寒阳碎雪 发表
+    
+“某地第一个引进辉瑞疫苗；
+
+某地第一个引进辉瑞 “特效药”；
+
+某地第一个明星专家跟风 “与病毒共存”；
+
+某地第一个跟风传出奥密克戎大号流感；
+
+某地一直鼓吹 “开放躺平”。
+
+\-
+
+“在防疫工作中，举国同心，医护人员奋战一线，基层工作人员日夜坚守，普通百姓自觉遵守配合，偏偏就是那么几个网红医生和砖家，【盲人骑瞎驴地各种阳奉阴违，让国家的抗疫大业事倍功半】，从沪到深，从青到吉，全国新冠感染人数突破 3.3 万，就是这群闭着眼睛，【完全跟随西方指挥棒转的瞎驴，将我们引入歧途，而他们则带领自己的医药代表老婆和龟孙子们从疫苗、药品以及检测中捞得盆满钵满】，这些人与抗日战争时期带鬼子进村的二鬼子有何区别！”--《假如美国打赢生化战，中国未来会怎样？》2022-03-21
+
+* * *
+
+“防疫是一场持久战，而放弃和躺平则只需要一瞬间；只要坚持防疫就总还有等到胜利的那一天，而【如果放弃了防疫那就再没有回头路可走。等待我们的就只有十亿规模的感染基数以及常年数以百万千万计的重复交叉感染重症以及死亡人数。】
+
+到那时候，工厂将再无开工之日。
+
+到那时候，学校将再无开学之时。
+
+到那时候，经济将再无增长之势。
+
+到那时候，民生将再无未来可期。
+
+到了那时候，【西方就会再一次举起舆论大棒】，人口本来就很少，而且已经死亡淘汰了好几轮体弱和老龄人的西方就会再一次举起防控武器和早就屯集好的疫苗，并针对中国【发起一场全面总攻】。
+
+【到那时候，消失已久的日记又会疯狂出版。
+
+到那时候，今天高呼躺平有理的大 V 又会高呼一粒沙就是一座城。
+
+到那时候，今天对沪上疫疾闭口不谈的人，又会对各地疫疾疯狂抱怨。
+
+到那时候，西方会用最快的速度将中国再次标注为 “疫区”，然后宣布封锁和断航。
+
+到那时候，西方会将中国出口的贸易全部卡断和退回，并在全球宣布拒绝接受来自 “疫区” 的产品。
+
+到那时候，脸书、推特、D 音、Tik Tok 将充斥着各种曝光人间惨剧的镜头，将充斥着各种极尽夸张的数字和煽情文字，把中国描绘成人间地狱。】
+
+【到那时候，病毒和围堵一并袭来，到那时候内外经贸循环将同时步入中断和混乱！到那时候，就是西方高举金融屠刀用降息放水来收割中国财富的时候。】”--《[平局](https://www.zhihu.com/search?q=%E5%B9%B3%E5%B1%80&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2466602215%7D) | 快起来，别躺平！国外撒下 “躺平” 弥天大谎张网以待，奥密克戎死亡人数超过[德尔塔](https://www.zhihu.com/search?q=%E5%BE%B7%E5%B0%94%E5%A1%94&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2466602215%7D)，西方从未真正 “躺平”~》2022-04-12
+
+\-
+
+· 【疫情期间详实对照实验数据表明：中医诊疗就是 “特效药”】。
+
+“屏蔽乱耳丝竹，坚持中医药治疗不放松。
+
+【在中国抗疫前线，中医治疗队已经成了救火队，哪里疫情最凶猛，哪里就有他们救火的身影，他们实现了治疗无一重症死亡的旷世奇功。这次疫情已经清楚明白告诉所有人，中药就是特效药！】【近期进口辉瑞特效药，意味着一个新冠动态清零的国家从一个全球抗疫最差劲的国家进口特效药，真是莫大的讽刺！】
+
+\- 相关事实梳理：
+
+一、武汉疫情对照实验和数据 -- 【相比单纯使用西医救治，中医药救治与中西结合展现显著优势】：如有效缓解症状，缩短病程，减少轻型、普通型向重型发展，提高治愈率、降低病亡率，促进恢复期人群机体康复等。
+
+二、武汉疫情后，【“中医药依国务院联防联控机制全面部署、全面覆盖，本土感染者病死率同西方国家相差百倍”】
+
+三、 2022 年 4 月 3 日央视新闻报道 -- 世卫组织：中医药能有效治疗新冠肺炎：“【2022 年 3 月 31 日世界卫生组织关于中医药治疗新冠肺炎专家评估报告指出：中药能有效治疗新冠肺炎，降低轻型、普通型病例转为重症，缩短病毒清除时间，改善轻型和普通型患者的临床预后】。【报告同时鼓励成员国考虑中国形成并应用的整合医学模式（中西医结合模式）】”
+
+附录：《国家中医药管理局：新冠本土感染者除个别情况普遍应用了中医药》
+
+详见：
+
+[https://www.zhihu.com/answer/2401705092](https://www.zhihu.com/answer/2401705092)
+
+\---
+
+《鼓吹向英美学习、放弃防疫措施，才能压制中国快速发展》
+
+· [生物战](https://www.zhihu.com/search?q=%E7%94%9F%E7%89%A9%E6%88%98&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2466602215%7D)背后的疫苗、医疗利益规模：
+
+全球群体免疫 80% 即 60 亿 \* 20 美元 = 1200 亿美元疫苗市场（每轮）。全球假设感染人数 10 亿人 \* 平均医疗支出 1 万美元 = 10 万亿美元医疗资本逐利市场 = 放任疫情、拒绝口罩的根源 = 鼓吹群体免疫强制疫苗、与病毒共存的根源 = 打压有效廉价中医药的根源 = 盖茨基金会【未卜先知】19 年举办抗新冠病毒预演 “event201”，同时看好 20 年疫苗市场、21 年终获 20 倍投资收益的根源 =。。
+
+· “动态清零” 使中国获得诸多优势：
+
+“· 工业制造优势
+
+中国是全球的制造业中心，本来就有工业制造优势。【为了削弱中国的工业制造优势，美国一直在想尽一切办法破坏中国在全球的上下游供应链。】
+
+新冠疫情全球爆发后，各国的生产能力都遭到了重大打击，只有中国控制了疫情，结果中国的工业制造优势充分得到了发展。【中国在 2020 年疫情爆发的那一年，外贸依然实现了 1.9% 的增长，而到了 2021 年增涨竟然达到了惊人的 21.4%】。
+
+【由于中国控制疫情控制得好，中国 2021 年的 GDP 高达 17.7 万亿美元，占全球 GDP 的 18%，两年时间从占美国 GDP 的 65% 增长到了占美国 GDP 比例的 80%】。这一切的一切，都是因为中国有工业优势，都是【因为中国控制疫情后使得中国的工业优势得到了较好的发挥。不知不觉，中国正在成为全球经济的中心的路上！】
+
+为了阻止中国成为世界经济的中心，美国正在想尽一切办法打乱中国的节奏，而破坏中国抗疫，促使中国躺平就是美国的策略之一。中国躺平了，中国优势会被大大削弱！
+
+· 对资本的吸引力优势
+
+很多人不知道，中国抗疫成功对美国打击非常大。为什么对美国打击非常大？除了上述两个重要原因外，【还有一个非常要美国命的原因，那就是中国抗疫成功证明中国有能力应对疫情，经济发展预期明确，国际上大量资本开始因此流入中国市场】。
+
+过去，美国是全球最核心的资本流入国，但【2020 年流入中国的资金规模超过了美国。在全球范围内，有足够大的规模、又足够安全的市场，能和美国媲美的市场出现了，那就是中国市场】。所以，美国对此非常恼火，这就是为什么他一直想尽一切办法，不惜针对中国搞促使中国 “躺平” 舆论战的原因。
+
+。。。
+
+【中国到底该不该放开？什么时候放开？一定要让美西方拿他们的肉体替我们测试彻底了】，如果事实上证明，[新冠病毒](https://www.zhihu.com/search?q=%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2466602215%7D)真的不攻击肺部了，毒性的确对人体的伤害可以忽略不计了，那咱们再说。但是，现在看，距离还远得很！
+
+【我们一定要坚持党中央决策的 “动态清零”，只要党中央不明确我们国家调整“动态清零” 政策，那么所有与这一论调相悖的论调，都是愚蠢的或者是包藏祸心的，我们都要喊打！】因为，对他们喊打就是对我们自己安全保障的提升！
+
+想当初，西方为啥躺平了？难道是他们自己愿意躺平的吗？答案是否定的，他们也学习过中国的封城，但他们做不到中国所做到的，他们经济上撑不住了，最后是被迫向病毒投降了，被迫 “躺平” 了！
+
+注意，【他们是被迫躺平了，是他们无法控制疫情】，他们不得不以所谓的 “与病毒共存” 论来忽悠自己的民众，当然也试图来影响我们！他们所谓的 “与病毒共存” 论，本质上是与疫情共存！【与疫情共存的结果是什么呢？美国死亡一百多万，全球死亡六百多万！】
+
+西方躺平，纯属无能所致。有些人在那计算经济账，说不和西方一样躺平，经济损失多少云云。然而，问题在于，【中国坚决拒绝躺平，美欧早早躺平，结果是中国的 GDP 两年时间从占美国的 65% 追到了占美国 GDP 的 80%，请问是躺平好还是拒绝躺平好？至于欧洲，严重的经济负增长，根本无法与中美相提并论了！】
+
+【西方躺平，不但死了很多人，经济也没搞好！中国，拒绝躺平，虽然 “动态清零” 一定程度上给经济上带来了损失，但中国 “动态清零” 给中国带来了更多的战略好处啊！】上述三点，只是众多好处的三个而已！更何况，【“动态清零”政策就是少死人，否则按照美国的死亡病例数，中国现在已经死亡四五百万以上了！这还不计算因为医疗挤兑导致其他疾病导致的死亡数字！】
+
+所以，中国坚决不能躺平，坚决要把那些倡导躺平的人打成过街老鼠！而【只要我们坚持做到 “动态清零”，这些战略好处都将是长期的，会在未来十年、二十年时间内不断给我们带来长期好处！而美国想破坏的，正是中国这些长期战略性好处！】
+
+【美国的坑，我们坚决不跳！只要我们不跳坑，美国就只能帮我们来测试新冠的结果】，等什么时候新冠病毒真的毒性大减了，我们再考虑调整政策不晚。当然，到那时美国可能已经死了两百万了！作为中国人，我们同情美国人民的遭遇，但我们更加欣慰我们生在能够实现 “动态清零” 的中国！”--《原创丨抗疫让中国获 3 大优势，美国正在搞破坏！》2022-04-04
+
+\---
+
+· 【奥密克戎绝非大号流感】
+
+新华社 2022 年 3 月 25 报道：“中国疾控中[心流](https://www.zhihu.com/search?q=%E5%BF%83%E6%B5%81&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2466602215%7D)行病学首席专家吴尊友 25 日在国务院联防联控机制新闻发布会上表示，有研究对有关国家在去年 8 月至 10 月与 11 月至今年 1 月两个时间段的病死率和死亡率作了比较分析，奥密克戎毒株流行期间的病死率确实下降了，但【同期因疫情造成的死亡总数等却高于德尔塔毒株流行的同期死亡数】。可以说，【奥密克戎毒株流行的危害依然是严重的，并不是人们想象的流感化。这也提示，新冠肺炎不是 “大号流感”】。（记者[李恒](https://www.zhihu.com/search?q=%E6%9D%8E%E6%81%92&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2466602215%7D)、张泉）
+
+\-
+
+央视新闻 2022 年 4 月 23 日报道：“【奥密克戎绝不等同于大号流感！奥密克戎平均病死率是流感的 7.5 倍！感染奥密克戎 80 岁以上老年人病死率超 10%！】
+
+国家卫生健康委疫情应对处置工作领导小组专家组组长[梁万年](https://www.zhihu.com/search?q=%E6%A2%81%E4%B8%87%E5%B9%B4&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2466602215%7D)介绍，【衡量一个病毒的严重程度要综合考虑传播力和所导致的重症和死亡。奥密克戎的传播力远大于流感和此前的新冠其它变异株】。在没有防护措施的情况下，平均一个人可以传播 9.5 个人。【从病死率来看，全球的流感平均病死率为 0.1%，而奥密克戎变异株，真实世界数据显示平均病死率是 0.75% 左右，老年人群特别是 80 岁以上的老年人群病死率超过 10%。】 ”
+
+[http://t.cn/A66F0l2i](https://link.zhihu.com/?target=http%3A//t.cn/A66F0l2i)
+
+\-
+
+“【无法掩盖的真实数据】
+
+目前，美国新冠死亡人数，据不完全统计，已经接近 100 万，感染人数突破 8100 万，按照比例计算，美国新冠死亡率在 1.23%。
+
+可否把美国新冠感染与死亡比例套用到中国人身上吗？答案是否定的！
+
+【3 月 30 日美国医学协会期刊《[JAMA Network Open](https://www.zhihu.com/search?q=JAMA+Network+Open&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2466602215%7D)》发表一篇重要文章，文章指出，美国印第安原住民新冠死亡率是美国白人的 2 到 3 倍。为什么呢？原因出在基因差异上。因为印第安人祖先是 20000 年前从古中国的北方出发穿越白令陆桥进入美洲大陆，他们的基因与中国人类似。】
+
+支持这一结论的另一个数据，来自于之前血饮文章说到的【2020 年 11 月 23 号，美国耶鲁大学赞助的预印本论文网站 medRxiv 上发表了题为《种族细分研究揭示纽约公立医疗系统中亚裔 COVID-19 患者间不同》的文章。该文章的结论是当地华人的死亡率是白人的 1.4 倍，是黑人的 2 倍。】
+
+两个研究表明基因差异上，中国人新冠死亡率远高于美国，如果考虑将美国国内很多死于新冠诱发的基础病患者计算在内。那么，中国人的新冠死亡率应该在 3 到 4.5% 之间。
+
+支持这一结论的数据同样来自于日本。【日本 2020 年新冠死亡人数 3000 人，2021 年死亡 15000 人，2022 年前三个月日本死亡超过 10000 人，预计全年日本人死亡人数将超过 40000 人。日本前三个月正好是奥密克戎爆发的三个月，短短三个月就死亡 10000 人，直接戳破了奥密克戎致死低毒性减少的谎言】。【更再次印证了奥密克戎对中国人的杀伤力巨大的事实。因为，从基因上，日本人大部分与中国北方关中汉族基因相同。日本人又原封不动执行了美国防疫政策，从这个反面案例看，假如，中国跟日本一样躺平，死亡比例将远高于美国。】
+
+证明奥密克戎对东亚人种杀伤力巨大的另一个例子，就是韩国。【从去年 11 月 24 号发现奥密克戎到现在，韩国死亡超过 14000 人，而 2021 年韩国死亡总数才 2300 人，也就是说奥密克戎爆发四个月，韩国死亡人数已经是 2021 年全年死亡人数的 6 倍】。假设，韩国继续跟随西方躺平，那么，韩国全年死亡人数将突破 48000 人，预计韩国 2022 年新冠死亡人数将是 2021 年的 20 倍。
+
+【日韩两国数据说明，奥密克戎毒株无论对北方汉族还是东亚人种都具有极强的致死力。对中国来说，我们既以北方汉族基因为主，同时兼具东亚人种特征。如果选择跟随西方躺平，按照 3-4.5% 计算，中国的死亡人数大约在 4200 万到 6300 万之间】，这个数字大致与 1918 西班牙大流感致死人数一致。1918 大流感安徽、江苏等南方在内全国死亡人数超过 5000 万。
+
+【俄罗斯已经揭露了美军在乌克兰生化武器实验室的秘密，这些证据已经确凿充分地证明，美国制造了针对中国人的基因武器新冠病毒】。现在，根据美国自己的研究，血饮大致推算出来的共存状态下的中国的死亡人数同样是 5000 万左右。这说明，【从 1990 年代美军从北极挖出并复活 1918 毒株，到 2003 年与 1918 毒株同属的非典攻击中国，再到 2019 年武汉爆发新冠，美国生化武器项目始终将目标对准中国，它们的目标就是在中国境内再次复制 1918 年的病毒致死惨案，这是标准的纳粹种族屠杀】。”--《全球疫情出现新四大变化！不得不防！》2022-04-08
+
+\-
+
+解放军报 2022 年 4 月 28 日报道：“【国防部举行例行记者会，新闻发言人谭克非大校表示，美国是生化危机的真正制造者】。【美国是世界上唯一一个对他国使用过核武器、化学武器和生物武器等所有大规模杀伤性武器的国家。美国必须对中国在内国际社会澄清其生物军事活动。”】
+
+【这是中国人民解放军官方第一次公开明确指出美国是全球生化危机的真正制造者】。【现在不仅是解放军官方，就是之前的外交部等，也开始全面怀疑并斥责美军对中国发动了全面生化攻击。所谓阴谋论的谣言不攻自破。】
+
+相关事实梳理：
+
+[补档【事实建构】关于疫情起源的相关事实整理](https://zhuanlan.zhihu.com/p/350306921)
+
+\-
+
+“大号流感” 奥密克戎占全美新增病例总数的 99.9%。刷新美日增死亡记录：
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+
+\-
+
+“【没有证据说明病毒已经停止进化】，病毒进一步变异已经是板上钉钉的事实。
+
+奥密克戎进化出的超级传染能力，这本身就是新冠病毒越来越强的证据，病毒传染性越强，则载毒量必然同步增强，绝不可能下降。目前已知奥密克戎毒株载毒量是原始毒株的 1024 倍，比德尔塔毒株还高。
+
+【病毒进化只有两个方向，毒性和传染性，但是单一向毒性进化，那么就会快速杀死宿主，导致病毒繁殖停止，单一向传染性更强进化，则必然导致毒性下降，最后被[人体免疫系统](https://www.zhihu.com/search?q=%E4%BA%BA%E4%BD%93%E5%85%8D%E7%96%AB%E7%B3%BB%E7%BB%9F&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2466602215%7D)清除】。【然而，新冠这种 RNA 病毒在之前的变异中，已经实现了毒性和传染性螺旋增强】：
+
+新冠 1.0 的纽约毒株注重于毒性，但是传染性并不强。
+
+新冠 2.0 的 D614G 变异出现以后，传染性增强了 9 倍，载毒量提高了 10 倍，毒性却没有提高多少，而传染性增强。
+
+德尔塔毒株出现以后，毒性快速增强，但的传染性并未增加多少。
+
+【正是病毒在变异进化中平衡了毒性和传染性，才导致新冠病毒感染人数和致死人数越来越多】。【病毒整体进化呈现螺旋式上升状态，在遏制毒性同时，增强传染性和遏制传染性增强毒性间，病毒整体的毒性和传染性都在不断上涨】，不能因为某一时间段传染性的增强就认为毒性不会增加。
+
+【目前数据来看，奥密克戎传染性增强的同时，致死人数也在暴增】。这就是螺旋上升的具体表现。
+
+奥密克戎的超能力来自于新冠毒株不断进化，但当前，没有证据表明新冠会停止变异。目前，【以色列已经发现了集合德尔塔和奥密克戎的德尔塔克戎毒株，病毒进一步变异已经是板上钉钉的事实】，【下一个毒株极有可能是类似于德尔塔毒株的，全面增强致死率同时传染性变化不大的西格玛毒株】。
+
+如果不加阻止，新冠病毒在螺旋式上升的变异中，一定会成长为极高传染性与极高毒性结合的终极毒株，T 病毒，也就是奥米伽毒株。”-《假如美国打赢生化战，中国未来会怎样？》2022-03-21
+
+\-
+
+·【新冠后遗症高发、大幅降低患者生活质量 且需长期治疗】
+
+2022 年 4 月 23 日，英国莱斯特大学的研究人员在《[柳叶刀](https://www.zhihu.com/search?q=%E6%9F%B3%E5%8F%B6%E5%88%80&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2466602215%7D)》子刊 "The Lancet Respiratory Medicine" 上在线发布研究报告：【感染新冠一年后，仅有 29% 的患者完全康复，71% 的患者有后遗症】。
+
+2022 年 4 月 20 日，美国加州大学洛杉矶分校 (UCLA) 研究人员研究日前表明，【多达三成新冠患者会发展成长期新冠症状】。
+
+2022 年 4 月 24 日，日共同社引述日本呼吸器官学会公布调查结果称，【感染新冠病毒住院的患者中有约 10% 在出院一年后仍可能留有后遗症】。
+
+2022 年 2 月《NatureMedicine》（自然医学）杂志发表的一篇论文《新冠病毒感染症的长期心血管影响》，根据一个 15 万人左右规模的新冠组以及 560 万人左右规模的对照组研究表明：【新冠感染 1 年后的 20 种心血管疾病患病风险仍高于未感染者，重大心血管疾病的发病风险是 1.5 倍出头，任意心血管疾病的发病风险则是 1.7 倍左右。如其中中风风险高 52%，心脏衰竭风险高 72%】。
+
+\-
+
+“现在已经用 “后新冠综合征”(post COVID syndrome, PCS) 或者 “后新冠后遗症”(post-COVID sequelae) 来形容新冠肺炎的某些后遗症，其症状包括乏力、嗅觉和味觉改变 / 丧失、（劳力性）呼吸困难和胸痛、创后应激障碍等。已经有人开展流行病学研究调查了这些症状的发生率。以下是 PCS 的某些症状及其发生率的统计\[1\]\[2\]：
+
+【乏力】——最为常见，住院患者发生率 60.3%，ICU 患者发生率 72.0%；一项针对 50 岁以下人群的研究得出 39-73% 的[发生率](https://www.zhihu.com/search?q=%E5%8F%91%E7%94%9F%E7%8E%87&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2466602215%7D)；甚至有人得出了更高的 82.9%；
+
+【（劳力性）呼吸困难】(dyspnea)——住院患者和 ICU 患者出院后发生率为 42.6% 和 65.6%；
+
+【胸痛】——22%，对于出院两个月的患者来说；
+
+【睡眠障碍 / 焦虑抑郁】——分别影响 26% 和 23% 的患者，即便是出院六个月以上；
+
+【创后应激障碍】(post-traumatic stress disorder, PTSD)——流行率在 5.8-20.0% 之间；
+
+【神经病】，包括缺血性脑中风、脑血管炎、格林 - 巴利综合征 (Guillain-Barré syndrome, GBS)、脑炎、[肌炎](https://www.zhihu.com/search?q=%E8%82%8C%E7%82%8E&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2466602215%7D)、癫痫、眼球震颤肌阵挛症 (opsoclonus-myoclonus syndrome, OMS)、急性横贯性脊髓炎(acute transverse myelitis, ATM) 等，可以成为并发症或后遗症，但发生率较低或非常低。有研究得出了 5.8%（患者组）与 2.5-3.4%（对照组）的比较关系。GBS、OMS、ATM 已经在急性病例中作为并发症被报告。（这里使用的缩写只是暂时为了方便，不是常用的缩写，请读者谨慎在其他场合随便使用。）
+
+【嗅觉和味觉障碍】——出院六个月患者的发生率为 11% 和 9%，有研究得出了更高的发生率，33-36%。（嗅觉障碍发生机理可能包括，嗅上皮细胞表达 NRP1，NRP1 是新冠病毒的辅助受体之一；嗅上皮细胞表达 ACE2 和 TMPRSS2，同样是新冠病毒感染细胞的辅助因子，新冠病毒可能对嗅上皮造成了严重破坏。关于这个，我写过文章：小鬼星云：新冠病毒有其他受体 (4)：神经菌毛素 1(NRP1)、小鬼星云：新冠病毒有其他受体 (5)：重新认识 ACE2 和 S 蛋白。味觉障碍的机制不明。）
+
+【肺损伤】（包括肺纤维化在内）：39-83%；
+
+不同研究得出的，至少发生一种并发 / 后遗症症状的发生率最高可以达到 94.3%\[3\]，也有研究估计在 10-35% 之间 \[4\]\[5\]，这种巨大的差异源于研究手段和对象的不同。
+
+[辛辛那提大学](https://www.zhihu.com/search?q=%E8%BE%9B%E8%BE%9B%E9%82%A3%E6%8F%90%E5%A4%A7%E5%AD%A6&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2466602215%7D)医学中心建议将后新冠后遗症分为 5 种亚型 \[6\]：
+
+1 型：康复时间与感染、器官损害及其病症的严重程度直接相关；
+
+2 型：新冠症状自起病起可持续六周或以上；
+
+3 型：在最初感染后病症处于不活跃状态或者完全恢复，此后复发，时间持续 3 个月及以上（3A 型）或 6 个月及以上（3B 型）；
+
+4 型：【感染后无症状，而在 1-3 个月（4A 型）或大于 3 个月（4B 型）之后出现症状】；
+
+5 型：起病很晚，在接下来 12 个月内的某个时间中可能突然死亡。”
+
+* * *
+
+总结：
+
+· 奥密克戎导致【全球死亡人数飙升】
+
+· 新冠病毒在变异中【“毒性”和 “传播性” 不断交替进化，进一步变异已成事实】
+
+· 新冠【后遗症高发，大幅降低患者生活质量且需长期治疗】
+
+· 新冠病毒是美国制造之生物武器 铁证如山，【与新冠病毒共存就是与美国针对中国制造的生物武器共存，将置民族于万劫不复】
+
+· 【严格防疫保下了人民生命安全，使中国经济快速复苏，引领提振全球经济】。【鼓吹向 “人命如草芥经济陷入泥潭彻头彻尾的失败者 英美” 学习、放弃防疫措施，才能压制中国快速发展】
+
+对上述事实选择性失明、颠倒黑白，行极力鼓吹中国放弃防疫、与病毒共存之人，其心可诛！
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+    
+    
+    
+    
+### 知乎用户 华明强 发表
+    
+钱不够了，需要出来重新再捞一笔钱，然后再移民！拜登说，走之前再把辉瑞推广一下吧！
+    
+    
+    
+    
+### 知乎用户 kosh qiu​ 发表
+    
+到[张文宏](https://www.zhihu.com/search?q=%E5%BC%A0%E6%96%87%E5%AE%8F&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2469182937%7D)这个位置发不发声，怎么发声，已经不是他个人意志能够左右的，当你发现张文宏沉寂的时候，那一定是有人不想听。当你发现他大量发声的时候，那就是因为有人需要他发声。
+    
+    
+    
+    
+### 知乎用户 haha kim 发表
+    
+如果把上海疫情看做一次战役，那么可以说，上海这次是打了败仗的。
+
+张文宏作为上海市新冠肺炎医疗救治专家组组长，毫无疑问是要承担战败责任的。
+
+当然了，需要承担战败责任的绝对不只是他一个人，上海的官员很多人都有份，甚至很多基层人员也有份。
+
+放在红军、八路军或者新四军时期，表现如此拉胯的部队，恐怕早就被消灭了。
+    
+    
+    
+    
+### 知乎用户 匿名用户 发表
+    
+张伯礼院士，哪里有疫情就去哪里，一直走在救治一线，我希望他能多发发声。
+
+真的，希望做事情的多讲讲话，给点热搜。
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+    
+    
+    
+    
+### 知乎用户 no problem 发表
+    
+张网红确实话太多，言多必失，说错了很多话，但是他毕竟科班出身，有些关键的科学问题，他比网上不学无术只会危言耸听的其它网红们判断得准的多，但是对错往往要过一段时间才能看出来，所以在结果出来前，他只能先闭嘴，现在上海疫情虽然没结束，但是基本数据已经尘埃落定，他确实在关键的问题上判断准确，出来说几句话也很正常。
+
+仅举一例，传染病最重要的指标就是致死率吧，张网红一个多月前说新冠 O 变种的死亡率接近流感，对全程接种疫苗的人来说大大低于流感，结果被人狂喷，我也同意这一判断，在本站转述了一下，也被狂喷。当时我就说了：想喷我的朋友别着急，**实践才是检验真理的唯一标准**，如果上海确实出现大量超额死亡，根本不需要喷我，国家肯定会处理责任人，但是如果没有，我乎的键盘大虾们敢面对现实吗？？？上海有世界最大规模隔离人群，现在已经隔离了超过 50 万患者，可以说是迄今为止全世界观察病毒真实危害的最佳样本，以后应该也不会有这么可靠的样本了。我们来和大家都不当回事的流感比一比：按照 60 万人感染流感计算，超额死亡加正常死亡应该在 800 人左右，上海现在各项数据都基本出炉，对于新冠 O 变种真实危害可以下个结论了：**死亡率确实就是流感级别，传染性强于流感。**首先请注意我这还是按病程半个月计算，实际上很多有基础疾病的病人隔离的时间已经远远超过一个月，如果把 60 万流感患者也隔离超过一个月，实际死亡人数会大大多于 800，新冠 O 变种死亡率角度其实是低于流感的，为了不刺激到某些朋友，才姑且算和流感一个级别。另外还要注意疫苗的作用，上海这次死亡病例近 90% 是未打疫苗的老年人，**对于全程接种疫苗的人来说，新冠 O 变种的死亡率已经连流感都算不上，就是普通伤风感冒级别。**
+
+新冠已经肆虐了两年多，但是就算在人均 985 的我乎，对新冠病毒的认识还是存在很大误区，写了篇短文指出几个最常见的误区：
+
+[no problem：新冠常见的认识误区](https://zhuanlan.zhihu.com/p/492549027)
+    
+    
+    
+    
+### 知乎用户 夜海孤帆 发表
+    
+2022.5.1
+
+删除原答所有内容。不再参与网红[张文宏](https://www.zhihu.com/search?q=%E5%BC%A0%E6%96%87%E5%AE%8F&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2463982678%7D)和医生张文宏的相关回答。
+
+原因：讨论的方向已经严重偏离提问内容。
+
+想黑的人，根本不在乎你说什么。
+
+想支持的人，也不会在乎你的看法。
+
+双方根本不需要理由，只是需要支持者。
+
+因此，删除原答所有内容。
+
+对各位点过赞和评论过的朋友们，深表歉意。
+
+抱歉，浪费你们的时间了。
+    
+    
+    
+    
+### 知乎用户 刘昕凝 发表
+    
+他利益捆绑的太深了吧。
+
+正常人没了观众缘，张嘴就被骂，是不会想再发声的，不抑郁都很好了。
+
+只有需要恰饭的人才会顶着恶名继续挑动普通人的神经。
+
+换句话说，他真的把自己当网红了，吃的是流量饭，而不是真的认为自己还是个医生了。
+    
+    
+    
+    
+### 知乎用户 不要钱的鱼丸 发表
+    
+大威天龙，大罗法咒，般若诸佛，般若巴嘛轰。
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+    
+    
+    
+    
+### 知乎用户 HAODVT​ 发表
+    
+“先觉的人，历来总被阴险的小人昏庸的群众迫压排挤倾陷放逐杀戮。” 鲁迅
+    
+    
+    
+    
+### 知乎用户 关工 发表
+    
+岂止，复旦五虎又要开始巡演了
+    
+    
+    
+    
+### 知乎用户 尘言 发表
+    
+张明显高估了人民群众的接受水平。
+    
+    
+    
+    
+### 知乎用户 匿名用户 发表
+    
+张文宏倒了是一种不幸。从他的言论看，我定位他是实事求是的专业人士
+
+消声又出现说明上面的路线之争告一段落，强硬清零派在经济的压力下，复工，退位给共存派。他们虚假的健康码，阴性拉到方舱，单独报无症状感染者数量有掩盖确诊嫌疑，这些都不是实事求是的行为。
+
+尊重自然规律，正视病毒，理解人类的局限。共存不是我们人类的选择，是病毒的选择。
+
+——————————————————
+
+看了其他答案，有的说他引进辉瑞疫苗，辉瑞特效药说明张文宏从中获利。是汉奸走狗
+
+我觉得我们民族除了吃苦耐劳，另外一大优点是务实，什么有用就拿来用。辉瑞疫苗摩德纳阿斯利康，有用就该放开。特效药有用就引进，同理宫颈癌疫苗有用就该放开引进。
+
+就我看到的知乎其他答主贴的香港实验数据显示，辉瑞疫苗加强针效果是比科兴的好。但我理解并支持刚开始出于保护本地疫苗公司足够利润，培养起本地医药产业链，延迟引进。不过后面疫苗过剩就该放开竞争。现在看应该还是在等我们自己的特效药做出来，疫苗不引进我是没理解
+    
+    
+    
+    
+### 知乎用户 郝仁 发表
+    
+4 月、5 月的封控都是在给爱丁堡自己指挥的 3 月份极其失败的疫情防控还债。
+
+3 月份吴凡不封，文宏拐点这类误国误民的奇谈怪论言犹在耳，贻笑大方！3 月份由爱丁堡本地的专家或直接指导、或给到本地政府的间接建议，严重误导了大家对疫情的判断，让疫情肆意蔓延拖延到积重难返！
+
+这帮人靠边站还有什么好说的，居然还有脸出来。
+
+再说一遍，疫情防控学深圳广州，那才叫真正的动态清零！真正的防控、经济两不误。别学那些没能力只能摆烂的驴马烂！
+    
+    
+    
+    
+### 知乎用户 tom 发表
+    
+因为事实证明，像从前那样严防死守，对奥密克戎效果不大。
+
+张之前说对了。
+
+有人不信上海，
+
+在北面再证明了一遍，
+
+事实也是如此。
+
+！！！！！！！！！！！
+
+在这场月逾的风波中，
+
+很多人不过乘机浑水摸鱼发泄对上海的羡慕嫉妒恨，
+
+到头来发现，什么也没有改变，所以。。。
+    
+    
+    
+    
+### 知乎用户 小石头 发表
+    
+不管是网红也好，国士也罢，哪里说得不对可以指出来，拿出证据推翻他，但是，剥夺人说话的权利，或者扣帽子，搞人生攻击，这肯定是不对的。
+    
+    
+    
+    
+### 知乎用户 是日已过 发表
+    
+亏得是魔都，出了事大家还敢封一封。
+
+要是帝都由这批人指挥，出了事谁也不敢封，全国都得被迫共存。
+
+回过头来看，
+
+几百万老人在鬼门关前走了一圈。
+
+不要说什么路线之争，就算中央给了你共存试点的权，你们搞的假数字骗天下人 + 天价蔬菜整本地人也是中央授的权？？
+
+嘴上都是道义，实践全是生意。
+
+天下人不是瞎子。
+--------
+    
+    
+    
+    
+### 知乎用户 采臣老书生​ 发表
+    
+不能踏踏实实，好好给病人看病，就不是个好医生。
+
+这么大岁数还不懂进退，肯定最后没个好下场。
+    
+    
+    
+    
+### 知乎用户 leaffly 发表
+    
+张医生第一次火爆全网是在 2020 年 1 月 19 号一个内部视频被发到网上去，视频里张医生喊了党员先上，接着这个视频就在网上爆红了，2020 年 1 月 31 日，张医生就以上海救治专家组组长的头衔接受了央视的采访。
+
+张医生喊了党员先上，但是张医生从他喊出这口号到武汉解封，他一直没有去过湖北更没有去过当时疫情最厉害的武汉，也就是说没有真正支援过疫情一线。
+
+张医生充其量也就是奋斗在上海一线，而 2020 年一整年上海的新冠的累计本土病例 349 人，累计境外输入病例 1143 人。
+
+在上海此次爆发之前，虽然张医生没有亲历过疫情一线爆发的情况，没有经历过爆发后医疗挤兑的情况，但不知道为什么，那么多真正支援了湖北的医护专家大家都不信，就认定了张医生是最专业是真正为人民说话的。
+
+大家是如此的相信张医生，现在上海爆发了疫情，张医生真的可以实现当初喊党员先上的初心了，也可以在实战中完善提升自己的专业能力了。
+    
+    
+    
+    
+### 知乎用户 匿名用户 发表
+    
+无脑群众就跟着领导走就行了，不要自以为聪明的在那边揣测，真实的你们是什么也不懂。
+
+既不了解奥密克戎流行病学各项数据，诸如死亡率，所谓后遗症所谓其他各个方面。
+
+也不会了解 paxlovid 和连花清瘟两个药物的任何一个，也更不会懂什么是三期临床。
+
+也不会理解国家高层所做的任何一条处理。
+
+说句不好听的，毛主席的六一神州皆尧舜只是为了团结群众说的政治性话术。
+
+一个个外行把自己当专家在这指点江山，蠢的让人反胃
+    
+    
+    
+    
+### 知乎用户 吴大葱 2017 发表
+    
+上海现在一个大干部都没处理。对比下武汉，西安，郑州，吉林。嗨。[魔幻现实主义](https://www.zhihu.com/search?q=%E9%AD%94%E5%B9%BB%E7%8E%B0%E5%AE%9E%E4%B8%BB%E4%B9%89&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2469270806%7D)
+    
+    
+    
+    
+### 知乎用户 寒夜客 发表
+    
+因为张文宏三个字是流量魔咒啊，躺平派固然要拿他当大旗，清零派也要拿他祭旗。他该看病还是看病，抽空被官媒请教关于国外儿童不明原因肝炎的问题，略微说了几句专业的判断，结果继续被二极管们鞭尸。所以并不是张文宏想要频繁发声，而是自媒体缺少话题流量的又把他挖了出来。
+
+其实闹哄哄的这两派媒体没一个是听得懂人话的。
+
+如果卫健委让我出来给新冠表个态，我会怎么说？“这个病很严重，我们都没有经验，对老人尤其不好，如果没打过疫苗，遗嘱先写好免得子女打架，趁早买棺材寿衣预备着啊。” 是不是这样的发言才会得到拥护赞成？
+
+​人家说了 “共存有三个条件：R0 降到 1 以下，有效疫苗普遍接种，有特效药” “我们一定能战胜这个病毒，但是要走的路还很长” “迄今为止，这个病死率只有 0.0178%，死亡患者都没有接种疫苗，直接致死原因是基础疾病”。明明都是有特定条件的陈述或命题，都被砍头去尾，挑想听的听。断章取义，既不是文科生也不是理科生的毛病，是文革余孽的通病。
+    
+    
+    
+    
+### 知乎用户 oliver 发表
+    
+上海找不到第二个人了。
+
+随便找个学公共卫生的就那么难吗？
+    
+    
+    
+    
+### 知乎用户 用户没有名 发表
+    
+**张文宏碾压清零派，靠的是精深的造诣 深厚的科学素养 宽广的国际视野 流利的英文。**
+--------------------------------------------
+    
+    
+    
+    
+### 知乎用户 Lilium 发表
+    
+别的不说，看到有人说 “张伯礼叶财德指挥抗疫” 真是给我乐得不行。
+
+什么时候公共卫生轮到中医来指挥了？
+
+上海什么都没有只有连花清瘟怕不就是二位的杰作吧？
+    
+    
+    
+    
+### 知乎用户 活到宇宙重启 发表
+    
+肝胆科医生，和辉瑞肝胆相照。
+    
+    
+    
+    
+### 知乎用户 匿名用户 发表
+    
+其实在 sh 疫情前的一段时间，他为我们上过一节课。
+
+他说，我叫张文宏，很多人都叫我张网红，但我不是一个网红，是一名医生。
+
+那是一节专业性不强的课，只是简单的讲了讲传染病史，讲了讲新冠，讲了一些他的经历。
+
+始终觉得他讲的很真诚，很诚恳，很真实，并非为了利益那样做，也只字不提利益。
+
+其实已经记的不是很清楚了，但他最后给大家发了两本书，关于传染病的，然后他说他后面还有会，得先走了，看得出来他很急，外面一直有人找他，但他却还是百忙之中抽空给我们上这节根本不需要他亲自上的课。
+
+也许会有人觉得他不专业，发声是为了钱，甚至是和 xx 药利益相关… 但他敢于发声，敢于在只是一名普通医生时，就说出自己的想法，这又有多少人能做到呢？
+
+他的职务至今没变，在这风头浪尖，就算那么多人骂，依然没有人动他，甚至他依旧出来继续发声，那些骂的人发出的质疑，难道只有你能想到，zy 是不是一个个都很傻想不到啊？
+
+全世界就这些没根据在这骂的人聪明，zg 缺这一个专家？医学成就比他高的多着呢，缺的是这么一个发声的！也许他可以什么都不说，继续保持他的形象，但他至今还在说，人家是不是闲的慌非要站出来当靶子？
+
+那个 xx 利益… 啥啥证据没有，就你们猜的对（doge）
+
+每个评论区都无非骂那么几点的，挺没意思的，来点新的吧，不然没新意。
+
+（ps：本人非 fd）
+    
+    
+    
+    
+### 知乎用户 澎湃的海 发表
+    
+张文宏本来就是对的，你把哥白尼烧死了，难道地球就不绕着太阳转了？
+    
+    
+    
+    
+### 知乎用户 白羊射手 发表
+    
+非常符合支持张教授那一群上海人的气质
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+
+![](https://images.weserv.nl/?url=https%3A//pica.zhimg.com/v2-83f127bef0137463b162633b7db4ccc1_r.jpg%3Fsource%3D1940ef5c)
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+    
+    
+    
+    
+### 知乎用户 陌上人如玉 发表
+    
+说话巴巴的，尿炕哗哗的。
+    
+    
+    
+    
+### 知乎用户 黄佶 发表
+    
+张文宏再次发声，是人民群众的幸运。
+
+上海等地现在的做法是完全错误的。
+
+即使清零了，以后怎么办？上海不让外地人和外国人进来了？要来先隔离两个星期？上海抗疫失败，是因为病毒早已变了，但是仍然被迫使用两年前的老办法去抗疫。
+
+奥密克戎传染率高，说明非常难清零。奥密克戎毒性很低，说明根本没有必要清零。如果清零成本很低，那么清一下也无所谓。但是清零成本极高，而毒性很小，那就只能改弦易辙，放弃清零。两害相权取其轻。古人都知道。
+    
+    
+    
+    
+### 知乎用户 苏州律师杜哥​​ 发表
+    
+**墙倒众人推！**
+
+**这些推墙的人，算得上好汉吗？**
+
+**……**
+
+**网上一片骂声，好多帽子…… 说他是什么共存派、精致利己主义、x 瑞代言人，**
+
+**这些话，除了情绪发泄和扣帽子外，有任何实实在在的依据吗？他究竟说错了什么？做错了什么？**
+
+**在我国，每个地方的防疫措施，决定权都在地方领导，而不是任何一位技术专家。**
+
+**新闻发布会上的发言，更不是自己想说啥就能说的，**
+
+**防疫失败的锅，吴凡背不起，张网红也背不起！**
+    
+    
+    
+    
+### 知乎用户 玄月 发表
+    
+基本上埋头工作的，在如此危急的情况下，哪有时间动不动发个微博。
+    
+    
+    
+    
+### 知乎用户 千里一醉 发表
+    
+按照张网红的说法，不明儿童肝炎赖隔离，所以英国爆发的最厉害，说明英国隔离措施做的最彻底。
+
+真踏马是我 2022 年看到的最神的神逻辑！
+
+我上一次看到类似的神逻辑，还是 1450 说日军用杀光老百姓来威胁国军，所以国军为了老百姓不得不投降。
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+    
+    
+    
+    
+### 知乎用户 赵刚 发表
+    
+防疫究竟应该采取何种方法，这是个科学问题，现在病毒的传播速度已经比原始毒株提高了五倍，上海这次防疫成本要是少于 1000 亿我倒立吃米田共。人类是有极限的！这次英国新发现的毒株比奥密克戎的传播能力又加强了 20%。就算你天降猛男，打一个很轻松，打五个人惨胜，这波是六个，你还能保证打赢吗？看看今年的经济，你已经精疲力尽了。
+
+现在[张宏文](https://www.zhihu.com/search?q=%E5%BC%A0%E5%AE%8F%E6%96%87&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2468958777%7D)能够出来讲话，说明政府还保持着理智，还没有一味只讲大是大非。你真就偷着乐吧。
+    
+    
+    
+    
+### 知乎用户 天镜九州 发表
+    
+懒得回复了，有兴趣的可以去查一下张医生的微博以及知乎上的渔轮，什么时候他开始被骂的，以及当时他说了什么话，大致就可以明白他的言论伤到了谁的钱袋子。等到下半年防疫策略调整的时候，吃瓜群众自然会明白是怎么回事。
+
+* * *
+
+以下原贴：
+
+从网上对张文宏医生一边倒的骂声可以看出来，刻舟求剑式防疫，还将持续一段时间。毕竟，总有防疫既得利益集团和不明真相的吃瓜群众。
+
+我也不明真相，但张文宏的话，不说对错如何，至少有理有据，逻辑清晰，比那些动不动扣帽子喊口号的，高明不少。
+
+你要反驳的话，请摆事实讲道理，告诉大家张文宏的言论，哪些是不讲科学胡编乱造的，请举证。不要拿那些捕风捉影，有罪推定式的话来辩论，文革余孽吗？
+
+* * *
+
+很多人黑张文宏所说的上海 “拐点”，后面的疫情走势啪啪打他脸……
+
+是的，后面的疫情走势，我们不能讲四月份的疫情有很大程度上是仓促 “封城” 导致的感染者数量急剧上升…… 非要问的话，就去看看宣布鸳鸯封之前的大抢购以及初期全员核酸采样的诸多问题，但是这些推测没有实证，不多说了……
+
+我是想提醒一下不明真相的看客，请仔细去看一下他在发布会上的原话，以及当时上海的感染者数据，他的发言显然是一个根据当时数据的判断。再想想上海疾控有多少传染病专家，他敢乱说话吗？还当着全国直播说……？再者，他如果当时是乱说，现在怎么还能出来讲话？
+
+张的问题有很多。他不支持全员核酸，不支持不过日子只抗疫，没有力挺中医药，还反复点出疫苗在香港的真实数据。他近期言论里面任何一个论调，都伤及了防疫既得利益者的钱包，他是一个威胁。
+
+而这样一个被包装成美国药托，极不靠谱的传染科医生，在一月份就提醒大家，做好疫情爆发的准备…… 他是嗅到什么问题了吗？
+    
+    
+    
+    
+### 知乎用户 品牌节度使​ 发表
+    
+汉奸开始跳出来摇旗呐喊，说明我们正在走向胜利。
+    
+    
+    
+    
+### 知乎用户 KAI​ 发表
+    
+上海防疫的溃败，张文宏们可谓是罪魁祸首，欺上瞒下，到今天还认识不到自己的错误，还出来胡说八道，不清算是说不过去的。
+    
+    
+    
+    
+### 知乎用户 北极熊 发表
+    
+外宾这么多，请问在越南，专家想发声就能发声吗？想说什么就能说什么吗？想在哪个平台说就能在哪个平台说吗？
+
+张文宏和[梁万年](https://www.zhihu.com/search?q=%E6%A2%81%E4%B8%87%E5%B9%B4&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2468703873%7D)吴尊友张伯礼，谁更有可信度，谁更讲道理，谁更尊重科学？
+
+就算梁万年吴尊友张伯礼掌握了宇宙真理，也得允许专家有不同意见不是！
+    
+    
+    
+    
+### 知乎用户 陵南皮皮侠 发表
+    
+怕背锅呗。毕竟，他是被共存派推到最前台的。
+    
+    
+    
+    
+### 知乎用户 澹滕 发表
+    
+如果他参与了上海防疫指导工作，那他就必须为上海这次影响整个国家的防疫崩溃负责
+
+如果他没参与，为什么可以享受如此多的殊荣，获得如此多的赞誉？
+    
+    
+    
+    
+### 知乎用户 大可 Duck 发表
+    
+可能是因为有一个人被封了吧。
+    
+    
+    
+    
+### 知乎用户 一步一缘法 发表
+    
+说一个现象：好像不怎么见到[张文宏](https://www.zhihu.com/search?q=%E5%BC%A0%E6%96%87%E5%AE%8F&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2469190871%7D)正襟危坐，不是摊着就是跷二郎腿。
+
+别急着喷我死板，灯塔标杆福奇博士坐的就很端正啊。
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+
+这是百度图片自动给的结果排序，自行品鉴。
+    
+    
+    
+    
+### 知乎用户 草根抗癌 发表
+    
+他这个行政级别能不能讲话，让不让讲话，大家还不知道原因吗？
+    
+    
+    
+    
+### 知乎用户 不务正业​ 发表
+    
+他是全国排名第一传染科主任，外行怎么评价？借用郭德纲说的我去说造原子弹的专家，但凡专家看我一眼，他都输。
+    
+    
+    
+    
+### 知乎用户 商淌 发表
+    
+看了问题下的各种阴谋论的答复，只能叹息一声，在国内要坚持科学，真难。。。医生能治病，却无法治心。
+    
+    
+    
+    
+### 知乎用户 ADDDSSDSX628​ 发表
+    
+2021 年，车祸死亡人数 6.5 万人，除以全国人口就是：十万分之四
+
+新冠多少？千分之七，这俩差距：152 倍
+
+只要敢共存，新冠一年刷出来千万级别的死亡轻而易举
+    
+    
+    
+    
+### 知乎用户 咪哩喵 发表
+    
+反正个个都比专家懂疫情，每个人都能预测对疫情走向，除了专家的话不能听，自己怎么说都是对的。专家说的预测只要但凡有一点与事实有差异就是网红医生，自己说的但凡能通过各种方式曲解得能沾上一点边那自己就是对的，各位大聪明真高啊！
+    
+    
+    
+    
+### 知乎用户 指给我敌人在哪里 发表
+    
+看他的预测和现实的区别，看他公众号一套，讲座一套，这个人什么水平，还有什么值得讨论的吗。我只庆幸生活在没有他的城市，不遭他预测的罪，不遭他共存的罪，极少部分当地人被他带节奏任着性子乱跑，在朋友圈把他当神拜，简直毒瘤，科学是靠迷信拜神拜出来的吗？实践是检验真理的唯一标准。
+    
+    
+    
+    
+### 知乎用户 安培 发表
+    
+以前看历史书的时候，很多小人见风使舵，心中颇为不齿。现在长大了，才明白，能见风使舵也是要有本事的。多的是蠢到连见风使舵都不会，皮痒爱蹦跶的!
+
+继续吹吧，继续共存!
+    
+    
+    
+    
+### 知乎用户  施学研 发表
+    
+因为再支付了巨大代价后，证明另一派的做法无法持续下去。
+
+需要他出来。
+
+政治就是这样，需要你的时候你是小甜甜，不需要你的时候你就是牛夫人。
+    
+    
+    
+    
+### 知乎用户 丶青峰​ 发表
+    
+反动势力不根除
+
+随时可以借着疫情卷土重来
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+    
+    
+    
+    
+### 知乎用户 破道之白雷​ 发表
+    
+怎么感觉像黑他一轮以后。
+
+对面又要针对[张作](https://www.zhihu.com/search?q=%E5%BC%A0%E4%BD%9C&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2469077431%7D)新一轮舆论攻势。
+    
+    
+    
+    
+### 知乎用户 谢妖 发表
+    
+b 站上的小娘们又唱又跳
+
+还穿暴露的衣服给屌丝看
+
+是因为她们真的喜欢给看吗
+
+不就是为了挣钱吗
+    
+    
+    
+    
+### 知乎用户 风尘仆仆 发表
+    
+已对此人出现生理性不适，我预估接下来会有死亡家属去他的办公室扔鸡蛋
+    
+    
+    
+    
+### 知乎用户 牧羊 发表
+    
+不太清楚，他是怎么得出新型肝炎与新冠肺炎无关的结论？
+
+看新闻报到，貌似还没有任何国家能证明无关吧？
+
+希望肝病专家在自己拿手的领域不要口嗨！
+    
+    
+    
+    
+### 知乎用户 两个苹果 发表
+    
+医学专家讲经济……
+    
+    
+    
+    
+### 知乎用户  老好已疯 发表
+    
+有必要拜个把子了。
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+    
+    
+    
+    
+### 知乎用户 匿名用户 发表
+    
+他跟丁香医生一样，代表的某些资本的喉舌
+    
+    
+    
+    
+### 知乎用户 缪缪​ 发表
+    
+这个大号养起来不容易，搞成这样，硬着头皮也要上，聊胜于无罢了。
+    
+    
+    
+    
+### 知乎用户 迷糊 发表
+    
+这个提问下面，蛮搞笑的。
+
+张文宏，他在上海工作。
+
+骂张的人，基本都是外地的（感谢显示 ip）；说张是买办；挺连花清瘟。
+
+挺张的人，很多是上海本地人；期望放开；黑连花清瘟。
+    
+    
+    
+    
+### 知乎用户 何圆圆 发表
+    
+这样的骗子受追捧，是傻子太多，还是没良心的太多。
+    
+    
+    
+    
+### 知乎用户 契卡实习生 发表
+    
+什么时候这货被抓了，上海才有可能好转
+    
+    
+    
+    
+### 知乎用户 风中奇缘 发表
+    
+张文宏走在上海街头，会不会有上海人民抽它？或者朝它扔臭鸡蛋什么的
+    
+    
+    
+    
+### 知乎用户  kensantsang 发表
+    
+身不由己，舆论武器。
+
+早就料到了，也只能说明，开放在即了。
+
+看看 29 号的新华社通稿，再结合现在的经济发展，应该就能明白了！
+
+知乎上无脑儿也这么多？
+    
+    
+    
+    
+### 知乎用户 思乡之风​ 发表
+    
+这告诉我们几件事：
+
+1、术业有专攻，肝病传染临床专家不要擅自指点呼吸传染病领域
+
+2、就算是专家，也不能乱说话，要负责的，当然，脸皮够厚的除外
+
+3、人怕红，红了后容易飘，飘了后，言多必失
+
+4、堂堂正正做人的重要性
+    
+    
+    
+    
+### 知乎用户  BEAUTYCHINA​ 发表
+    
+清零没错，共存也没错，动态清零并不是完全消灭病毒。共存并不是当下不管。其实几个专家观点都相互认的，只有一堆外行强行自己理解
+    
+    
+    
+    
+### 知乎用户 匿名人士 发表
+    
+跳梁小丑
+    
+    
+    
+    
+### 知乎用户  dingding 发表
+    
+准备下山摘桃子了。
+    
+    
+    
+    
+### 知乎用户 大是大非不用脑 发表
+    
+若干年后，张医生会被 “平反”，得到公众的认可，但下面众多的键盘侠，会说医生“抱歉” 吗？
+
+我个人对此表示悲观，当年哪些用皮带抽自己老师的红 wb，大部分都是说当面自己如何身不由己，强调客观原因，从来没有真正反思过。
+    
+    
+    
+    
+### 知乎用户 匿名用户 发表
+    
+围猎上海这一战，极为立体精彩，配合严丝合缝，令人拍案叫绝.
+
+“事了拂衣去，深藏功与名”，高阶的策划与智慧.
+
+杀人不过点头地，既然已攻城掠地得偿所愿，让你[张文宏](https://www.zhihu.com/search?q=%E5%BC%A0%E6%96%87%E5%AE%8F&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2465768527%7D)说几句又如何呢？要的是不动声色的实惠！完事了让你说两句这才是高阶！何况你只是一个手下败将而已...
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+    
+    
+    
+    
+### 知乎用户  朋友一生一起走 发表
+    
+上海再这样下去都快清零了，好不容易放的毒都没用了，网红心里急啊，找机会也要窜出来讲胡话，最后挣扎一下，还想用舆论来倒逼中央改政策
+    
+    
+    
+    
+### 知乎用户 陈琦 发表
+    
+脸皮比防护服还厚。
+
+世界名画——《张网红看望重症转阴患者》
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+
+![](https://images.weserv.nl/?url=https%3A//pica.zhimg.com/v2-6281e4843e6dd1b4792050bce492ab74_r.jpg%3Fsource%3D1940ef5c)
+    
+    
+    
+    
+### 知乎用户 星期天 发表
+    
+台湾省正在进行共存试验，希望大家关注
+
+[https://www.zhihu.com/question/530905994](https://www.zhihu.com/question/530905994)
+    
+    
+    
+    
+### 知乎用户  嘿嘿嘿 发表
+    
+他最好不要让我在路上碰到。
+
+！！懂了，为什么他破坏防疫，是要把人锁家里，防止遇到他啊。
+    
+    
+    
+    
+### 知乎用户 公主上的豌豆 发表
+    
+之前看风头不好，躲躲
+
+现在看问题不大，出来继续刷脸
+
+风头不好的时候 run 海南，还不如呆在医院岗位上呢
+
+护体神光已无
+    
+    
+    
+    
+### 知乎用户 因特纳雄奈尔 发表
+    
+敢说真话，不怕报复，尤其在王思聪被删号以后。
+
+横眉冷对千夫指，张医生真英雄
+    
+    
+    
+    
+### 知乎用户 尼尼微王子 发表
+    
+来擦屁股了
+    
+    
+    
+    
+### 知乎用户  Weryiqi 发表
+    
+所有把西方头衔看的比较重的各个行业的人都不值的信任，这些人太好骗了。
+    
+    
+    
+    
+### 知乎用户 柴布多德勒​ 发表
+    
+专业的事情应该让专业的人去做。
+
+上海疫情的问题还是要让纪委的同志们出面。
+    
+    
+    
+    
+### 知乎用户 不败小熊 发表
+    
+有人让他说话，他才能说话。
+    
+    
+    
+    
+### 知乎用户 NULL 发表
+    
+无非是看到疫情快要结束了，想出来刷存在感呗，张指导和吴参谋就是部分咖啡市人傲慢和精致利己的集中体现！
+    
+    
+    
+    
+### 知乎用户 愿我如星 发表
+    
+删评论，拉黑，立场先行，不管是否真的科学，只要不合你意就不予讨论。
+
+这就是你代表的 “科学”？
+
+[@路人戊]()
+
+你们不是要 “共存”，你们要的是 “投降”。
+
+我把之前的评论放在这，不服憋着。
+
+自有现代医学以来，人类一直都是以防控手段和传染病共存。
+
+不然凭什么伤寒玛丽要被关一辈子？
+
+不然凭什么 1918 美国流感，哪怕侵害公民权利也要实行严格的防控措施？
+
+凭什么到现在 “共存” 就被你们扭曲成了 “投降” 的代名词？
+
+什么是科学？使用科学手段面对传染病，面对病毒，科学从来不主张向病毒 “投降”。
+
+科学不是你们投降的借口，也不是你们投降的工具！
+
+既然你觉得自己代表科学，那何必使用极端化的方式描述后遗症，使用[归谬法](https://www.zhihu.com/search?q=%E5%BD%92%E8%B0%AC%E6%B3%95&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2466565101%7D)的诡辩逻辑反对防控。
+
+新冠后遗症的论文一搜一大把，文献可没有这么极端妖魔化后遗症，没有你们说的那么荒谬。
+
+既然你要代表 “科学”，想必读论文是基本功。
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+    
+    
+    
+    
+### 知乎用户 柠檬薄荷 发表
+    
+爆笑如雷了家人们
+    
+    
+    
+    
+### 知乎用户 随风 2223 发表
+    
+这货走上神坛的套路和当年马某一模一样
+    
+    
+    
+    
+### 知乎用户  mida pedo 发表
+    
+目前改善死亡率的几个关键因素
+
+1\. 老年人基础病患者的疫苗接种率（停滞）
+
+2.paxlovid v117 等小分子药物储量（进度感人）
+
+3\. 传说中的大规模施打 omicron 加强针（预估在 9 月份才有可能）
+
+4\. 新冠重症临时医院建立与扩建（进度感人）
+
+在全面开放时期方舱（作用是隔离无症状患者）并没有什么用，但是方舱是目前唯一有点进度的（也没有很多）
+
+最后一个有进度的，核酸混检 48h 测一次，几乎挤占了目前的全部资源，不可持续
+
+综上所述，目前的策略只有在遇到少量病例时马上封城，强行封（面对麻疹级别传染性的呼吸道传染病的近乎唯一解）
+
+终止条件：财政状况无法继续支持 / 封不住病毒大规模爆发或两者同时发生
+
+想不出这种策略有什么不失败的可能
+    
+    
+    
+    
+### 知乎用户 酥油饼干 发表
+    
+听专家的不要听砖家的。就够了。
+    
+    
+    
+    
+### 知乎用户 匿名用户 发表
+    
+背后有推手，我说他里通外国不为过。背后有一只无形的大手。国贼
+    
+    
+    
+    
+### 知乎用户 高中生 发表
+    
+又要玩克段于沪的戏？
+    
+    
+    
+    
+### 知乎用户 刘靠谱 发表
+    
+抖音、百度贴吧等平台一旦出现网红医生的新闻，下面评论区依旧是感恩戴德歌舞升平
+
+共产主义
+
+任重而道远
+    
+    
+    
+    
+### 知乎用户 方觉夏​ 发表
+    
+解释解释什么是恶心？
+    
+    
+    
+    
+### 知乎用户 亲爱的美美 发表
+    
+准备摘桃子了。
+    
+    
+    
+    
+### 知乎用户 l 老虎 发表
+    
+每个人都有表达自己观点的权利，防疫政策他做不了主，但他基于自己专业范围内的表述都是对的，不知道为什么这么多人要骂他，好奇怪！
+    
+    
+    
+    
+### 知乎用户 李月亭​ 发表
+    
+我感到有点反胃。
+
+一个在职博士，好吧，我不说啥，知道内情的人都懂在职博士怎么读的。在职也就算了，论文大面积抄袭。竟然啥事没有！
+
+对于一个博士，被人扒出论文造假，那是奇耻大辱。他的脸皮也真是够厚，他的粉丝也真是够反智。从来没有去前线，微博叭叭两句，反倒成了抗疫第一人。网上无数人痛骂，也能视而不见。正常人早就躲起来了。在他身上没有看到一丝的羞耻之心，真不知道哪里有脸出来指点江山的。
+
+一个学者，特别是自己的毕业论文，被人扒出如此造假，竟然还在大庭广众之下夸夸其谈。我实在感到反胃、无语。他说的话，我一句也不信，因为他从头到尾就没有表现出任何权威性，拿不出任何一个令我佩服的点。
+    
+    
+    
+    
+### 知乎用户 德米安 发表
+    
+怎么就抢功了，上海疫情都这样了，抢个鸡毛啊，唯一好看的数据是死亡率很低，趋近于流感了
+    
+    
+    
+    
+### 知乎用户  11111 噼噼啪啪 发表
+    
+解释清楚拐点没？什么叫做指数打断？出来继续当网红
+    
+    
+    
+    
+### 知乎用户  eternalinterest 发表
+    
+网红药代不天天跳出来逼逼怎么当网红药代？
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACbklEQVRoQ+2aMU4dMRCGZw6RC1CSSyQdLZJtKQ2REgoiRIpQkCYClCYpkgIESQFIpIlkW+IIcIC0gUNwiEFGz+hlmbG9b1nesvGW++zxfP7H4/H6IYzkwZFwQAUZmpJVkSeniFJKA8ASIi7MyfkrRPxjrT1JjZ8MLaXUDiJuzwngn2GJaNd7vyP5IoIYY94Q0fEQIKIPRGS8947zSQTRWh8CwLuBgZx479+2BTkHgBdDAgGAC+fcywoyIFWqInWN9BSONbTmFVp/AeA5o+rjKRJ2XwBYRsRXM4ZXgAg2LAPzOCDTJYQx5pSIVlrC3EI45y611osMTHuQUPUiYpiVooerg7TWRwDAlhSM0TuI+BsD0x4kGCuFSRVzSqkfiLiWmY17EALMbCAlMCmI6IwxZo+INgQYEYKBuW5da00PKikjhNNiiPGm01rrbwDwofGehQjjNcv1SZgddALhlJEgwgJFxDNr7acmjFLqCyJuTd6LEGFttpmkYC91Hrk3s1GZFERMmUT01Xv/sQljjPlMRMsxO6WULwnb2D8FEs4j680wScjO5f3vzrlNJszESWq2LYXJgTzjZm56MCHf3zVBxH1r7ftU1splxxKYHEgoUUpTo+grEf303rPH5hxENJqDKQEJtko2q9zGeeycWy3JhpKhWT8+NM/sufIhBwKI+Mta+7pkfxKMtd8Qtdbcx4dUQZcFCQ2I6DcAnLUpf6YMPxhIDDOuxC4C6djoQUE6+tKpewWZ1wlRkq0qUhXptKTlzv93aI3jWmE0Fz2TeujpX73F9TaKy9CeMk8vZusfBnqZ1g5GqyIdJq+XrqNR5AahKr9CCcxGSwAAAABJRU5ErkJggg==)
+    
+    
+    
+    
+### 知乎用户 依味秀 发表
+    
+恣意发声是张网红的性格标签，很正常嘛！
+
+中国外交部军控司官方账号：勿吃辉瑞 paxlovid 预防新冠。抗疫网红张文宏，您怎么看？ ​​​
+
+张文宏：等等，等我编好了就扯！
+
+☞张网红曾经抖机灵的公开表述：关于选择国产汽车还是进口汽车，你们都能够鉴别。可为什么一谈到疫苗，你们就不能鉴别了？
+
+☞依味秀没想到张网红竟然是如此的鄙陋不堪！这好比问 “当代中国和美国哪个强？”，答案不言自明是美国！但当今中国选择自己的政治制度之时就要挺霉顺霉？
+    
+    
+    
+    
+### 知乎用户 Erwin114 发表
+    
+因为反应不大嘛，总要再火力侦察一波
+    
+    
+    
+    
+### 知乎用户 我系凯尔文​ 发表
+    
+显示 IP 太好了，才能真正看到什么叫云评测。
+
+高赞居然没有一个上海 IP，没有当事方参与的云评测。
+    
+    
+    
+    
+### 知乎用户 豌豆荚 发表
+    
+此心光明，又复何言
+    
+    
+    
+    
+### 知乎用户 天宇树莱 发表
+    
+因为不明原因肝病点到他爽点了
+    
+    
+    
+    
+### 知乎用户 青霄踏斗 发表
+    
+建议在上海敌占区的同胞组成文宏仇杀队，替天行道！
+    
+    
+    
+    
+### 知乎用户 朴德猛老元帅 发表
+    
+说明上面也明白了，只靠无良之辈假行家溜须拍马是搞不定的。
+    
+    
+    
+    
+### 知乎用户 柠檬弹珠 发表
+    
+他至少是个医生，比我懂得多
+    
+    
+    
+    
+### 知乎用户 空空 发表
+    
+如果好人能分三六九等
+
+那他顶多算二等
+
+还有个二等半，清温胶囊老爷子
+    
+    
+    
+    
+### 知乎用户 有希望才有未来 发表
+    
+妈蛋，连邬主任的头疼都好了
+    
+    
+    
+    
+### 知乎用户 个人子料编辑 发表
+    
+这是他的问题么？这是沪媒的吧。看看国足，也就京媒有一战之力，其他无半合之将
+    
+    
+    
+    
+### 知乎用户 诺曼地豆腐 发表
+    
+他是谁？
+
+关于疫情的新闻
+
+我只看新华社和世界卫生组织
+    
+    
+    
+    
+### 知乎用户 高峰冷低处寒 发表
+    
+上海人和国外做生意，得好说话，换这边敢这样可以吃席了。
+    
+    
+    
+
