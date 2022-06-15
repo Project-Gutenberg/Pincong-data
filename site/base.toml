@@ -66,6 +66,11 @@ URL = "https://bit.ly/2HrxEi0"
 name = "Telegram"
 weight = 1
 
+[[menu.main]]
+URL = "https://twitter.com/speechfree3"
+name = "Twitter"
+weight = 1
+
 # [[menu.main]]
 # URL = "link"
 # name = "反送中相关网站"
