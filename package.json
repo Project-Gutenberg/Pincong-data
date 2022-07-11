@@ -61,7 +61,7 @@
         "react-dom": "^16.8.6",
         "rimraf": "^2.6.2",
         "sass-loader": "^7.1.0",
-        "style-loader": "^1.0.0",
+        "style-loader": "^2.0.0",
         "terser-webpack-plugin": "^4.2.3",
         "to-string-loader": "^1.2.0",
         "url-loader": "^2.1.0",
