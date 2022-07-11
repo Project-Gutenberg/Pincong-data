@@ -59,7 +59,7 @@
         "postcss-preset-env": "^6.3.0",
         "react": "^16.14.0",
         "react-dom": "^16.14.0",
-        "rimraf": "^2.6.2",
+        "rimraf": "^3.0.2",
         "sass-loader": "^7.1.0",
         "style-loader": "^2.0.0",
         "terser-webpack-plugin": "^4.2.3",
