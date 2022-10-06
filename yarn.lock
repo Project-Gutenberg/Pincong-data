@@ -5850,10 +5850,10 @@ https-proxy-agent@^5.0.0:
     agent-base "6"
     debug "4"
 
-hugo-bin@^0.92.2:
-  version "0.92.2"
-  resolved "https://registry.yarnpkg.com/hugo-bin/-/hugo-bin-0.92.2.tgz#84acb7df09f4d25814f5071d100d4fb99b06cc0f"
-  integrity sha512-1C5NfDinq5C/NFNkj9ZMFb5z0h3R7gN9C8Lx0Vv+1Xtfi72RyteeiGZA82eLr6pbHfL3coBO7Rq9MW3pHtC5mg==
+hugo-bin@^0.92.3:
+  version "0.92.3"
+  resolved "https://registry.yarnpkg.com/hugo-bin/-/hugo-bin-0.92.3.tgz#512b4bf616df5dd2dbba3907aed568dfbb896965"
+  integrity sha512-gM121hh7C5ZXRNITQdk/rPWeZ7eh0PqQAVjebQ7uA5eu/Xbk8YH6bsq8A11T3po+RmzCkeh178eJkXiRDRScag==
   dependencies:
     bin-wrapper "^4.1.0"
     picocolors "^1.0.0"
