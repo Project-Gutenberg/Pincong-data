@@ -40,7 +40,7 @@
         "cross-env": "^7.0.3",
         "css-loader": "^5.2.7",
         "date-fns": "^2.29.3",
-        "eslint": "^8.24.0",
+        "eslint": "^8.25.0",
         "eslint-plugin-import": "^2.26.0",
         "exports-loader": "^1.1.1",
         "fancy-log": "^2.0.0",
