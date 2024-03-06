@@ -7,6 +7,7 @@ title = "品葱*精选"
 author = "品葱*精选"
 description = "在自由的阳光下各抒己见"
 theme = "northendlab"
+timeout = 300
 googleAnalitycsID = "UA-151212685-6"
 copyright = "Copyright © 品葱*精选"
 enableRobotsTXT = true
