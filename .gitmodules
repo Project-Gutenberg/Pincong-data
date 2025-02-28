@@ -1,0 +1,3 @@
+[submodule "site/themes/northendlab"]
+	path = site/themes/northendlab
+	url = git@github.com:themefisher/northendlab-hugo.git

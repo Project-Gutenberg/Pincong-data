@@ -1,0 +1,10 @@
+<div class="card">
+  <div class="card-content">
+    <h1 class="title is-5">Author</h1>
+    <div class="tags">
+      {{ range $name, $taxonomy := .Site.Taxonomies.author }}
+      <span class="tag"><a href="{{ "author" | absURL }}/{{ $name | urlize }}">{{ $name }}({{ len .Pages }}) </a></span>
+      {{ end }}
+    </div>
+  </div>
+</div>

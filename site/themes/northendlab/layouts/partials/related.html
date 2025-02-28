@@ -1,0 +1,23 @@
+<h3>See Also</h3>
+
+<div class="container">
+    <div class="row">
+        <div class=" mx-auto px-0">
+            {{$title := .Title | urlize }}
+            <div class="bg-white shadow block">
+                {{ $related := .Site.RegularPages.Related . | first 5 }}
+                {{ with $related }}
+                {{ range . }}
+                <article class="mb-5">
+                    <h2 class="h5"><a class="text-dark"
+                            href="{{ .Permalink }}?utm_source=see_also&utm_medium={{ $title }}">{{ .Title | markdownify }}</a>
+                    </h2>
+                    <p class="text-dark">{{.Summary | truncate 120 }}</p>
+                </article>
+                {{end}}
+                {{end}}
+            </div>
+        </div>
+    </div>
+</div>
+</div>
